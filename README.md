@@ -1,5 +1,5 @@
 # essential-cardano
-Welcome to [the Essential Cardano list](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md), a comprehensive collection of [Essential Resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources) to help you learn more about Cardano. Whether you want to understand what Cardano is, learn about our mission and roadmap, or get stuck in and build on Cardano, this is the place to start. 
+Welcome to [the Essential Cardano list](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md), a comprehensive collection of [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md) to help you learn more about Cardano. Whether you want to understand what Cardano is, learn about our mission and roadmap, or get stuck in and build on Cardano, this is the place to start. 
 
 The essential Cardano list is designed to be a central library of materials, a one stop shop where you can find various resources for Cardano. This list includes official resources and community-generated materials. 
 
