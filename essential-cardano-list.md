@@ -286,7 +286,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 
-
 ## Exploring stake pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
@@ -301,7 +300,9 @@ You can also explore stake pools using these tools:
 
 ## 🥁 Stake pool operators 🥁 ##
 Here is a list of active stake pool operators:
-- []()
+- [Alliance](https://alliancestakepools.online/)
+- [Queen Ada](https://alliancestakepools.online/)
+- [Kiwi](https://www.kiwipool.org/)
 
 ## Ada calculators ##
 - [ada calculator](https://adacalculator.com/)
