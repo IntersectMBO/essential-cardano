@@ -76,13 +76,6 @@ Tools to help you build on Cardano:
 - [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
 - [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
 
-## 🧑‍🏫 Community Training 🧑‍🏫 ##
-- [Lovelace academy](https://lovelace.academy/)
-
-## 📹 Community Videos 📹 ##
-- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
-- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
-
 ## Other Community Resources ##
 - [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
@@ -108,6 +101,13 @@ Tools to help you build on Cardano:
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
 - [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+
+## 🧑‍🏫 Community Training 🧑‍🏫 ##
+- [Lovelace academy](https://lovelace.academy/)
+
+## 📹 Community Videos 📹 ##
+- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
+- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
 
 ## 👛 Wallet Resources 👛 ##
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
