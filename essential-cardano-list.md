@@ -308,4 +308,5 @@ Here is a list of active stake pool operators:
 
 ## Other IOHK solutions ##
 - [Mantis](https://mantisclient.io/)
+- [AtalaPrism](https://www.atalaprism.io/)
 
