@@ -6,7 +6,7 @@ The essential Cardano list is designed to be a central library of materials, a o
 This is an open source repository that is initiated and overseen by myself [Niamh Ahern](https://iohk.io/en/team/niamh-ahern), [Ben O'Hanlon](https://iohk.io/en/team/ben-ohanlon), and [Tim Harrison](https://iohk.io/en/team/tim-harrison), all at IO Global. Please do not reproduce this list, but we encourage you to contribute and help us evolve it. 
 
 ## Want to contribute? ##
-We would love to hear your suggestions and ideas on what else we could include and how we can grow this list. Please get in touch with us and raise a PR with new suggestions and additions to enhance our list and we will be in touch.
+We would love to hear your suggestions and ideas on what else we could include and how we can grow this list. Please get in touch with us and raise a PR with new suggestions and additions to enhance our list and we provide our feedback on the pull requests.
 
    ‘*One list to rule them all...*’
 
