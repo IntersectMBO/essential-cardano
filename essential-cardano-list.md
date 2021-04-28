@@ -55,7 +55,7 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
 - [Konfidio](https://konfidio.com/)
-- FiveBinaries
+- [FiveBinaries](https://fivebinaries.com/)
 - [Runtime Verification](https://runtimeverification.com/)
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
@@ -78,8 +78,8 @@ Here is a map of our vibrant ecosystem (April 2021):
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
-- IOHK Atala Trace
-- IOHK Atala Scan
+- [IOHK Atala Trace](https://iohk.io/enterprise/)
+- [IOHK Atala Scan](https://iohk.io/enterprise/)
 - [EMURGO Traceability](https://emurgo.io/our-products#emurgo-traceability)
 
 ### Deployments ###
@@ -191,20 +191,24 @@ These materials have been produced by the Plutus Pioneer course participants:
 ## Research and Education ##
 
 ### Standards/Consortia ###
-- []()
+- [Hyperledger](Hyperledger)
+- [Alpha Frontier ]()
+- [Berkman Klein Center](https://cyber.harvard.edu/)
+- [IBM Research](https://www.research.ibm.com/)
+- [Priveledge](https://priviledge-project.eu/about)
 
 ### Top Tier Research Conferences ###
-- [ACM Sigsac]
-- [IEEE]
-- [NDSS]
-- [Soda]
-- [Esorics]
-- [Eurocrypt]
-- [Euro S&P]
-- [Crypto]
-- [S&P]
-- [ICDCS]
-- [Financial Cryptography]
+- [ACM Sigsac](https://www.sigsac.org/)
+- [IEEE](https://www.ieee.org/)
+- [NDSS](https://www.ndss-symposium.org/)
+- [Soda](https://dl.acm.org/conference/soda)
+- [Esorics](http://conf.laas.fr/esorics/)
+- [Eurocrypt](https://eurocrypt.iacr.org/2021/)
+- [Euro S&P](http://www.ieee-security.org/TC/EuroSP2021/)
+- [Crypto](https://crypto.iacr.org/2021/)
+- [S&P](https://www.ieee-security.org/TC/SP2021/cfpapers.html)
+- [ICDCS](https://icdcs2021.us/)
+- [Financial Cryptography](https://fc21.ifca.ai/index.php)
 
 ### Blockchain Labs and Education Institutions ###
 - [The University of Edinburgh](https://www.ed.ac.uk/)
@@ -243,9 +247,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 ## Infrastructure & Security ##
 
 ### Audits ###
-- [Quantstamp]
-- [FP Complete]
-- [R9B]
+- [Quantstamp](https://quantstamp.com/)
+- [FP Complete](https://www.fpcomplete.com/)
+- [R9B](https://www.cybersecurityintelligence.com/root9b-r9b-6089.html)
 - [Nagra]
 
 ### Ouroboros Consensus ###
