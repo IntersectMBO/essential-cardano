@@ -202,7 +202,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Standards/Consortia ###
 - [Hyperledger](Hyperledger)
-- [Alpha Frontier ]()
+- Alpha Frontier
 - [Berkman Klein Center](https://cyber.harvard.edu/)
 - [IBM Research](https://www.research.ibm.com/)
 - [Priveledge](https://priviledge-project.eu/about)
@@ -240,13 +240,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Frankfurt Business School](https://www.frankfurt-school.deitis]())
 - [University of Mauritius](https://www.uom.ac.mu/)
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
-
-### Standards/Certification/Consortia ###
-- [Hyperledger](https://www.hyperledger.org/)
-- [Alpha Frontier]
-- [Berkman Klein Center](https://cyber.harvard.edu/)
-- [IBM Research](https://www.research.ibm.com/)
-- [Priveledge](https://priviledge-project.eu/about)
 
 ## Payments ##
 - [Coti](coti.io)
