@@ -97,7 +97,7 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [BeefChain](https://beefchain.com/)
 - [Scantrust](https://www.scantrust.com/)
 - [Blue Korintji Coffee](https://www.bluekorintji.com/)
-- [Alko Coffee]
+- Alko Coffee
 
 ### DeFi and Capital Markets ###
 - [Celsius](https://celsius.network/)
@@ -110,7 +110,7 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [Ethiopia](https://pmo.gov.et/)
 - [Wyoming](http://www.wyo.gov/)
 - [Georgia](http://gov.ge/index.php?lang_id=ENG)
-- [Mongolia]
+- Mongolia
 
 ### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
