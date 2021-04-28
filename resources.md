@@ -2,7 +2,7 @@
 
 Here is our essential list of Cardano resources. 
 
-### 🧙 IO Global Official Resources 🧙 ###
+## 🧙 IO Global Official Resources 🧙 ##
 - [Cardano official website](https://cardano.org/)
 - [Cardano Documentation](https://docs.cardano.org/en/latest/#)
 - [Cardano Developers](https://developers.cardano.org/)
@@ -32,7 +32,7 @@ Here is our essential list of Cardano resources.
 - [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
 
-### 🥑 Supporting Developer Resources 🥑 ###
+## 🥑 Supporting Developer Resources 🥑 ##
 - [Cardano Official Telegram](https://t.me/cardano)
 - [Cardano Announcements Telegram](https://t.me/CardanoAnnouncements)
 - [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
@@ -59,7 +59,7 @@ Here is our essential list of Cardano resources.
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 
-### Builder Tools ###
+## Builder Tools ##
 Tools to help you build on Cardano:
 - [Block Frost](https://blockfrost.io/)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
