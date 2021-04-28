@@ -5,13 +5,14 @@ The essential Cardano list provides an outline and accompanying map of the Carda
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
 Here is an outline of the categories:
+- [Navigate the Cardano Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [Enterprise & Business Ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#enterprise--business-ecosystem)
 - [Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#startups)
 - [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
-- [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
 - [Layer 2 Solutions](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#layer-2-solutions)
+- [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
 - [DeFi and Capital Markets](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Governments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#governments)
 - [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
@@ -75,10 +76,10 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [Obsidian](https://www.obsidians.io/)
 
 ### Layer 2 Solutions ###
-- IOHK Atala Prism
+- [IOHK Atala Prism](https://www.atalaprism.io/)
 - IOHK Atala Trace
 - IOHK Atala Scan
-- EMURGO Traceability 
+- [EMURGO Traceability](https://emurgo.io/our-products#emurgo-traceability)
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
@@ -88,15 +89,16 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [Alko Coffee]
 
 ### DeFi and Capital Markets ###
-- [Celsius]
+- [Celsius](https://celsius.network/)
 - [Bondly](https://bondly.finance/)
-- [Wave]
+- [Wave](https://wavegp.com/)
 - [Generation Two Securitization](https://www.gentwo.com/)
-- [Venus]
+- [Venus](https://venus.io/)
 
 ### Governments ###
-- [Wyoming]
-- [Georgia]
+- [Ethiopia](https://pmo.gov.et/)
+- [Wyoming](http://www.wyo.gov/)
+- [Georgia](http://gov.ge/index.php?lang_id=ENG)
 - [Mongolia]
 
 ### Exchanges ###
@@ -313,5 +315,3 @@ Here is a list of active stake pool operators:
 
 ## Other IOHK solutions ##
 - [Mantis](https://mantisclient.io/)
-- [AtalaPrism](https://www.atalaprism.io/)
-
