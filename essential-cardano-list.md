@@ -21,6 +21,7 @@ Here is an outline of the categories:
 - [Payments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Infrastructure & Security](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
+- [Exploring stake pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
 - [Essential Resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano ecosystem ##
