@@ -84,7 +84,7 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [Dquadrant]
 - [Mlabs]
 - [BinarApps]
-- [Obsidian](https://www.obsidians.io/)
+- [Obsidian](https://obsidian.systems/blockchain)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
@@ -165,6 +165,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Installing the Plutus Playground](https://bikemonkey.tech/ppp-install-the-plutus-playground-on-macos-big-sur/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [Setting up the Plutus Playground in a Docker container](https://github.com/heathdrobertson/plutus-pioneer?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [How to get the Plutus Playground up and running](https://tutorials.cardanoacademy.io/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
+- [Awesome Plutus](https://github.com/juanscolari/awesome-plutus?utm_source=Developers&utm_campaign=05d80006c7-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-05d80006c7-77569945)
 
 #### Glow ####
 - [Glow offical website](https://glow-lang.org/)
