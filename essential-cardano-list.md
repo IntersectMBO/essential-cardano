@@ -6,25 +6,35 @@ This list is fully open source so we hope that you can help us to grow and fine 
 
 Here is an outline of the categories:
 - [Navigate the Cardano Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
-- [Core Organizations](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
-- [Oracles](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#oracles)
-- [Enterprise & Business Ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#enterprise--business-ecosystem)
-- [Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#startups)
-- [Strategic Partners and Collaborators ](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
-- [Layer 2 Solutions](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#layer-2-solutions)
-- [Deployments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#deployments)
-- [DeFi and Capital Markets](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
-- [Governments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#governments)
-- [Exchanges](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
-- [Developer Ecosystem](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
-- [Research and Education](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
-- [Payments](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#payments)
-- [Infrastructure & Security](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
+- [Core Organizations](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
+- [Oracles](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#oracles)
+- [Enterprise & Business Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#enterprise--business-ecosystem)
+- [Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#startups)
+- [Strategic Partners and Collaborators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#strategic-partners-and-collaborators)
+- [Layer 2 Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#layer-2-solutions)
+- [Deployments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#deployments)
+- [DeFi and Capital Markets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
+- [Governments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#governments)
+- [Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
+- [Incubators and Funding](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#incubators-and-funding)
+- [Developer Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
+- [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
+- [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
+- [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
+- [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
+- [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
+- [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
+- [Blockchain Labs and Education Instiutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
+- [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
+- [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
-- [Exploring stake pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
-- [Essential Resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
+- [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
+- [Stake Pool 0perators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pool-operators-)
+- [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
+- [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
+- [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md#essential-resources)
 
-## Navigate the Cardano ecosystem ##
+## Navigate the Cardano Ecosystem ##
 Here is a map of our vibrant ecosystem (April 2021): 
 ![Cardano ecosystem](cardano-ecosystem.PNG)
 
@@ -161,7 +171,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Glow official docs](https://glow-lang.org/docs/)
 - [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
-### Developer resources ###
+### Developer Resources ###
 - [Cardano testnet](https://developers.cardano.org/en/testnets/cardano/overview/)
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)https://runtimeverification.com/the-iele-virtual-machine/
 - [Metadata]
@@ -169,7 +179,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
 
-### Native tokens ###
+### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
@@ -297,7 +307,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 
-## Exploring stake pools ##
+## Exploring Stake Pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 You can also explore stake pools using these tools:
@@ -309,14 +319,14 @@ You can also explore stake pools using these tools:
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
-## 🥁 Stake pool operators 🥁 ##
+## 🥁 Stake Pool Operators 🥁 ##
 Here is a list of active stake pool operators:
 - [Alliance](https://alliancestakepools.online/)
 - [Queen Ada](https://alliancestakepools.online/)
 - [Kiwi](https://www.kiwipool.org/)
 
-## Ada calculators ##
+## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
 
-## Other IOHK solutions ##
+## Other IOHK Solutions ##
 - [Mantis](https://mantisclient.io/)
