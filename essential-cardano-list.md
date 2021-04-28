@@ -22,6 +22,10 @@ Here is an outline of the categories:
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Essential Resources](https://github.com/nahern/essential-cardano/blob/main/resources.md#essential-resources)
 
+## Navigate the Cardano ecosystem ##
+Here is a map of our vibrant ecosystem (April 2021): 
+![Cardano ecosystem](cardano-ecosystem.PNG)
+
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
 - [Cardano Foundation](https://cardanofoundation.org/)
