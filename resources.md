@@ -89,6 +89,7 @@ Tools to help you build on Cardano:
 - [Cardano Wall](https://cardanowall.com/en/)
 - [Cardano Canucks](https://cardanocanucks.com/)
 - [Cardano Updates](https://cardanoupdates.com/)
+- [Cardano Staking FAQ](https://www.cardanowithpaul.com/cardano-staking-faq-ultimate-guide/)
 - [Pooltool.io](https://pooltool.io/)
 - [Pool.pm](https://pool.pm/)
 - [Adastat](https://adastat.net/)
