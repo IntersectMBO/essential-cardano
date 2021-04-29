@@ -29,7 +29,7 @@ Here is an outline of the categories:
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
-- [Stake Pool 0perators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pool-operators-)
+- [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md#essential-resources)
@@ -313,7 +313,7 @@ You can also explore stake pools using these tools:
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
-## 🥁 Stake Pools 🥁 ##
+## 🥩 Stake Pools 🥩 ##
 Here is a list of active stake pools:
 - [ACL](https://cardanoland.com/)
 - [ADAPOP](https://adapop.org/)
