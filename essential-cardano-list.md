@@ -320,12 +320,16 @@ Here is a list of active stake pools:
 - [Alliance](https://alliancestakepools.online/)
 - [ALPS](https://alps.kalu.solutions/)
 - [Angel](https://angelstakepool.net/)
+- [Axnosis] (https://axnstakepool.co.za/)
 - [CARDANIANS](https://cardanians.io/en)
+- [Cardano Abú](https://cardanoabu.com/)
+- [Cardano with Paul](https://www.cardanowithpaul.com/)
 - [Cool](https://stakecool.io/)
 - [DEW](https://www.dew-stake.com/)
 - [kBLOCKS](https://kblocks.net/)
 - [Kiwi](https://www.kiwipool.org/)
 - [KOPI](https://kopipool.com/)
+- [NEAT](https://www.neatstaking.com/)
 - [ONYX](https://onyxstakepool.com/)
 - [Power](https://powerstakepool.com/)
 - [Queen Ada](https://alliancestakepools.online/)
@@ -334,7 +338,7 @@ Here is a list of active stake pools:
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
 - [VINCE](https://vincepool.com/)
-
+- [ZOE POOL](https://zoepool.com)
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
