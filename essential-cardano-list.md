@@ -59,8 +59,8 @@ Here is a map of our vibrant ecosystem (April 2021):
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
-- [Obsidian]()
 - [Mukn](https://mukn.io/)
+- [Obsidian](https://obsidian.systems/blockchain)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
@@ -70,21 +70,20 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
 - [Celsius Network](https://celsius.network/)
-- [Scalac]
+- Scalac
 - [Tweag](https://www.tweag.io/)
 - [Well Typed](https://www.well-typed.com/)
-- [Ncube]
-- [Bloxico]
-- [LunaTech]
-- [Bairesdev]
-- [Alt Labs]
-- [Eleks]
-- [Node Factory]
-- [Metalamp]
-- [Dquadrant]
-- [Mlabs]
-- [BinarApps]
-- [Obsidian](https://obsidian.systems/blockchain)
+- Ncube
+- Bloxico
+- LunaTech
+- Bairesdev
+- Alt Labs
+- Eleks
+- Node Factory
+- Metalamp
+- Dquadrant
+- Mlabs
+- BinarApps
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
@@ -129,9 +128,9 @@ Here is a map of our vibrant ecosystem (April 2021):
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - [Y2X](https://y2x.io/)
 - [Dlab](https://dlab.vc/)
-- [DC-fund]()
-- [C-fund]()
-- [Treasury Wave]()  
+- DC-fund
+- C-fund
+- Treasury Wave  
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
@@ -175,8 +174,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 ### Developer Resources ###
 - [Cardano testnet](https://developers.cardano.org/en/testnets/cardano/overview/)
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)https://runtimeverification.com/the-iele-virtual-machine/
-- [Metadata]
-- [Atlas Adrestia]
+- Metadata
+- Atlas Adrestia
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
 
@@ -246,7 +245,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Coti](coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
-- [AdaPay]
+- AdaPay
+- [Simplex](https://www.simplex.com/)
 
 ## Infrastructure & Security ##
 
@@ -254,16 +254,16 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Quantstamp](https://quantstamp.com/)
 - [FP Complete](https://www.fpcomplete.com/)
 - [R9B](https://www.cybersecurityintelligence.com/root9b-r9b-6089.html)
-- [Nagra]
+- Nagra
 
 ### Ouroboros Consensus ###
-- [Classic]
-- [BFT]
-- [Genesis]
-- [Praos]
-- [Hydra]
-- [Chronos]
-- [Crypsinous]
+- [Classic](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/)
+- [BFT](https://iohk.io/en/research/library/papers/ouroboros-bfta-simple-byzantine-fault-tolerant-consensus-protocol/)
+- [Genesis](https://iohk.io/en/research/library/papers/ouroboros-genesiscomposable-proof-of-stake-blockchains-with-dynamic-availability/)
+- [Praos](https://iohk.io/en/research/library/papers/ouroboros-praosan-adaptively-securesemi-synchronous-proof-of-stake-protocol/)
+- [Hydra](https://eprint.iacr.org/2020/299.pdf)
+- Chronos
+- Crypsinous
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
