@@ -35,7 +35,7 @@ Here is an outline of the categories:
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md#essential-resources)
 
 ## Navigate the Cardano Ecosystem ##
-Here is a map of our vibrant ecosystem (April 2021): 
+Here is a map of our vibrant ecosystem (April 2021) - new version coming soon: 
 ![Cardano ecosystem](cardano-ecosystem.PNG)
 
 ## Core Organizations ##
