@@ -327,6 +327,7 @@ Here is a list of active stake pools:
 - [Cool](https://stakecool.io/)
 - [DEW](https://www.dew-stake.com/)
 - [kBLOCKS](https://kblocks.net/)
+- [KIND](https://kindstakepool.com/)
 - [Kiwi](https://www.kiwipool.org/)
 - [KOPI](https://kopipool.com/)
 - [NEAT](https://www.neatstaking.com/)
