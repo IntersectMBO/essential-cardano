@@ -320,7 +320,7 @@ Here is a list of active stake pools:
 - [Alliance](https://alliancestakepools.online/)
 - [ALPS](https://alps.kalu.solutions/)
 - [Angel](https://angelstakepool.net/)
-- [Axnosis] (https://axnstakepool.co.za/)
+- [Axnosis](https://axnstakepool.co.za/)
 - [CARDANIANS](https://cardanians.io/en)
 - [Cardano Abú](https://cardanoabu.com/)
 - [Cardano with Paul](https://www.cardanowithpaul.com/)
