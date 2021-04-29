@@ -154,7 +154,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
 - [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/tutorials/index.html)
 - [Plutus community documentation](http://docs.plutus-community.com/)
-- [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development has changed. Version 2 will be out soon)
+- [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development environment has changed. Version 2 will be out soon)
 - [Plutus Udemy course (v. 1)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
 
 ##### ⚔️ Plutus Pioneers ⚔️ #####
@@ -313,11 +313,28 @@ You can also explore stake pools using these tools:
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
-## 🥁 Stake Pool Operators 🥁 ##
-Here is a list of active stake pool operators:
+## 🥁 Stake Pools 🥁 ##
+Here is a list of active stake pools:
+- [ACL](https://cardanoland.com/)
+- [ADAPOP](https://adapop.org/)
 - [Alliance](https://alliancestakepools.online/)
-- [Queen Ada](https://alliancestakepools.online/)
+- [ALPS](https://alps.kalu.solutions/)
+- [Angel](https://angelstakepool.net/)
+- [CARDANIANS](https://cardanians.io/en)
+- [Cool](https://stakecool.io/)
+- [DEW](https://www.dew-stake.com/)
+- [kBLOCKS](https://kblocks.net/)
 - [Kiwi](https://www.kiwipool.org/)
+- [KOPI](https://kopipool.com/)
+- [ONYX](https://onyxstakepool.com/)
+- [Power](https://powerstakepool.com/)
+- [Queen Ada](https://alliancestakepools.online/)
+- [SCARdano](https://scardano.io/)
+- [Stakit](https://stakit.io/)
+- [THC](https://thc-room335.com/)
+- [THOR-The Viking pool](https://thevikingpool.com/)
+- [VINCE](https://vincepool.com/)
+
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
