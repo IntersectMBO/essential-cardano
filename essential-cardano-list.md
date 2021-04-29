@@ -21,6 +21,7 @@ Here is an outline of the categories:
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
+- [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
 - [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
 - [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
@@ -30,7 +31,6 @@ Here is an outline of the categories:
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
 - [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
-- [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md#essential-resources)
 
@@ -198,6 +198,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 
+## Ada Calculators ##
+- [ada calculator](https://adacalculator.com/)
+
 ## Research and Education ##
 
 ### Standards/Consortia ###
@@ -340,9 +343,6 @@ Here is a list of active stake pools:
 - [THOR-The Viking pool](https://thevikingpool.com/)
 - [VINCE](https://vincepool.com/)
 - [ZOE POOL](https://zoepool.com)
-
-## Ada Calculators ##
-- [ada calculator](https://adacalculator.com/)
 
 ## Other IOHK Solutions ##
 - [Mantis](https://mantisclient.io/)
