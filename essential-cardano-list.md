@@ -70,7 +70,6 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
 - [Celsius Network](https://celsius.network/)
-- Scalac
 - [Tweag](https://www.tweag.io/)
 - [Well Typed](https://www.well-typed.com/)
 - Ncube
@@ -78,12 +77,26 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - LunaTech
 - Bairesdev
 - Alt Labs
+- Scalac
 - Eleks
 - Node Factory
 - Metalamp
 - Dquadrant
 - Mlabs
 - BinarApps
+- [World Mobile](https://worldmobile.io/)
+- [Ice Addis](http://www.iceaddis.com/)
+- [iCog Labs](https://icog-labs.com/)
+- [Save the Children](https://www.savethechildren.org/)
+- [Blockchain Association of Kenya](https://bak.or.ke/)
+- [BitAprica](https://bitaprica.com/)
+- [Platform Africa](https://twitter.com/platformngo)
+- [YellowCard](https://yellowcard.io/)
+- [PayWay Ethiopia](https://payway.et/)
+- [Chaptr](https://chaptrglobal.com/)
+- [Africa Tech Summit](https://www.africatechsummit.com/)
+- [Afri Labs](https://www.afrilabs.com/)
+- [Sonergy](https://sonergy.io/)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
@@ -249,6 +262,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
+- [Shopify](https://www.shopify.com/)
+- [WooCommerce](https://woocommerce.com/)
 - [Simplex](https://www.simplex.com/)
 
 ## Infrastructure & Security ##
