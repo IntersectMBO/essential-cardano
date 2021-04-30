@@ -16,6 +16,7 @@ Here is an outline of the categories:
 - [DeFi and Capital Markets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Governments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#governments)
 - [Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
+- [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Incubators and Funding](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#incubators-and-funding)
 - [Developer Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
@@ -26,7 +27,6 @@ Here is an outline of the categories:
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
 - [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
 - [Blockchain Labs and Education Instiutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
-- [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
@@ -136,6 +136,15 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
+
+## Payments ##
+- [Coti](coti.io)
+- [Sirin Labs](https://sirinlabs.com/)
+- [Metaps+](https://metaps.com/)
+- AdaPay
+- [Shopify](https://www.shopify.com/)
+- [WooCommerce](https://woocommerce.com/)
+- [Simplex](https://www.simplex.com/)
 
 ### Incubators and Funding ###
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
@@ -256,15 +265,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Frankfurt Business School](https://www.frankfurt-school.deitis]())
 - [University of Mauritius](https://www.uom.ac.mu/)
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
-
-## Payments ##
-- [Coti](coti.io)
-- [Sirin Labs](https://sirinlabs.com/)
-- [Metaps+](https://metaps.com/)
-- AdaPay
-- [Shopify](https://www.shopify.com/)
-- [WooCommerce](https://woocommerce.com/)
-- [Simplex](https://www.simplex.com/)
 
 ## Infrastructure & Security ##
 
