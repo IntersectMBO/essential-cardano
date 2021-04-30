@@ -72,18 +72,18 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Celsius Network](https://celsius.network/)
 - [Tweag](https://www.tweag.io/)
 - [Well Typed](https://www.well-typed.com/)
-- Ncube
-- Bloxico
-- LunaTech
-- Bairesdev
+- [Ncube](https://ncube.com/)
+- [Bloxico](https://bloxico.com/)
+- [LunaTech](https://lunatech.com/)
+- [Bairesdev](https://www.bairesdev.com/)
 - Alt Labs
-- Scalac
-- Eleks
-- Node Factory
-- Metalamp
+- [Scalac](https://scalac.io/)
+- [Eleks](https://eleks.com/)
+- [Node Factory](https://nodefactory.io/)
+- [Metalamp](https://en.metalamp.io/)
 - Dquadrant
 - Mlabs
-- BinarApps
+- [BinarApps](https://binarapps.com/)
 - [World Mobile](https://worldmobile.io/)
 - [Ice Addis](http://www.iceaddis.com/)
 - [iCog Labs](https://icog-labs.com/)
