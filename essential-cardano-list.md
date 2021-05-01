@@ -65,7 +65,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
 - [Konfidio](https://konfidio.com/)
-- [FiveBinaries](https://fivebinaries.com/)
+- [Five Binaries](https://fivebinaries.com/)
 - [Runtime Verification](https://runtimeverification.com/)
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
@@ -200,6 +200,10 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Atlas Adrestia
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
+
+### Infrastructure Providers ###
+
+- [Blockfrost.io](https://blockfrost.io)
 
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
