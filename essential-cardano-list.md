@@ -121,6 +121,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
 - [Wyoming](http://www.wyo.gov/)
+  - [Wyoming Advanced Blockchain Lab](https://www.uwyo.edu/wabl/)
 - [Georgia](http://gov.ge/index.php?lang_id=ENG)
 - Mongolia
 
