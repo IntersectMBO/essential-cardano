@@ -353,6 +353,7 @@ Here is a list of active stake pools:
 - [ONYX](https://onyxstakepool.com/)
 - [Power](https://powerstakepool.com/)
 - [Queen Ada](https://alliancestakepools.online/)
+- [SNSKY](https://sanskys.de/)
 - [SCARdano](https://scardano.io/)
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
