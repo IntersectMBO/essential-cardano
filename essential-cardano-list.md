@@ -22,6 +22,7 @@ Here is an outline of the categories:
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
+- [Metadata](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#metadata)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
 - [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
@@ -220,6 +221,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 
+## Metadata ##
+- [CardanoWall](https://cardanowall.com/)
+
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
 
@@ -357,6 +361,7 @@ Here is a list of active stake pools:
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
+- [VICE](https://vicepool.com/)
 - [VINCE](https://vincepool.com/)
 - [ZOE POOL](https://zoepool.com)
 
