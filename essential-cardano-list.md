@@ -348,6 +348,7 @@ Here is a list of active stake pools:
 - [KIND](https://kindstakepool.com/)
 - [Kiwi](https://www.kiwipool.org/)
 - [KOPI](https://kopipool.com/)
+- [LONDN](https://londonpool.co.uk/)
 - [MUNIN](https://ravenpool.net/)
 - [NEAT](https://www.neatstaking.com/)
 - [ONYX](https://onyxstakepool.com/)
