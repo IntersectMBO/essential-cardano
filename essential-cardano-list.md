@@ -353,6 +353,7 @@ Here is a list of active stake pools:
 - [MUNIN](https://ravenpool.net/)
 - [NEAT](https://www.neatstaking.com/)
 - [ONYX](https://onyxstakepool.com/)
+- [PILOT](https://adapilot.com)
 - [Power](https://powerstakepool.com/)
 - [Queen Ada](https://alliancestakepools.online/)
 - [SCARdano](https://scardano.io/)
