@@ -22,6 +22,7 @@ Here is an outline of the categories:
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
+- [Metadata](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#metadata)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
 - [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
@@ -46,6 +47,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ## Oracles ##
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [nut.link](https://nut.link/)
 
 ## Enterprise & Business Ecosystem ##
 
@@ -65,7 +67,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
 - [Konfidio](https://konfidio.com/)
-- [FiveBinaries](https://fivebinaries.com/)
+- [Five Binaries](https://fivebinaries.com/)
 - [Runtime Verification](https://runtimeverification.com/)
 - [PWC](https://www.pwc.com/)
 - [Orion](https://blog.orionprotocol.io/)
@@ -136,6 +138,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
+- [Gate.io](https://www.gate.io/)
 
 ## Payments ##
 - [Coti](coti.io)
@@ -201,6 +204,10 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
 
+### Infrastructure Providers ###
+
+- [Blockfrost.io](https://blockfrost.io)
+
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
@@ -219,6 +226,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Medusa Adawallet](https://adawallet.io/)
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
+
+## Metadata ##
+- [CardanoWall](https://cardanowall.com/)
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
@@ -332,6 +342,7 @@ You can also explore stake pools using these tools:
 - [Adatools (pools)](https://adatools.io/pools)
 - [Ada pools](https://adapools.org/)
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
+- [AdaStat (pools)](https://adastat.net/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ## 🥩 Stake Pools 🥩 ##
@@ -340,27 +351,34 @@ Here is a list of active stake pools:
 - [ADAPOP](https://adapop.org/)
 - [Alliance](https://alliancestakepools.online/)
 - [ALPS](https://alps.kalu.solutions/)
+- [ANET](https://adanet.io)
 - [Angel](https://angelstakepool.net/)
 - [Axnosis](https://axnstakepool.co.za/)
 - [CARDANIANS](https://cardanians.io/en)
 - [Cardano Abú](https://cardanoabu.com/)
 - [Cardano with Paul](https://www.cardanowithpaul.com/)
+- [CHRTY](https://charity-pool.ro/)
 - [Cool](https://stakecool.io/)
+- [COSD](https://cosd.com/pool) 
 - [DEW](https://www.dew-stake.com/)
 - [kBLOCKS](https://kblocks.net/)
 - [KIND](https://kindstakepool.com/)
 - [Kiwi](https://www.kiwipool.org/)
 - [KOPI](https://kopipool.com/)
+- [MOA](https://moa.stakepool.co.nz/)
 - [MUNIN](https://ravenpool.net/)
 - [NEAT](https://www.neatstaking.com/)
 - [ONYX](https://onyxstakepool.com/)
+- [PILOT](https://adapilot.com)
 - [Power](https://powerstakepool.com/)
 - [Queen Ada](https://alliancestakepools.online/)
+- [RABIT](https://rabbitholepools.io)
 - [SNSKY](https://sanskys.de/)
 - [SCARdano](https://scardano.io/)
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
+- [VICE](https://vicepool.com/)
 - [VINCE](https://vincepool.com/)
 - [ZOE POOL](https://zoepool.com)
 
