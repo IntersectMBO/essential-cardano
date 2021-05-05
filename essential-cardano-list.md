@@ -497,6 +497,7 @@ Here is a list of active stake pools:
 - [RABIT](https://rabbitholepools.io)
 - [SNSKY](https://sanskys.de/)
 - [SCARdano](https://scardano.io/)
+- [SOPHI](https://thecardanofund.com/sophi-pool/)
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
