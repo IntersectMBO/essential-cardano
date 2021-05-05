@@ -340,6 +340,7 @@ Here is a list of active stake pools:
 - [ADAPOP](https://adapop.org/)
 - [Alliance](https://alliancestakepools.online/)
 - [ALPS](https://alps.kalu.solutions/)
+- [ANET](https://adanet.io)
 - [Angel](https://angelstakepool.net/)
 - [Axnosis](https://axnstakepool.co.za/)
 - [CARDANIANS](https://cardanians.io/en)
