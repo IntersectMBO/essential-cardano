@@ -33,7 +33,7 @@ Here is an outline of the categories:
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
 - [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
-- [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/resources.md#essential-resources)
+- [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
 
 ## Navigate the Cardano Ecosystem ##
 Here is a map of our vibrant ecosystem (April 2021) - new version coming soon: 
