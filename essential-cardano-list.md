@@ -46,6 +46,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ## Oracles ##
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
+- [nut.link](https://nut.link/)
 
 ## Enterprise & Business Ecosystem ##
 
