@@ -508,3 +508,4 @@ Here is a list of active stake pools:
 - [VICE](https://vicepool.com/)
 - [VINCE](https://vincepool.com/)
 - [ZOE POOL](https://zoepool.com)
+- [PMLX](https://stakespool.io)
