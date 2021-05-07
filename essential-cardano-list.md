@@ -198,7 +198,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ### Developer Resources ###
 - [Cardano testnet](https://developers.cardano.org/en/testnets/cardano/overview/)
-- [IELE](https://runtimeverification.com/the-iele-virtual-machine/)https://runtimeverification.com/the-iele-virtual-machine/
+- [IELE](https://runtimeverification.com/the-iele-virtual-machine/)
 - Metadata
 - Atlas Adrestia
 - [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
@@ -455,7 +455,7 @@ Tools to help you build on Cardano:
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
-- [Cardano node installation guide](https://instructions.target-pool.com/) (translated into Russian, German, and English)
+- [Cardano node installation guide](https://instructions.target-pool.com/) (written in English and translated into Russian and German)
 
 ### 📹 Community Videos 📹 ###
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
@@ -476,7 +476,9 @@ Here is a list of active stake pools:
 - [ALPS](https://alps.kalu.solutions/)
 - [ANET](https://adanet.io)
 - [Angel](https://angelstakepool.net/)
+- [AzureADA](https://azureada.com/)
 - [Axnosis](https://axnstakepool.co.za/)
+- [Banderini](https://www.banderini.net/)
 - [CARDANIANS](https://cardanians.io/en)
 - [Cardano Abú](https://cardanoabu.com/)
 - [Cardano with Paul](https://www.cardanowithpaul.com/)
@@ -484,6 +486,7 @@ Here is a list of active stake pools:
 - [Cool](https://stakecool.io/)
 - [COSD](https://cosd.com/pool) 
 - [DEW](https://www.dew-stake.com/)
+- [HOPE](https://cardano.ipclub29.com/)
 - [kBLOCKS](https://kblocks.net/)
 - [KIND](https://kindstakepool.com/)
 - [Kiwi](https://www.kiwipool.org/)
