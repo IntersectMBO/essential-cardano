@@ -330,7 +330,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 
 ## Starting a Stake Pool ##
-- Setting up Prometheus and Grafana Dashboard
+- Setting up Prometheus and Grafana Dashboard (https://sanskys.de/dashboard/)
 
 ## Exploring Stake Pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
