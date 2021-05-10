@@ -470,6 +470,7 @@ Tools to help you build on Cardano:
 
 ### 🥩 Stake Pools 🥩 ###
 Here is a list of active stake pools:
+- [1COMM](https://onecommunityada.com)
 - [ACL](https://cardanoland.com/)
 - [ADAPOP](https://adapop.org/)
 - [Alliance](https://alliancestakepools.online/)
