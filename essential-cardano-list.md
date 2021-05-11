@@ -128,6 +128,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 
 ### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
+- [Börse Stuttgart](https://www.boerse-stuttgart.de/)
 - [Binance](https://www.binance.com/en)
 - [Kraken](https://www.kraken.com/)
 - [Bittrex](https://global.bittrex.com/)
