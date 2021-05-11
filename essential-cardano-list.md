@@ -432,6 +432,7 @@ Tools to help you build on Cardano:
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul)
 - [Cardano epoch calendar](https://dbooster.io/calendar)
 - [ada best](https://adabest.com/)
 - [Cardano Assets](https://cardanoassets.com/)
