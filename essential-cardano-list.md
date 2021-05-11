@@ -481,6 +481,7 @@ Here is a list of active stake pools:
 - [AzureADA](https://azureada.com/)
 - [Axnosis](https://axnstakepool.co.za/)
 - [Banderini](https://www.banderini.net/)
+- [BICEP](https://www.biceppool.com/)
 - [CARDANIANS](https://cardanians.io/en)
 - [Cardano Abú](https://cardanoabu.com/)
 - [Cardano with Paul](https://www.cardanowithpaul.com/)
