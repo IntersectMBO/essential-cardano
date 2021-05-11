@@ -453,6 +453,7 @@ Tools to help you build on Cardano:
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
 - [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+- [wen.pm timelines to significant Cardano News](https://wen.pm)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
