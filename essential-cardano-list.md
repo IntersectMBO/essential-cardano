@@ -208,6 +208,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 ### Infrastructure Providers ###
 
 - [Blockfrost.io](https://blockfrost.io)
+- [dandelion.link](https://dandelion.link/)
 
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
