@@ -62,7 +62,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
 - [Mukn](https://mukn.io/)
-- [Obsidian Systems](https://obsidian.systems/blockchain)
+- [Obsidian Systems](https://obsidian.systems/)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
