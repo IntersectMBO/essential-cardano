@@ -21,6 +21,7 @@ Here is an outline of the categories:
 - [Developer Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
+- [Infratructure Providers](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure-providers)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
 - [Metadata](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#metadata)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
@@ -31,8 +32,6 @@ Here is an outline of the categories:
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
-- [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
-- [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
 
 ## Navigate the Cardano Ecosystem ##
