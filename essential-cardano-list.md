@@ -472,6 +472,10 @@ Tools to help you build on Cardano:
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
 - [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
 
+### Native Tokens ###
+- [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
+- [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
+
 ### Other IOHK Solutions ###
 - [Mantis](https://mantisclient.io/)
 
