@@ -520,6 +520,7 @@ Here is a list of active stake pools:
 - [SCARdano](https://scardano.io/)
 - [SOPHI](https://thecardanofund.com/sophi-pool/)
 - [SPaaS](https://spaas.org/)
+- [SPEC](https://spectrum-pool.kind.software/)
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
