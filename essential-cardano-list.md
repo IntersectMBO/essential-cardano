@@ -484,7 +484,6 @@ Tools to help you build on Cardano:
 
 ### 🥩 Stake Pools 🥩 ###
 Here is a list of active stake pools:
-- [SPEC](https://spectrum-pool.kind.software/)
 - [1COMM](https://onecommunityada.com)
 - [ACL](https://cardanoland.com/)
 - [ADAPOP](https://adapop.org/)
@@ -521,6 +520,7 @@ Here is a list of active stake pools:
 - [SCARdano](https://scardano.io/)
 - [SOPHI](https://thecardanofund.com/sophi-pool/)
 - [SPaaS](https://spaas.org/)
+- [SPEC](https://spectrum-pool.kind.software/)
 - [Stakit](https://stakit.io/)
 - [THC](https://thc-room335.com/)
 - [THOR-The Viking pool](https://thevikingpool.com/)
