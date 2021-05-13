@@ -1,6 +1,6 @@
 # The Essential Cardano list #
 
-The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials, and a list of active stake pools. 
+The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and EMURGO resources, as well as community-generated materials, and a list of active stake pools. 
 
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
@@ -42,7 +42,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
 - [Cardano Foundation](https://cardanofoundation.org/)
-- [Emurgo](https://emurgo.io/)
+- [EMURGO](https://emurgo.io/)
 
 ## Oracles ##
 - [Ergo](https://ergoplatform.org/en/)
@@ -374,8 +374,8 @@ Here is our essential list of Cardano resources.
 - [CIPs repository](https://github.com/cardano-foundation/CIPs)
 - [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
 
-### Emurgo ###
-- [Emurgo official website](https://emurgo.io/)
+### EMURGO ###
+- [EMURGO official website](https://emurgo.io/)
 - [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
 - [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
 - [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
@@ -414,7 +414,7 @@ Here is our essential list of Cardano resources.
 Tools to help you build on Cardano:
 - [Block Frost](https://blockfrost.io/)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
-- [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
+- [EMURGO Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
 - [Dandelion APIs](https://gimbalabs.com/dandelionapis)
 - [Ogmios](https://ogmios.dev/)
 - [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
