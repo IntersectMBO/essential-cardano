@@ -62,7 +62,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
 - [Mukn](https://mukn.io/)
-- [Obsidian](https://obsidian.systems/blockchain)
+- [Obsidian Systems](https://obsidian.systems/)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [QuiviQ](http://quviq.com/)
 - [Atix](https://www.atixlabs.com/)
@@ -128,6 +128,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 
 ### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
+- [Börse Stuttgart](https://www.boerse-stuttgart.de/)
 - [Binance](https://www.binance.com/en)
 - [Kraken](https://www.kraken.com/)
 - [Bittrex](https://global.bittrex.com/)
@@ -431,6 +432,7 @@ Tools to help you build on Cardano:
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul)
 - [Cardano epoch calendar](https://dbooster.io/calendar)
 - [ada best](https://adabest.com/)
 - [Cardano Assets](https://cardanoassets.com/)
