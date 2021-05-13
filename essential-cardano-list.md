@@ -476,6 +476,12 @@ Tools to help you build on Cardano:
 ### Other IOHK Solutions ###
 - [Mantis](https://mantisclient.io/)
 
+### Stake Pool Groups ###
+- [SPOCRA](https://spocra.io/)
+- [Mission Driven Pools](https://missiondrivenpools.org/)
+- [Single Pool Alliance](https://singlepoolalliance.net/)
+- [Bare Metal Alliance](https://cardanobaremetal.com/)
+
 ### 🥩 Stake Pools 🥩 ###
 Here is a list of active stake pools:
 - [1COMM](https://onecommunityada.com)
