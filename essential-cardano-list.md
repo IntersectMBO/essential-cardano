@@ -233,6 +233,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
+- [min-ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
 
 ## Research and Education ##
 
