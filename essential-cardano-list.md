@@ -395,6 +395,7 @@ Here is our essential list of Cardano resources.
 ### 🆕 New to Cardano? 🆕 ###
 - Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
+- [New to Cardano: all you need to know in 15 minutes](https://atlasstakepool.com/home/new-to-cardano/) (community-generated)
 - [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
