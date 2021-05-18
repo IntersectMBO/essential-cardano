@@ -207,7 +207,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
 
 ### Infrastructure Providers ###
-
 - [Blockfrost.io](https://blockfrost.io)
 - [dandelion.link](https://dandelion.link/)
 
@@ -229,6 +228,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Medusa Adawallet](https://adawallet.io/)
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
+
+## Contribute to Daedalus ##
+- [Make a feature request for Daedalus](https://github.com/input-output-hk/daedalus/issues?q=is%3Aopen+is%3Aissue+label%3Afeature-request)
 
 ## Metadata ##
 - [CardanoWall](https://cardanowall.com/)
