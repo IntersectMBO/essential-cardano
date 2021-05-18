@@ -47,6 +47,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [nut.link](https://nut.link/)
+- [functionally.io](https://mantis.functionally.io/)
 
 ## Enterprise & Business Ecosystem ##
 
