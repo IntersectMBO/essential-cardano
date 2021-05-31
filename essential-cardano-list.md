@@ -140,6 +140,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Crypto.com](https://crypto.com/)
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
+- [Coinspot](https://www.coinspot.com.au/)
 - [Gate.io](https://www.gate.io/)
 
 ## Payments ##
