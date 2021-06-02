@@ -482,6 +482,7 @@ Here is a list of active stake pools:
 - [ALPS](https://alps.kalu.solutions/)
 - [ANET](https://adanet.io)
 - [Angel](https://angelstakepool.net/)
+- [ATFF](https://atffpool.at/)
 - [AzureADA](https://azureada.com/)
 - [Axnosis](https://axnstakepool.co.za/)
 - [Banderini](https://www.banderini.net/)
