@@ -434,6 +434,10 @@ Tools to help you build on Cardano:
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+- [StakePool Operator Scripts](https://github.com/gitmachtl/scripts)
+- [cncli](https://github.com/AndrewWestberg/cncli)
+- [StakePool Operator ToolsAlliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
 - [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul)
 - [Cardano epoch calendar](https://dbooster.io/calendar)
 - [ada best](https://adabest.com/)
@@ -455,7 +459,6 @@ Tools to help you build on Cardano:
 - [Hitchhiker's Guides](https://www.publish0x.com/raxp122/the-hitchhiker-s-guide-to-cardano-ada-xlyjgyl)
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
-- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
