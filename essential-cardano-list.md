@@ -388,8 +388,7 @@ Here is our essential list of Cardano resources.
 - [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
 - [Cardano Discord](https://discord.com/login?redirect_to=%2Fchannels%2F386191477333557248%2F386223132496887808)
 - [Cardano developers Reddit](https://www.reddit.com/r/CardanoDevelopers/)
-- [Cardano Stack Exchange](https://area51.stackexchange.com/proposals/125174/cardano)
-- [Cardano Stack Exchange Q & A](https://cardano.stackexchange.com/users/login?ssrc=beta&returnurl=%2f)
+- [Cardano Stack Exchange](https://cardano.stackexchange.com/)
 - [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
 ### 🆕 New to Cardano? 🆕 ###
