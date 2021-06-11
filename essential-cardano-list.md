@@ -388,8 +388,7 @@ Here is our essential list of Cardano resources.
 - [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
 - [Cardano Discord](https://discord.com/login?redirect_to=%2Fchannels%2F386191477333557248%2F386223132496887808)
 - [Cardano developers Reddit](https://www.reddit.com/r/CardanoDevelopers/)
-- [Cardano Stack Exchange](https://area51.stackexchange.com/proposals/125174/cardano)
-- [Cardano Stack Exchange Q & A](https://cardano.stackexchange.com/users/login?ssrc=beta&returnurl=%2f)
+- [Cardano Stack Exchange](https://cardano.stackexchange.com/)
 - [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
 
 ### 🆕 New to Cardano? 🆕 ###
@@ -434,6 +433,10 @@ Tools to help you build on Cardano:
 - [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
 - [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+- [StakePool Operator Scripts](https://github.com/gitmachtl/scripts)
+- [cncli](https://github.com/AndrewWestberg/cncli)
+- [StakePool Operator ToolsAlliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
 - [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul)
 - [Cardano epoch calendar](https://dbooster.io/calendar)
 - [ada best](https://adabest.com/)
@@ -455,7 +458,6 @@ Tools to help you build on Cardano:
 - [Hitchhiker's Guides](https://www.publish0x.com/raxp122/the-hitchhiker-s-guide-to-cardano-ada-xlyjgyl)
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
-- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
@@ -722,6 +724,12 @@ Here is a list of active stake pools:
 - [ANCAP](https://ancap-pool.com)
 - [ANDES](https://www.andes-pool.com)
 - [ANEJO](https://anejopool.com)
+- [1COMM](https://onecommunityada.com)
+- [ACL](https://cardanoland.com/)
+- [ADAPOP](https://adapop.org/)
+- [ADAR](https://adarewards.org/)
+- [Alliance](https://alliancestakepools.online/)
+- [ALPS](https://alps.kalu.solutions/)
 - [ANET](https://adanet.io)
 - [ANEW](https://www.anew.sadaka.io)
 - [ANFRA](https://anfra.io)
