@@ -803,7 +803,7 @@ Here is a list of active stake pools:
 - [ATAD2](https://stakepool.at)
 - [ATADA](https://stakepool.at)
 - [ATDT](http://pool.atdt.io)
-- [ATFF](https://ATFFpool.at)
+- [ATFF](https://www.ATFFpool.at)
 - [ATG1](https://atagopool.com)
 - [ATH](https://athena-staking.com)
 - [ATIN](https://adakin-pool.org)
