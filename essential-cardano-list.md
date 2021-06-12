@@ -35,6 +35,7 @@ Here is an outline of the categories:
 - [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
+- [Games & Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
 
 ## Navigate the Cardano Ecosystem ##
 Here is a map of our vibrant ecosystem (April 2021) - new version coming soon: 
@@ -158,6 +159,10 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - DC-fund
 - C-fund
 - Treasury Wave  
+
+
+### Games and Entertainment ###
+- [Ridotto](https://ridotto.io)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
