@@ -460,6 +460,7 @@ Tools to help you build on Cardano:
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
+- [Cardano cards](https://github.com/coconutpool/learn_cardano)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
