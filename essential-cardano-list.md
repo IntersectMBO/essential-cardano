@@ -341,6 +341,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## Starting a Stake Pool ##
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
+- [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ## Exploring Stake Pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
@@ -482,6 +483,18 @@ Tools to help you build on Cardano:
 
 ### Other IOHK Solutions ###
 - [Mantis](https://mantisclient.io/)
+
+### 🎱 Stake Pool Alliances 🎱 ###
+- [Armada Alliance](https://armada-alliance.com)
+- [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
+- [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
+- [Mission-Driven Pools](https://missiondrivenpools.org/)
+- [F2LB First 2 Lifetime Block community](https://l2fb-sandbox.mxapps.io/)
+- [CCSPA](https://ccspa.ca/)
+- [Stake Pool Operator Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
+- [Cardano Pools United](https://www.cpoolsunited.com/)
+- [Swiss CardaNation](https://www.facebook.com/groups/swisscardanation/)
+
 
 ### 🥩 Stake Pools 🥩 ###
 Here is a list of active stake pools:
