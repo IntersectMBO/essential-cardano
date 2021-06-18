@@ -418,6 +418,7 @@ Here is our essential list of Cardano resources.
 - [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 - [NFT Marketplace](https://xhibit.io/)
+- [NFT-MAKER.IO](https://nft-maker.io/)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
