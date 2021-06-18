@@ -100,6 +100,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Africa Tech Summit](https://www.africatechsummit.com/)
 - [Afri Labs](https://www.afrilabs.com/)
 - [Sonergy](https://sonergy.io/)
+- [dcSpark](https://dcspark.io/)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
