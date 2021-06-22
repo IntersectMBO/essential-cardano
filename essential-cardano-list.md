@@ -498,6 +498,12 @@ Tools to help you build on Cardano:
 
 
 ### 🥩 Stake Pools 🥩 ###
+Lists of active stakepools can be found on:
+- [AdaPools](https://adapools.org)
+- [Cardanoscan](https://cardanoscan.io/pools)
+- [Pooltool](https://pooltool.io)
+- [Pool.pm](https://pool.pm)
+
 Here is a list of active stake pools:
 - [000](https://ispool.live/)
 - [0000](http://sbwh.com.au/infinity-pool)
