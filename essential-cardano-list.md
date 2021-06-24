@@ -243,6 +243,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
+- [ADA Calculators - MajorPool.net](https://majorpool.net/calculators)
 
 ## Research and Education ##
 
@@ -420,6 +421,7 @@ Here is our essential list of Cardano resources.
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 - [NFT Marketplace](https://xhibit.io/)
 - [NFT-MAKER.IO](https://nft-maker.io/)
+- [Cardano Alerts](https://cardanoalerts.com)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -470,6 +472,7 @@ Tools to help you build on Cardano:
 - [Python LeaderLog and getSigma scripts]()
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 - [Cardano cards](https://github.com/coconutpool/learn_cardano)
+- [Cardano Waves](https://cardanowaves.com)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
