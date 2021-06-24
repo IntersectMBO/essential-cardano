@@ -237,7 +237,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Medusa Adawallet](https://adawallet.io/)
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
-- GeroWallet(https://gerowallet.io)
+- [GeroWallet](https://gerowallet.io/)
 
 ## Metadata ##
 - [CardanoWall](https://cardanowall.com/)
