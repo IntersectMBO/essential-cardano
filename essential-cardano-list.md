@@ -164,6 +164,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 
 ### Games and Entertainment ###
 - [Ridotto](https://ridotto.io)
+- [Cardacity](https://carda.city)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
