@@ -474,6 +474,7 @@ Tools to help you build on Cardano:
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 - [Cardano cards](https://github.com/coconutpool/learn_cardano)
 - [Cardano Waves](https://cardanowaves.com)
+- [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
