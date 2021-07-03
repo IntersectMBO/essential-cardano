@@ -331,7 +331,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088)
 - [CardanoSharp - .NET Library](https://cardano.ideascale.com/a/dtd/333629-48088)
 - [Developer & SPO Tools [CNTools]](https://cardano.ideascale.com/a/dtd/333605-48088)
-- [Cardano IntelliJ IDEA Plugin (MVP)](https://cardano.ideascale.com/a/dtd/333570-48088)
+- [Cardano IntelliJ IDEA Plugin (MVP)](https://intelliada.bloxbean.com/)
 - [Cardano serialization library in Go](https://cardano.ideascale.com/a/dtd/334110-48088)
 - [Metadata oracle node](https://cardano.ideascale.com/a/dtd/334228-48088)
 - [ABCD](https://cardano.ideascale.com/a/dtd/333467-48088)
