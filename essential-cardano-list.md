@@ -174,6 +174,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 #### Haskell ####
 - [Haskell](https://www.haskell.org/)
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
+- [(Russian) Функциональное программирование на языке Haskell (stepik.org)](https://stepik.org/course/75/)
 
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
