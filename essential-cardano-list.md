@@ -435,6 +435,7 @@ Tools to help you build on Cardano:
 - [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
 - [Cardano Assets](https://cardanoassets.com)
 - [Cardano Token Tool](https://tokentool.io/)
+- [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
 
 ### Our Essential Community Top Five ###
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
