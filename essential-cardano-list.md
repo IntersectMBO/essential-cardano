@@ -102,6 +102,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Afri Labs](https://www.afrilabs.com/)
 - [Sonergy](https://sonergy.io/)
 - [dcSpark](https://dcspark.io/)
+- [Nexo](https://nexo.io/)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
@@ -350,11 +351,11 @@ These materials have been produced by the Plutus Pioneer course participants:
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 You can also explore stake pools using these tools:
+- [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
 - [POOLSTATS](https://poolstats.org/#)
 - [Adatools (pools)](https://adatools.io/pools)
-- [Ada pools](https://adapools.org/)
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [AdaStat (pools)](https://adastat.net/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
@@ -432,6 +433,7 @@ Tools to help you build on Cardano:
 - [Dandelion APIs](https://gimbalabs.com/dandelionapis)
 - [Ogmios](https://ogmios.dev/)
 - [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
+- [Cardano Assets](https://cardanoassets.com)
 - [Cardano Token Tool](https://tokentool.io/)
 
 ### Our Essential Community Top Five ###
@@ -474,6 +476,8 @@ Tools to help you build on Cardano:
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 - [Cardano cards](https://github.com/coconutpool/learn_cardano)
 - [Cardano Waves](https://cardanowaves.com)
+- [ADApools](https://adapools.org)
+- [NFT Explorer](https://adapools.org/nft)
 - [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
@@ -492,6 +496,7 @@ Tools to help you build on Cardano:
 - [Mantis](https://mantisclient.io/)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
+- [Alliance list](https://adapools.org/alli)
 - [Armada Alliance](https://armada-alliance.com)
 - [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
 - [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
@@ -505,7 +510,7 @@ Tools to help you build on Cardano:
 
 ### 🥩 Stake Pools 🥩 ###
 Lists of active stakepools can be found on:
-- [AdaPools](https://adapools.org)
+- [ADApools.org](https://adapools.org)
 - [Cardanoscan](https://cardanoscan.io/pools)
 - [Pooltool](https://pooltool.io)
 - [Pool.pm](https://pool.pm)
