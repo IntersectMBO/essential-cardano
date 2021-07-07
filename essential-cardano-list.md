@@ -481,6 +481,7 @@ Tools to help you build on Cardano:
 - [ADApools](https://adapools.org)
 - [NFT Explorer](https://adapools.org/nft)
 - [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
+- [Cardano academic content](https://stephen-rowan.gitbook.io/ekphrasis/)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
