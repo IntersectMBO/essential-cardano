@@ -1,12 +1,16 @@
 ## Essential Cardano weekly reports ##
 
+### Week ending July 9th ###
+Last week, we approved the following contributions:
+- Cardano IntelliJ IDEA Plugin (MVP)
+- A Russian version of the Haskell guide
+
 ### Week ending July 2nd ###
 Last week, we approved the following contributions:
 - Added an all-in-one guide to build a Cardano stake pool
 - Added Nexo to the ecosystem
 - New content from the Plutus Pioneers group
 - A new Cardano client lib Java library tool
-- A Russian version of the Haskell guide
 
 ### Week ending June 25th ###
 Last week, we approved the following contributions:
