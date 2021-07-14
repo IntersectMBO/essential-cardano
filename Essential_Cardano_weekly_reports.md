@@ -1,5 +1,9 @@
 ## Essential Cardano weekly reports ##
 
+### Week ending July 16th ###
+Last week, we approved the following contributions:
+- 
+
 ### Week ending July 9th ###
 Last week, we approved the following contributions:
 - Cardano IntelliJ IDEA Plugin (MVP)
