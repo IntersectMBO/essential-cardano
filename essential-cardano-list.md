@@ -50,6 +50,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Ergo](https://ergoplatform.org/en/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [nut.link](https://nut.link/)
+- [Charli3](https://charli3.io/)
 
 ## Enterprise & Business Ecosystem ##
 
@@ -103,12 +104,24 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Sonergy](https://sonergy.io/)
 - [dcSpark](https://dcspark.io/)
 - [Nexo](https://nexo.io/)
+- [Nervos](https://www.nervos.org/)
+- [Indigo](https://indigoprotocol.io/)
+- [AgeUSD](https://github.com/Emurgo/age-usd)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
 - [IOHK Atala Trace](https://iohk.io/enterprise/)
 - [IOHK Atala Scan](https://iohk.io/enterprise/)
 - [EMURGO Traceability](https://emurgo.io/our-products#emurgo-traceability)
+
+## DEXs & IDO ##
+- [Occam](https://occam.fi/)
+- [Sundaeswap](https://www.sundaeswap.finance/)
+- [Minswap](https://minswap.org/)
+- [Daemon Exchange](https://daemon.capital/index) 
+- [Cardax](https://cardax.io/)
+- [Adax](https://adax.pro/)
+- [ErgoDex](https://ergodex.io/)
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
@@ -153,6 +166,10 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Shopify](https://www.shopify.com/)
 - [WooCommerce](https://woocommerce.com/)
 - [Simplex](https://www.simplex.com/)
+- [Revuto](https://revuto.com/)
+
+### Lending & borrowing ###
+-[Meld](https://www.meld.com/)
 
 ### Incubators and Funding ###
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
@@ -245,6 +262,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## Ada Calculators ##
 - [ada calculator](https://adacalculator.com/)
+- [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
 - [ADA Calculators - MajorPool.net](https://majorpool.net/calculators)
 
 ## Research and Education ##
@@ -496,6 +514,15 @@ Tools to help you build on Cardano:
 
 ### Other IOHK Solutions ###
 - [Mantis](https://mantisclient.io/)
+
+### Exhange traded products ###
+- [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
+- [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
+- [Grayscale](https://grayscale.com/)
+
+### NFT platforms ###
+- [NFTMaker](http://nft-maker.io/)
+- [CNFT](http://cnft.io/)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
 - [Alliance list](https://adapools.org/alli)
