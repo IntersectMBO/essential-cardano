@@ -185,7 +185,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Marlowe Udemy course (v. 1)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
 
 #### Plutus ####
-- [Plutus overview](https://developers.cardano.org/en/programming-languages/plutus/overview/)
+- [Plutus overview](https://testnets.cardano.org/en/programming-languages/plutus/overview/)
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
 - [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/tutorials/index.html)
 - [Plutus community documentation](http://docs.plutus-community.com/)
@@ -206,15 +206,15 @@ These materials have been produced by the Plutus Pioneer course participants:
 #### Glow ####
 - [Glow offical website](https://glow-lang.org/)
 - [Glow official docs](https://glow-lang.org/docs/)
-- [Glow tutorial](https://developers.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
+- [Glow tutorial](https://testnets.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
 ### Developer Resources ###
-- [Cardano testnet](https://developers.cardano.org/en/testnets/cardano/overview/)
+- [Cardano testnet](https://testnets.cardano.org/en/testnets/cardano/overview/)
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)
 - Metadata
 - Atlas Adrestia
-- [EVM](https://developers.cardano.org/en/virtual-machines/evm/overview/)
-- [KEVM](https://developers.cardano.org/en/virtual-machines/kevm/overview/)
+- [EVM](https://testnets.cardano.org/en/virtual-machines/evm/overview/)
+- [KEVM](https://testnets.cardano.org/en/virtual-machines/kevm/overview/)
 
 ### Infrastructure Providers ###
 
@@ -419,7 +419,7 @@ Here is our essential list of Cardano resources.
 ### 🔨 Tools 🔨 ###
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
-- [Staking calculator](https://developers.cardano.org/en/testnets/cardano/tools/staking-calculator/)
+- [Staking calculator](https://testnets.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 - [NFT Marketplace](https://xhibit.io/)
 - [NFT-MAKER.IO](https://nft-maker.io/)
