@@ -30,7 +30,7 @@ Here is an outline of the categories:
 - [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
 - [Blockchain Labs and Education Instiutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
-- [Project Catalyst Startups](https://github.com/nahern/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
+- [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
 - [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
@@ -161,7 +161,6 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - DC-fund
 - C-fund
 - Treasury Wave  
-
 
 ### Games and Entertainment ###
 - [Ridotto](https://ridotto.io)
