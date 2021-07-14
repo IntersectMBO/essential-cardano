@@ -2,7 +2,7 @@
 
 ### Week ending July 16th ###
 Last week, we approved the following contributions:
-- 
+- Updated developers.cardano.org links with testnets.cardano.org
 
 ### Week ending July 9th ###
 Last week, we approved the following contributions:
