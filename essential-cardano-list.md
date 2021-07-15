@@ -168,9 +168,6 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Simplex](https://www.simplex.com/)
 - [Revuto](https://revuto.com/)
 
-### Lending & borrowing ###
--[Meld](https://www.meld.com/)
-
 ### Incubators and Funding ###
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - [Y2X](https://y2x.io/)
