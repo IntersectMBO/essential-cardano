@@ -2,8 +2,8 @@
 
 ### Week ending July 16th ###
 Last week, we approved the following contributions:
-- Updated developers.cardano.org links with testnets.cardano.org
-- Updated the Project Catalyst startups list
+- Updated links for developers.cardano.org with testnets.cardano.org
+- New entries in the Project Catalyst startups list
 
 ### Week ending July 9th ###
 Last week, we approved the following contributions:
