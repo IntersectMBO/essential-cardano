@@ -444,6 +444,11 @@ These materials have been produced by the Plutus Pioneer course participants:
 ## Exploring Stake Pools ##
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
+Under Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances.
+Custom SMASH servers available:
+- [Mission-Driven Pools](https://missiondrivenpools.org) - URL: https://cmdp.panl.org
+- [Single Pool Alliance](https://singlepoolalliance.net) - URL: https://smash.panl.org
+
 You can also explore stake pools using these tools:
 - [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
