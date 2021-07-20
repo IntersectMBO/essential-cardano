@@ -4,6 +4,7 @@
 Last week, we approved the following contributions:
 - Updated links for developers.cardano.org with testnets.cardano.org
 - New entries in the Project Catalyst startups list
+- Added new links to custom SMASH servers, which can be found in Daedalus
 
 ### Week ending July 9th ###
 Last week, we approved the following contributions:
