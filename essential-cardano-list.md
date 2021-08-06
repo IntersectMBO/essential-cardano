@@ -122,6 +122,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Cardax](https://cardax.io/)
 - [Adax](https://adax.pro/)
 - [ErgoDex](https://ergodex.io/)
+- [Mirqur](https://mirqur.io/)
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
