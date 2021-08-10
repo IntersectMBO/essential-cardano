@@ -217,6 +217,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [How to get the Plutus Playground up and running](https://tutorials.cardanoacademy.io/?utm_source=Developers&utm_campaign=4f9ab1c222-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-4f9ab1c222-77569945)
 - [Awesome Plutus](https://github.com/juanscolari/awesome-plutus?utm_source=Developers&utm_campaign=05d80006c7-EMAIL_CAMPAIGN_2021_03_31_06_14_COPY_01&utm_medium=email&utm_term=0_c9c99d4ad3-05d80006c7-77569945)
 - [Plutus Pioneer Program on Github](https://github.com/input-output-hk/plutus-pioneer-program)
+- [Alonzo testnet walkthrough materials](https://plutus-pioneer-program.readthedocs.io/en/latest/alonzo.html)
 
 #### Glow ####
 - [Glow offical website](https://glow-lang.org/)
@@ -512,8 +513,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 -[Scale-UP Cardano's Community Hubs](http://app.ideascale.com/t/UM5UZBiuP)
 -[Improve and Grow Auditability](http://app.ideascale.com/t/UM5UZBinJ)
 -[ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
-
-
 
 ## Starting a Stake Pool ##
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
