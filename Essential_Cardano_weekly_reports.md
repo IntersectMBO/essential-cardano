@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports ##
 
+### Weeks ending July 30th & August 6th ###
+In the last two weeks, we approved the following contributions:
+- Added Mirqur to DEXs essential list
+- Alonzo testnet walkthrough materials 
+
 ### Week ending July 16th ###
 Last week, we approved the following contributions:
 - Updated links for developers.cardano.org with testnets.cardano.org
