@@ -160,7 +160,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Gate.io](https://www.gate.io/)
 
 ## Payments ##
-- [Coti](coti.io)
+- [Coti]((https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
