@@ -939,6 +939,7 @@ Tools to help you build on Cardano:
 - [JES Art](https://www.jes-art.com)
 - [The Crypto MOB](https://t.co/2ZOXALONxp?amp=1)
 - [Trong Le](https://t.co/amv8TnDmH8?amp=1)
+- [adadomains.io](https://www.adadomains.io/)
 
 
 ### 🎱 Stake Pool Alliances 🎱 ###
