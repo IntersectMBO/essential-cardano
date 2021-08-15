@@ -954,6 +954,7 @@ Tools to help you build on Cardano:
 - [Stake Pool Operator Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
 - [Cardano Pools United](https://www.cpoolsunited.com/)
 - [Swiss CardaNation](https://www.facebook.com/groups/swisscardanation/)
+- [SPO JAPAN GUILD](https://spojapanguild.net/)
 
 
 ### 🥩 Stake Pools 🥩 ###
