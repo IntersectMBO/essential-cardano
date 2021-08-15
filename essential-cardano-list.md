@@ -266,6 +266,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [CardanoWall](https://cardanowall.com/)
 
 ## Ada Calculators ##
+- [Cardano ADA Gainz calculator](https://cardanogainz.com)
 - [ada calculator](https://adacalculator.com/)
 - [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
 - [ADA Calculators - MajorPool.net](https://majorpool.net/calculators)
