@@ -28,7 +28,7 @@ Here is an outline of the categories:
 - [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
 - [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
-- [Blockchain Labs and Education Instiutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
+- [Education Institutions and Blockchain Labs](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
@@ -292,8 +292,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [ICDCS](https://icdcs2021.us/)
 - [Financial Cryptography](https://fc21.ifca.ai/index.php)
 
-### Blockchain Labs and Education Institutions ###
-- [The University of Edinburgh](https://www.ed.ac.uk/)
+### Education Institutions and Blockchain Labs ###
+- [University of Edinburgh](https://www.ed.ac.uk/)
 - [University of Wyoming](http://www.uwyo.edu/)
 - [University of Kent](https://www.kent.ac.uk/)
 - [University of Cambridge](https://www.cam.ac.uk/)
@@ -311,6 +311,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Zigurat Global Institute of Technology](https://www.e-zigurat.com)
 - [Frankfurt Business School](https://www.frankfurt-school.deitis]())
 - [University of Mauritius](https://www.uom.ac.mu/)
+- [European Business University of Luxembourg (EBU)](https://ebu.lu/)
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
 
 ## Infrastructure & Security ##
