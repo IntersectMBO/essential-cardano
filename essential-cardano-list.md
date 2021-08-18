@@ -238,7 +238,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Blockfrost.io](https://blockfrost.io)
 
 ### Native Tokens ###
-- [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
+- [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
 ## Wallets ##
