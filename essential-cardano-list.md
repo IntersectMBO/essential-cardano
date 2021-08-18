@@ -138,6 +138,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Venus](https://venus.io/)
 - [Ardana](https://ardana.org/)
+- [Hard Blue](https://hard.blue/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
