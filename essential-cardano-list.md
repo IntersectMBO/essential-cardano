@@ -28,7 +28,7 @@ Here is an outline of the categories:
 - [Research and Education](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#research-and-education)
 - [Standards/Consortia](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#standardsconsortia)
 - [Top Tier Research Conferences](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#top-tier-research-conferences)
-- [Blockchain Labs and Education Instiutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
+- [Education Institutions and Blockchain Labs](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
@@ -137,6 +137,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Wave](https://wavegp.com/)
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Venus](https://venus.io/)
+- [Ardana](https://ardana.org/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -158,9 +159,10 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Etoro](https://www.etoro.com/)
 - [LATOKEN](https://latoken.com/)
 - [Gate.io](https://www.gate.io/)
+- [Bitbns](https://bitbns.com/)
 
 ## Payments ##
-- [Coti](coti.io)
+- [Coti]((https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
@@ -237,7 +239,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Blockfrost.io](https://blockfrost.io)
 
 ### Native Tokens ###
-- [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
+- [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
 ## Wallets ##
@@ -256,11 +258,18 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Guarda Wallet](https://guarda.com/)
 - [GeroWallet](https://gerowallet.io/)
 - [ccwallet.io](https://ccwallet.io/)
+- [B58 Finance](https://b58.finance/)
+- [NamiWallet](https://namiwallet.io/)
+- [ccwallet] (https://ccwallet.io/mainnet/landingpage)
+- [CardWallet] (https://cardwallet.fi/)
+- [Game Changer Wallet] (https://gamechanger.finance/welcome)
+- [Adaly Wallet] (https://t.co/YbshCCU13n?amp=1
 
 ## Metadata ##
 - [CardanoWall](https://cardanowall.com/)
 
 ## Ada Calculators ##
+- [Cardano ADA Gainz calculator](https://cardanogainz.com)
 - [ada calculator](https://adacalculator.com/)
 - [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
 - [ADA Calculators - MajorPool.net](https://majorpool.net/calculators)
@@ -287,8 +296,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [ICDCS](https://icdcs2021.us/)
 - [Financial Cryptography](https://fc21.ifca.ai/index.php)
 
-### Blockchain Labs and Education Institutions ###
-- [The University of Edinburgh](https://www.ed.ac.uk/)
+### Education Institutions and Blockchain Labs ###
+- [University of Edinburgh](https://www.ed.ac.uk/)
 - [University of Wyoming](http://www.uwyo.edu/)
 - [University of Kent](https://www.kent.ac.uk/)
 - [University of Cambridge](https://www.cam.ac.uk/)
@@ -306,6 +315,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Zigurat Global Institute of Technology](https://www.e-zigurat.com)
 - [Frankfurt Business School](https://www.frankfurt-school.deitis]())
 - [University of Mauritius](https://www.uom.ac.mu/)
+- [European Business University of Luxembourg (EBU)](https://ebu.lu/)
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
 
 ## Infrastructure & Security ##
@@ -348,7 +358,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Python module](https://cardano.ideascale.com/a/dtd/333770-48088)
 - [Visual Studio Smart Contract Plugin](https://cardano.ideascale.com/a/dtd/333827-48088)
 - [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088)
-- [CardanoSharp - .NET Library](https://cardano.ideascale.com/a/dtd/333629-48088)
+- [CardanoSharp - .NET Library](https://github.com/CardanoSharp)
 - [Developer & SPO Tools [CNTools]](https://cardano.ideascale.com/a/dtd/333605-48088)
 - [Cardano IntelliJ IDEA Plugin (MVP)](https://intelliada.bloxbean.com/)
 - [Cardano serialization library in Go](https://cardano.ideascale.com/a/dtd/334110-48088)
@@ -612,6 +622,7 @@ Tools to help you build on Cardano:
 - [Cardano Assets](https://cardanoassets.com)
 - [Cardano Token Tool](https://tokentool.io/)
 - [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
+- [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
 
 ### Our Essential Community Top Five ###
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
@@ -680,6 +691,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [ADACoinsNFT](https://www.adacoins.xyz)
 - [unsigned_algorithms](unsigs.com)
 - [The Hoskinsons](thehoskinsons.com)
 - [Cardano Caricatures](www.cardanocaricatures.com)
@@ -940,7 +952,8 @@ Tools to help you build on Cardano:
 - [JES Art](https://www.jes-art.com)
 - [The Crypto MOB](https://t.co/2ZOXALONxp?amp=1)
 - [Trong Le](https://t.co/amv8TnDmH8?amp=1)
-
+- [PIGY Token](https://pigytoken.com)
+- [adadomains.io](https://www.adadomains.io/)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
 - [Alliance list](https://adapools.org/alli)
@@ -953,6 +966,7 @@ Tools to help you build on Cardano:
 - [Stake Pool Operator Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
 - [Cardano Pools United](https://www.cpoolsunited.com/)
 - [Swiss CardaNation](https://www.facebook.com/groups/swisscardanation/)
+- [SPO JAPAN GUILD](https://spojapanguild.net/)
 
 
 ### 🥩 Stake Pools 🥩 ###
