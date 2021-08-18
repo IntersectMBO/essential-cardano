@@ -256,6 +256,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 - [GeroWallet](https://gerowallet.io/)
+- [B58 Finance](https://b58.finance/)
 - [NamiWallet](https://namiwallet.io/)
 - [ccwallet] (https://ccwallet.io/mainnet/landingpage)
 - [CardWallet] (https://cardwallet.fi/)
