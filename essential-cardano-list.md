@@ -356,7 +356,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Python module](https://cardano.ideascale.com/a/dtd/333770-48088)
 - [Visual Studio Smart Contract Plugin](https://cardano.ideascale.com/a/dtd/333827-48088)
 - [Liqwid Developer Portal:Cardano SDK](https://cardano.ideascale.com/a/dtd/333382-48088)
-- [CardanoSharp - .NET Library](https://cardano.ideascale.com/a/dtd/333629-48088)
+- [CardanoSharp - .NET Library](https://github.com/CardanoSharp)
 - [Developer & SPO Tools [CNTools]](https://cardano.ideascale.com/a/dtd/333605-48088)
 - [Cardano IntelliJ IDEA Plugin (MVP)](https://intelliada.bloxbean.com/)
 - [Cardano serialization library in Go](https://cardano.ideascale.com/a/dtd/334110-48088)
@@ -620,6 +620,7 @@ Tools to help you build on Cardano:
 - [Cardano Assets](https://cardanoassets.com)
 - [Cardano Token Tool](https://tokentool.io/)
 - [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
+- [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
 
 ### Our Essential Community Top Five ###
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
