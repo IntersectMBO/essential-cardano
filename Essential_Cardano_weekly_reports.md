@@ -2,8 +2,8 @@
 
 ### Weeks ending August 13th
 Last week, we approved the following contributions:
-- lots of NFTs updates
-- new Project catalyst project updates
+- lots of NFTs updates (60+)
+- new Project catalyst project updates (60+)
 
 ### Weeks ending July 30th & August 6th
 In the last two weeks, we approved the following contributions:
