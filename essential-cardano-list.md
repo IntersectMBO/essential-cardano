@@ -161,7 +161,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Gate.io](https://www.gate.io/)
 
 ## Payments ##
-- [Coti](coti.io)
+- [Coti]((https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
@@ -238,7 +238,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Blockfrost.io](https://blockfrost.io)
 
 ### Native Tokens ###
-- [Native tokens explainer](https://docs.cardano.org/en/latest/native-tokens/learn-about-native-tokens.html)
+- [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 
 ## Wallets ##
@@ -256,6 +256,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 - [GeroWallet](https://gerowallet.io/)
+- [B58 Finance](https://b58.finance/)
 - [NamiWallet](https://namiwallet.io/)
 - [ccwallet] (https://ccwallet.io/mainnet/landingpage)
 - [CardWallet] (https://cardwallet.fi/)
@@ -947,7 +948,7 @@ Tools to help you build on Cardano:
 - [The Crypto MOB](https://t.co/2ZOXALONxp?amp=1)
 - [Trong Le](https://t.co/amv8TnDmH8?amp=1)
 - [PIGY Token](https://pigytoken.com)
-
+- [adadomains.io](https://www.adadomains.io/)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
 - [Alliance list](https://adapools.org/alli)
