@@ -163,7 +163,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Bitbns](https://bitbns.com/)
 
 ## Payments ##
-- [Coti]((https://coti.io)
+- [Coti](https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
