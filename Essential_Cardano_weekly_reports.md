@@ -1,6 +1,19 @@
 ## Essential Cardano weekly reports
 
-### Weeks ending August 13th
+### Week ending August 20th
+Last week, we approved the following contributions:
+- Ardana startup
+- 7 new wallets
+- stakepool-alliances for the SPO community in Japan
+- adadomains.io
+- Bitbns exchange
+- new Plutus Pioneers content and materials
+- AdaCoinsNFT and PIGY Token projects
+- Cardano ADA Gainz calculator 
+- Hard Blue project
+- updated some new links
+
+### Week ending August 13th
 Last week, we approved the following contributions:
 - lots of NFTs updates (60+)
 - new Project catalyst project updates (60+)
