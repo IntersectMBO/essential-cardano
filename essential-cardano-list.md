@@ -261,10 +261,10 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [ccwallet.io](https://ccwallet.io/)
 - [B58 Finance](https://b58.finance/)
 - [NamiWallet](https://namiwallet.io/)
-- [ccwallet] (https://ccwallet.io/mainnet/landingpage)
-- [CardWallet] (https://cardwallet.fi/)
-- [Game Changer Wallet] (https://gamechanger.finance/welcome)
-- [Adaly Wallet] (https://t.co/YbshCCU13n?amp=1
+- [ccwallet](https://ccwallet.io/mainnet/landingpage)
+- [CardWallet](https://cardwallet.fi/)
+- [Game Changer Wallet](https://gamechanger.finance/welcome)
+- [Adaly Wallet](https://t.co/YbshCCU13n?amp=1)
 
 ## Metadata ##
 - [CardanoWall](https://cardanowall.com/)
