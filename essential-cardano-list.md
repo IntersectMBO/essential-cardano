@@ -61,6 +61,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
+- [Token Allies] (https://tokenallies.com/)
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
