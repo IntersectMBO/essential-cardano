@@ -161,6 +161,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [LATOKEN](https://latoken.com/)
 - [Gate.io](https://www.gate.io/)
 - [Bitbns](https://bitbns.com/)
+- [NBX](https://nbx.com/)
 
 ## Payments ##
 - [Coti](https://coti.io)
