@@ -692,6 +692,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [Stiks](https://stiksnft.com)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [unsigned_algorithms](unsigs.com)
 - [The Hoskinsons](thehoskinsons.com)
