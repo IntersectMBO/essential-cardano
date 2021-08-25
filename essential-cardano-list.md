@@ -61,6 +61,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
+- [Token Allies] (https://tokenallies.com/)
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
@@ -161,9 +162,10 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [LATOKEN](https://latoken.com/)
 - [Gate.io](https://www.gate.io/)
 - [Bitbns](https://bitbns.com/)
+- [NBX](https://nbx.com/)
 
 ## Payments ##
-- [Coti]((https://coti.io)
+- [Coti](https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
 - AdaPay
@@ -183,6 +185,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 ### Games and Entertainment ###
 - [Ridotto](https://ridotto.io)
 - [Cardacity](https://carda.city)
+- [BingoToken](https://bingochain.io)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
@@ -693,6 +696,7 @@ Tools to help you build on Cardano:
 
 ### NFT platforms & Projects ###
 - [Stiks](https://stiksnft.com)
+- [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [unsigned_algorithms](unsigs.com)
 - [The Hoskinsons](thehoskinsons.com)
@@ -956,6 +960,8 @@ Tools to help you build on Cardano:
 - [Trong Le](https://t.co/amv8TnDmH8?amp=1)
 - [PIGY Token](https://pigytoken.com)
 - [adadomains.io](https://www.adadomains.io/)
+- [twitternfts.space](https://www.twitternfts.space/)
+
 
 ### 🎱 Stake Pool Alliances 🎱 ###
 - [Alliance list](https://adapools.org/alli)
