@@ -673,6 +673,7 @@ Tools to help you build on Cardano:
 - [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
 - [Cardano academic content](https://stephen-rowan.gitbook.io/ekphrasis/)
 - [Academic papers list](https://github.com/jonathondilworth/blockchain-notes/blob/main/Academic-Papers-List.md)
+- [CNFT Hub](https://cnfthub.io/)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
@@ -961,6 +962,7 @@ Tools to help you build on Cardano:
 - [PIGY Token](https://pigytoken.com)
 - [adadomains.io](https://www.adadomains.io/)
 - [twitternfts.space](https://www.twitternfts.space/)
+- [CardanoBudz.io](https://CardanoBudz.io/)
 
 
 ### 🎱 Stake Pool Alliances 🎱 ###
