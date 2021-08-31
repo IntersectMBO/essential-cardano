@@ -731,6 +731,7 @@ Tools to help you build on Cardano:
 - [ADA-Monsterz](https://adamonsterz.com)
 - [Caja de Agua](https://linktr.ee/cajadeagua)
 - [CardAmigos](https://www.cardamigos.io/Collection)
+- [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardanobits](https://t.co/f1ea3sfgyC?amp=1)
 - [Cardano Bobclats](https://t.co/QbcWwkcPhs?amp=1)
 - [The Cardanians](https://t.co/zXpXQ6tYdE?amp=1)
