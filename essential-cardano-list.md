@@ -695,6 +695,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [Kryptoids](https://kryptoids.monster/)
 - [Stiks](https://stiksnft.com)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
 - [ADACoinsNFT](https://www.adacoins.xyz)
