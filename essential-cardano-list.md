@@ -61,7 +61,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
 - [Quidli](https://quid.li/)
-- [Token Allies] (https://tokenallies.com/)
+- [Token Allies](https://tokenallies.com/)
 
 ### Strategic Partners and Collaborators ###
 - [SingularityNET](https://singularitynet.io/)
@@ -186,6 +186,7 @@ Here is a map of our vibrant ecosystem (April 2021) - new version coming soon:
 - [Ridotto](https://ridotto.io)
 - [Cardacity](https://carda.city)
 - [BingoToken](https://bingochain.io)
+- [CardanoTales](https://cardanotales.com)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
