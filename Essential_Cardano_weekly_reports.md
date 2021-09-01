@@ -1,5 +1,14 @@
 ## Essential Cardano weekly reports
 
+### Week ending August 27th
+Last week, we approved the following contributions:
+- Cardania NFT project
+- Kryptoids NFT project
+- CardanoTales under the Games section
+- Cardano Budz and CNFTHub.io under Tools
+- BingoChain.io: A play-to-earn game built using Cardano Native Tokens
+- Stiks in NFT platforms & Projects
+
 ### Week ending August 20th
 Last week, we approved the following contributions:
 - Ardana startup
