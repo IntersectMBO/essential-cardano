@@ -6,7 +6,6 @@ The Essential Cardano list provides an outline and accompanying map of the Carda
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
 Here is an outline of the categories:
-- [Navigate the Cardano Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#navigate-the-cardano-ecosystem)
 - [Core Organizations](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
 - [Oracles](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#oracles)
 - [Enterprise & Business Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#enterprise--business-ecosystem)
@@ -36,10 +35,6 @@ Here is an outline of the categories:
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
 - [Games & Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
-
-## Navigate the Cardano Ecosystem ##
-Here is a map of our vibrant ecosystem (April 2021) - new version coming soon: 
-![Cardano ecosystem](cardano-ecosystem.PNG)
 
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
