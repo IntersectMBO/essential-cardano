@@ -614,6 +614,7 @@ Here is our essential list of Cardano resources.
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
+- [NFTada.io](https://nftada.io/)
 - [Block Frost](https://blockfrost.io/)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
 - [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
@@ -693,6 +694,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [ADAkawaii](https://adakawaii.io/)
 - [Kryptoids](https://kryptoids.monster/)
 - [Stiks](https://stiksnft.com)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
