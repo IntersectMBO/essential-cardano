@@ -672,6 +672,7 @@ Tools to help you build on Cardano:
 - [Cardano academic content](https://stephen-rowan.gitbook.io/ekphrasis/)
 - [Academic papers list](https://github.com/jonathondilworth/blockchain-notes/blob/main/Academic-Papers-List.md)
 - [CNFT Hub](https://cnfthub.io/)
+- [Cardano Cube](https://cardanocube.io/)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
