@@ -965,6 +965,7 @@ Tools to help you build on Cardano:
 - [adadomains.io](https://www.adadomains.io/)
 - [twitternfts.space](https://www.twitternfts.space/)
 - [CardanoBudz.io](https://CardanoBudz.io/)
+- [Exnft.io](https://exnft.io/)
 
 
 ### 🎱 Stake Pool Alliances 🎱 ###
