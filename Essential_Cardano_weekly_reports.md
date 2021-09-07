@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending September 3rd
+Last week, we approved the following contributions:
+- NFTada.io builder tool
+- adakawaii.io NFT project
+- Drunken Dragon: Inns & Quests under the Games section
+- Cardano Cube under Tools
+
 ### Week ending August 27th
 Last week, we approved the following contributions:
 - Cardania NFT project
