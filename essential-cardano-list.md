@@ -46,6 +46,7 @@ Here is an outline of the categories:
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [nut.link](https://nut.link/)
 - [Charli3](https://charli3.io/)
+- [PIGY](https://oracle.pigytoken.com/)
 
 ## Enterprise & Business Ecosystem ##
 
