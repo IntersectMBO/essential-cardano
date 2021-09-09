@@ -336,6 +336,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Chronos
 - Crypsinous
 
+### Abuse Detection & Prevention ###
+- [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
+
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
 - [Cardano Starter Kits + APIs (Gimbalabs)](https://gimbalabs.com/)
