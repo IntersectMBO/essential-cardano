@@ -119,6 +119,7 @@ Here is an outline of the categories:
 - [Adax](https://adax.pro/)
 - [ErgoDex](https://ergodex.io/)
 - [Mirqur](https://mirqur.io/)
+- [GADA](https://gada.finance/)
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
