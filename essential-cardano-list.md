@@ -183,6 +183,7 @@ Here is an outline of the categories:
 - [BingoToken](https://bingochain.io)
 - [CardanoTales](https://cardanotales.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
+- [Carnivilla](https://carnivilla.com/)
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
