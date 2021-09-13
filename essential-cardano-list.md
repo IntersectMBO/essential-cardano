@@ -46,6 +46,7 @@ Here is an outline of the categories:
 - [WolframAlpha](https://www.wolframalpha.com/)
 - [nut.link](https://nut.link/)
 - [Charli3](https://charli3.io/)
+- [PIGY](https://oracle.pigytoken.com/)
 
 ## Enterprise & Business Ecosystem ##
 
@@ -119,6 +120,7 @@ Here is an outline of the categories:
 - [Adax](https://adax.pro/)
 - [ErgoDex](https://ergodex.io/)
 - [Mirqur](https://mirqur.io/)
+- [GADA](https://gada.finance/)
 
 ### Deployments ###
 - [New Balance](https://www.newbalance.com/)
@@ -335,6 +337,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Hydra](https://eprint.iacr.org/2020/299.pdf)
 - Chronos
 - Crypsinous
+
+### Abuse Detection & Prevention ###
+- [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
 
 ## Project Catalyst Startups ##
 - [Liqwid: Cardano DeFi Lending Markets](https://www.liqwid.finance/)
@@ -695,19 +700,25 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
+- [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
+- [ADACoinsNFT](https://www.adacoins.xyz)
 - [Ada Slimes](https://adaslimes.com/)
+- [adasso.art](https://adasso.art/)
 - [ADAkawaii](https://adakawaii.io/)
+- [Ada Miners](https://t.co/v4kdNE9WZD?amp=1)
+- [Ada Plates](https://adaplates.com/)
+- [Cardano Caricatures](www.cardanocaricatures.com)
+- [Cardano Fighters](www.cardanofighters.com)
+- [Galaxy of Art](https://www.galaxyof.art/)
 - [Kryptoids](https://kryptoids.monster/)
 - [Stiks](https://stiksnft.com)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
-- [ADACoinsNFT](https://www.adacoins.xyz)
 - [unsigned_algorithms](unsigs.com)
 - [The Hoskinsons](thehoskinsons.com)
-- [Cardano Caricatures](www.cardanocaricatures.com)
 - [Trybbles](trybbles.nftsale.me)
 - [Cardano Space](cardanospace.com)
 - [Cryptoverse]
-- [Cardano Fighters](www.cardanofighters.com)
 - [CryptoPetz](cryptopetz.io)
 - [Aeoniumsky](www.aeoniumsky.io/blocks)
 - [Spacebudz](linktr.ee/SpaceBudz)
@@ -715,7 +726,6 @@ Tools to help you build on Cardano:
 - [Project Kifaru](www.projectkifaru.com)
 - [BitBunny](www.instagram.com/bitbunnyio/)
 - [Cardano Kidz](https://t.co/Bu63GNA0Tw?amp=1)
-- [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
 - [Sushibyte](https://app.sushibyte.io)
 - [Kaizen NFT](https://kaizennft.com)
 - [Neverengine](https://drops.neverengine.net)
@@ -738,9 +748,6 @@ Tools to help you build on Cardano:
 - [Cardanobits](https://t.co/f1ea3sfgyC?amp=1)
 - [Cardano Bobclats](https://t.co/QbcWwkcPhs?amp=1)
 - [The Cardanians](https://t.co/zXpXQ6tYdE?amp=1)
-- [Ada Miners](https://t.co/v4kdNE9WZD?amp=1)
-- [Ada Plates](https://adaplates.com/)
-- [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [Mipa Toys](https://twitter.com/MipaToys)
 - [Isometrices](https://t.co/8G50Lnugxg?amp=1)
 - [Swankpie](https://t.co/Se6oMu8Aq1?amp=1)
@@ -967,6 +974,7 @@ Tools to help you build on Cardano:
 - [twitternfts.space](https://www.twitternfts.space/)
 - [CardanoBudz.io](https://CardanoBudz.io/)
 - [Exnft.io](https://exnft.io/)
+- [anarchyCNFT](https://anarchyCNFT.art/)
 
 
 ### 🎱 Stake Pool Alliances 🎱 ###
