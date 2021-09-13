@@ -695,6 +695,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ### NFT platforms & Projects ###
+- [adasso.art](https://adasso.art/)
 - [Galaxy of Art](https://www.galaxyof.art/)
 - [ADAkawaii](https://adakawaii.io/)
 - [Kryptoids](https://kryptoids.monster/)
