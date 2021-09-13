@@ -969,6 +969,7 @@ Tools to help you build on Cardano:
 - [twitternfts.space](https://www.twitternfts.space/)
 - [CardanoBudz.io](https://CardanoBudz.io/)
 - [Exnft.io](https://exnft.io/)
+- [anarchyCNFT](https://anarchyCNFT.art/)
 
 
 ### 🎱 Stake Pool Alliances 🎱 ###
