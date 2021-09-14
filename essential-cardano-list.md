@@ -137,6 +137,7 @@ Here is an outline of the categories:
 - [Venus](https://venus.io/)
 - [Ardana](https://ardana.org/)
 - [Hard Blue](https://hard.blue/)
+- [Meld](https://www.meld.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
