@@ -937,7 +937,7 @@ Tools to help you build on Cardano:
 - [CNFT](https://cnft.io)
 - [Xhibit](https://xhibit.io)
 - [Easy CNFT Art](https://easycnft.art/en)
-- [Lavada Artist](https://lovada.art)
+- [Lovada Art](https://market.lovada.art)
 - [Mermaida](https://www.metromermaids.com/mint/v0.103/)
 - [CNFT Premium Exchange](https://t.co/SbTya1CxIK?amp=1)
 - [somint](https://somint.art/)
