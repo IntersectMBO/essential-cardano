@@ -1,5 +1,21 @@
 ## Essential Cardano weekly reports
 
+### Week ending September 17th
+Last week, we approved the following contributions:
+- Carnivilla under Games and Entertainment
+- The Galgos CNFT project
+- Ada Slimes, CardanoAmigos, Galaxy of Art, adasso.art, and anarchyCNFT under NFT projects
+- GADA finance under the DEXs & IDO section
+- PIGY Oracle in the Oracles section
+- Meld under DeFi and Capital Markets
+- Plutus topics on Cardano Docs
+- A new subcategory under Security and listed the Cardano Phishing Bot - a tool for reporting automatically discovered giveaway and phishing scams that target Cardano users.
+
+### Week ending September 10th
+Last week, we approved the following contributions:
+- A new NFT marketplace Exnft.io under Tools
+- Galaxy of Art under NFT projects
+
 ### Week ending September 3rd
 Last week, we approved the following contributions:
 - NFTada.io builder tool
