@@ -920,6 +920,7 @@ Tools to help you build on Cardano:
 - [Nothing Collectibles](https://t.co/naOM4UV1dC?amp=1)
 - [Adaliens](https://t.co/yzk93WhdTH?amp=1)
 - [Crypto Heroez](https://t.co/32sRczLQwX?amp=1)
+- [The Galgos](https://thegalgos.io/)
 - [DadADAJokes](https://t.co/odWdQ1I1WT?amp=1)
 - [Da Wanted](https://t.co/WimeZv4Tfg?amp=1)
 - [Adamobile](https://t.co/F43SthHREO?amp=1)
