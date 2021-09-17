@@ -4,7 +4,7 @@
 Last week, we approved the following contributions:
 - Carnivilla under Games and Entertainment
 - The Galgos CNFT project
-- Ada Slimes, CardanoAmigos, Galaxy of Art, adasso.art, and anarchyCNFT under NFT projects
+- Ada Slimes, CardanoAmigos, Anton Gudim, adasso.art, and anarchyCNFT under NFT projects
 - GADA finance under the DEXs & IDO section
 - PIGY Oracle in the Oracles section
 - Meld under DeFi and Capital Markets
