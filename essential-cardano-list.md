@@ -380,7 +380,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
 - [Ada Tx to Trigger IoT + IO HW Spins]
-- [Digital Asset Inheritance]
 - [Decentralized Accounting <- IFRS]
 - [Food traceability solution - Africa]
 - [Dapp for business contracts]
