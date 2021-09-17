@@ -30,6 +30,7 @@ Here is an outline of the categories:
 - [Education Institutions and Blockchain Labs](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#blockchain-labs-and-education-institutions)
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
+- NFTS]()
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
 - [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
@@ -530,6 +531,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Scale-UP Cardano's Community Hubs](http://app.ideascale.com/t/UM5UZBiuP)
 - [Improve and Grow Auditability](http://app.ideascale.com/t/UM5UZBinJ)
 - [ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
+
+## NFT Projects
+- [Anton Gudim](https://linkpeak.io/l/gudim)
 
 ## Starting a Stake Pool ##
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
