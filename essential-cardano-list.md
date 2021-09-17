@@ -207,7 +207,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Marlowe Udemy course (v. 1)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
 
 #### Plutus ####
-- [Plutus overview](https://testnets.cardano.org/en/programming-languages/plutus/overview/)
+- [Plutus Cardano Docs topics](https://docs.cardano.org/plutus/learn-about-plutus)
 - [Plutus Playground](https://playground.plutus.iohkdev.io/)
 - [Plutus tutorials](https://playground.plutus.iohkdev.io/tutorial/tutorials/index.html)
 - [Plutus community documentation](http://docs.plutus-community.com/)
