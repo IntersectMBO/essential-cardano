@@ -844,7 +844,7 @@ Tools to help you build on Cardano:
 - [Cicada NFT](https://t.co/ljLMBPUAcN?amp=1)
 - [Noodle Fighter Titans](https://t.co/nHfo6pzhNv?amp=1)
 - [PsychADAlias](https://t.co/mgs75Hzo0b?amp=1)
-- [SoccaDoodz](doodz.io)
+- [Socca Doodz](https://doodz.io)
 - [OutOfTheWorld](https://twitter.com/CnftCommunity)
 - [Stigma Trading Cards](https://t.co/vsjG2j07El?amp=1)
 - [NFTY](https://www.nftynfty.com/)
