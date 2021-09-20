@@ -35,10 +35,7 @@ Here is an outline of the categories:
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [NFT Platforms and Projects](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#nft-platforms-and-projects)
-- [Starting a stake ppol](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#starting-a-stake-pool)
-- [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
-- [Stake Pool Alliances](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pool-alliances-)
-- [Stake Pool Lists](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
+- [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
 
 ## Core Organizations ##
