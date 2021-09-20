@@ -16,11 +16,15 @@ Here is an outline of the categories:
 - [DeFi and Capital Markets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Governments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#governments)
 - [Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
+- [Decentralized Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#decentralized-exchanges-dexs)
 - [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Incubators and Funding](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#incubators-and-funding)
+- [Games and Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
+- [Exchange-traded Products](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchange-traded-products)
 - [Developer Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
+- [Native Tokens](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#native-tokens)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
 - [Metadata](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#metadata)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
@@ -31,11 +35,11 @@ Here is an outline of the categories:
 - [Infrastructure & Security](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#infrastructure--security)
 - [Project Catalyst Startups](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#project-catalyst-startups)
 - [NFT Platforms and Projects](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#nft-platforms-and-projects)
+- [Starting a stake ppol](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#starting-a-stake-pool)
 - [Exploring Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exploring-stake-pools)
-- [Stake Pools](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
-- [Other IOHK Solutions](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#other-iohk-solutions)
+- [Stake Pool Alliances](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pool-alliances-)
+- [Stake Pool Lists](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#-stake-pools-)
 - [Essential Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#essential-resources)
-- [Games & Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
 
 ## Core Organizations ##
 - [IOHK](https://iohk.io/en/)
@@ -818,11 +822,13 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Exnft.io](https://exnft.io/)
 - [anarchyCNFT](https://anarchyCNFT.art/)
 
-## Starting a Stake Pool ##
+## 🥩 Stake Pools 🥩 ##
+
+### Starting a Stake Pool ###
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
-## Exploring Stake Pools ##
+### Exploring Stake Pools ###
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
@@ -834,10 +840,24 @@ You can also explore stake pools using these tools:
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
 - [POOLSTATS](https://poolstats.org/#)
+- [Pool.pm](https://pool.pm)
 - [Adatools (pools)](https://adatools.io/pools)
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [AdaStat (pools)](https://adastat.net/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
+
+### 🎱 Stake Pool Alliances 🎱 ###
+- [Alliance list](https://adapools.org/alli)
+- [Armada Alliance](https://armada-alliance.com)
+- [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
+- [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
+- [Mission-Driven Pools](https://missiondrivenpools.org/)
+- [F2LB First 2 Lifetime Block community](https://l2fb-sandbox.mxapps.io/)
+- [CCSPA](https://ccspa.ca/)
+- [Stake Pool Operator Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
+- [Cardano Pools United](https://www.cpoolsunited.com/)
+- [Swiss CardaNation](https://www.facebook.com/groups/swisscardanation/)
+- [SPO JAPAN GUILD](https://spojapanguild.net/)
 
 ## Essential Resources ## 
 
@@ -980,23 +1000,3 @@ Tools to help you build on Cardano:
 
 ### Other IOHK Solutions ###
 - [Mantis](https://mantisclient.io/)
-
-### 🎱 Stake Pool Alliances 🎱 ###
-- [Alliance list](https://adapools.org/alli)
-- [Armada Alliance](https://armada-alliance.com)
-- [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
-- [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
-- [Mission-Driven Pools](https://missiondrivenpools.org/)
-- [F2LB First 2 Lifetime Block community](https://l2fb-sandbox.mxapps.io/)
-- [CCSPA](https://ccspa.ca/)
-- [Stake Pool Operator Tools Alliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
-- [Cardano Pools United](https://www.cpoolsunited.com/)
-- [Swiss CardaNation](https://www.facebook.com/groups/swisscardanation/)
-- [SPO JAPAN GUILD](https://spojapanguild.net/)
-
-### 🥩 Stake Pools 🥩 ###
-Lists of active stakepools can be found on:
-- [ADApools.org](https://adapools.org)
-- [Cardanoscan](https://cardanoscan.io/pools)
-- [Pooltool](https://pooltool.io)
-- [Pool.pm](https://pool.pm)
