@@ -534,6 +534,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 ## NFT Projects
 - [Anton Gudim](https://linkpeak.io/l/gudim)
+- [Crypto Heroez](https://cryptoheroez.io/)
 - [PoolPerks](https://poolperks.io)
 
 ## Starting a Stake Pool ##
