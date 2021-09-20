@@ -818,6 +818,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [CardanoBudz.io](https://CardanoBudz.io/)
 - [Exnft.io](https://exnft.io/)
 - [anarchyCNFT](https://anarchyCNFT.art/)
+- [Cardenia City](https://cardenia.city/)
 
 ## 🥩 Stake Pools 🥩 ##
 
