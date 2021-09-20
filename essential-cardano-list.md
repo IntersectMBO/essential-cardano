@@ -538,6 +538,174 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Improve and Grow Auditability](http://app.ideascale.com/t/UM5UZBinJ)
 - [ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
 
+## Starting a Stake Pool ##
+- [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
+- [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
+
+## Exploring Stake Pools ##
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+
+Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
+- [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
+- [Single Pool Alliance](https://singlepoolalliance.net) - [URL](https://smash.panl.org)
+
+You can also explore stake pools using these tools:
+- [ADApools.org](https://adapools.org/)
+- [Cardano PoolTool](https://pooltool.io/)
+- [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
+- [POOLSTATS](https://poolstats.org/#)
+- [Adatools (pools)](https://adatools.io/pools)
+- [Cardanoscan (pools)](https://cardanoscan.io/pools)
+- [AdaStat (pools)](https://adastat.net/pools)
+- [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
+
+## Essential Resources ## 
+
+Here is our essential list of Cardano resources. 
+
+### 🧙 IO Global Official Resources 🧙 ###
+- [Cardano official website](https://cardano.org/)
+- [Cardano Documentation](https://docs.cardano.org/en/latest/#)
+- [Cardano Developers](https://developers.cardano.org/)
+- [Cardano Roadmap](https://roadmap.cardano.org/en/)
+- [IOHK Research Library](https://iohk.io/en/research/library/)
+- [IO GitHub](https://github.com/input-output-hk/)
+- [IO Blog](https://iohk.io/en/blog/posts/page-1/)
+- [IOHK You Tube](https://www.youtube.com/channel/UCBJ0p9aCW-W82TwNM-z3V2w)
+- [IO Twitter](https://twitter.com/InputOutputHK?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+- [IO Tik Tok](https://www.tiktok.com/@iohkofficial?)
+- [Technical Support](https://iohk.zendesk.com/hc/en-us)
+- [Cardano Ambassadors](https://cardano.org/ambassadors/)
+- [Cardano tutorials](https://github.com/input-output-hk/cardano-tutorials)
+- [Mission of Cardano](https://www.youtube.com/watch?v=l_Nv0-PVrnM)
+- [Cardano 360 monthly show playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOBz8sfQOgpZJwM4dswLm2WKs)
+- [Project Catalyst playlist](https://www.youtube.com/playlist?list=PLnPTB0CuBOByRhpTUdALq4J89m_h7QqLk)
+
+### Cardano Foundation ###
+- [Cardano Foundation official site](https://cardanofoundation.org/)
+- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
+- [CIPs repository](https://github.com/cardano-foundation/CIPs)
+- [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
+
+### Emurgo ###
+- [Emurgo official website](https://emurgo.io/)
+- [Unspent transaction outputs in Cardano](https://emurgo.io/blog/understanding-unspent-transaction-outputs-in-cardano)
+- [UTxO primer](https://www.emurgo.io/en/blog/blockchain-primer-cardanos-utxo-model-simply-explained)
+- [Financial transactions on Cardano](https://www.emurgo.io/en/blog/what-traditional-financial-services-can-be-carried-out-using-cardano-blockchain)
+
+### 🥑 Supporting Developer Resources 🥑 ###
+- [Cardano Official Telegram](https://t.me/cardano)
+- [Cardano Announcements Telegram](https://t.me/CardanoAnnouncements)
+- [Cardano developers Telegram](https://forum.cardano.org/c/developers/29)
+- [Cardano Discord](https://discord.com/login?redirect_to=%2Fchannels%2F386191477333557248%2F386223132496887808)
+- [Cardano developers Reddit](https://www.reddit.com/r/CardanoDevelopers/)
+- [Cardano Stack Exchange](https://cardano.stackexchange.com/)
+- [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
+
+### 🆕 New to Cardano? 🆕 ###
+- Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
+- [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
+- [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
+- [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
+- [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
+- [Cardano Delegation Manual](https://adrem1.gitbook.io/deleg-manual/) (Publicly versionable gitbook)
+
+### 📚 Glossaries and General Information 📚 ###
+- [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
+- [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
+- [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
+
+### 🔨 Tools 🔨 ###
+- [Cardano Explorer](https://explorer.cardano.org/en)
+- [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
+- [Staking calculator](https://testnets.cardano.org/en/testnets/cardano/tools/staking-calculator/)
+- [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
+- [NFT Marketplace](https://xhibit.io/)
+- [NFT-MAKER.IO](https://nft-maker.io/)
+- [Cardano Alerts](https://cardanoalerts.com)
+
+### Builder Tools ###
+Tools to help you build on Cardano:
+- [NFTada.io](https://nftada.io/)
+- [Block Frost](https://blockfrost.io/)
+- [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
+- [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
+- [Dandelion APIs](https://gimbalabs.com/dandelionapis)
+- [Ogmios](https://ogmios.dev/)
+- [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
+- [Cardano Assets](https://cardanoassets.com)
+- [Cardano Token Tool](https://tokentool.io/)
+- [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
+- [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
+
+### Our Essential Community Top Five ###
+- [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
+- [Guild Operators ](https://cardano-community.github.io/guild-operators/#/)
+- [Coin Cashew - How to build a Cardano stake pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
+- [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
+- [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
+
+### Other Community Resources ###
+- [What is Cardano?](https://blockgeeks.com/guides/what-is-cardano/)
+- [Who builds on Cardano?](https://www.adatainment.com/index.php?page=articles_who_builds_on_cardano&lang=en)
+- [How to start on Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
+- [Guild Operators: CN Tools](https://cardano-community.github.io/guild-operators/#/Scripts/cntools?id=cntools)
+- [JorManager](https://bitbucket.org/muamw10/jormanager/src/develop/)
+- [StakePool Operator Scripts](https://github.com/gitmachtl/scripts)
+- [cncli](https://github.com/AndrewWestberg/cncli)
+- [StakePool Operator ToolsAlliance](https://github.com/gitmachtl/StakePool-Operator-Tools-Alliance)
+- [Cardano with Paul](https://www.youtube.com/c/CardanoWithPaul)
+- [Cardano epoch calendar](https://dbooster.io/calendar)
+- [ada best](https://adabest.com/)
+- [Cardano Assets](https://cardanoassets.com/)
+- [Adaex.org](https://adaex.org/)
+- [Cardano Wall](https://cardanowall.com/en/)
+- [Cardano Canucks](https://cardanocanucks.com/)
+- [Cardano Updates](https://cardanoupdates.com/)
+- [Cardano Staking FAQ](https://www.cardanowithpaul.com/cardano-staking-faq-ultimate-guide/)
+- [Pooltool.io](https://pooltool.io/)
+- [Pool.pm](https://pool.pm/)
+- [Adastat](https://adastat.net/)
+- [Clio](https://edu.clio.one)
+- [Seeada](https://seeada.org/)
+- [Cardano Community]()
+- [Adafolio](https://adafolio.com/)
+- [Cardano Blockchain Insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/k5r9B)
+- [Bitbucket]()
+- [Hitchhiker's Guides](https://www.publish0x.com/raxp122/the-hitchhiker-s-guide-to-cardano-ada-xlyjgyl)
+- [Voting by Dust](https://vote.crypto2099.io/)
+- [Python LeaderLog and getSigma scripts]()
+- [Cardano scripts](https://github.com/NASEC-Alex/cardano)
+- [Cardano cards](https://github.com/coconutpool/learn_cardano)
+- [Cardano Waves](https://cardanowaves.com)
+- [ADApools](https://adapools.org)
+- [NFT Explorer](https://adapools.org/nft)
+- [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
+- [Cardano academic content](https://stephen-rowan.gitbook.io/ekphrasis/)
+- [Academic papers list](https://github.com/jonathondilworth/blockchain-notes/blob/main/Academic-Papers-List.md)
+- [CNFT Hub](https://cnfthub.io/)
+- [Cardano Cube](https://cardanocube.io/)
+
+### 🧑‍🏫 Community Training 🧑‍🏫 ###
+- [Lovelace academy](https://lovelace.academy/)
+- [Cardano node installation guide](https://instructions.target-pool.com/) (written in English and translated into Russian and German)
+
+### 📹 Community Videos 📹 ###
+- [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
+- [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
+
+### 👛 Wallet Resources 👛 ###
+- [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
+- [Transferring ada from Binance to Yoroi](https://www.youtube.com/watch?v=OKNn3yzaZo4)
+
+### Other IOHK Solutions ###
+- [Mantis](https://mantisclient.io/)
+
+### Exhange traded products ###
+- [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
+- [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
+- [Grayscale](https://grayscale.com/)
+
 ## NFT Platforms and Projects
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [ADACoinsNFT](https://www.adacoins.xyz)
@@ -819,6 +987,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Exnft.io](https://exnft.io/)
 - [anarchyCNFT](https://anarchyCNFT.art/)
 - [Cardenia City](https://cardenia.city/)
+- [Clawdano](https://clawdano.com)
 
 ## 🥩 Stake Pools 🥩 ##
 
