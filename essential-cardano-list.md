@@ -537,6 +537,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Scale-UP Cardano's Community Hubs](http://app.ideascale.com/t/UM5UZBiuP)
 - [Improve and Grow Auditability](http://app.ideascale.com/t/UM5UZBinJ)
 - [ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
+- [Cardol.io: Portfolio Tracker](https://cardano.ideascale.com/a/dtd/Cardol-io-Portfolio-Tracker/370255-48088)
 
 ## Starting a Stake Pool ##
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
