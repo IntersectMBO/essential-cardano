@@ -745,6 +745,7 @@ Tools to help you build on Cardano:
 - [CryptoPetz](cryptopetz.io)
 - [Cryptoplushies](https://t.co/vdJuu2cU8P?amp=1)
 - [Cryptoverse]
+- [Cryptozoology](https://www.cryptozoology.ink/)
 - [Cyberbots](https://cyberbots.club/)
 - [DEADPXLZ](https://t.co/azLIWGO4ym?amp=1)
 - [Deveerei](https://deveerei.carrd.co)
