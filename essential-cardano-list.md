@@ -87,6 +87,7 @@ Here is an outline of the categories:
 - [Metalamp](https://en.metalamp.io/)
 - Dquadrant
 - Mlabs
+- [Cross](https://crossbm.com/)
 - [BinarApps](https://binarapps.com/)
 - [World Mobile](https://worldmobile.io/)
 - [Ice Addis](http://www.iceaddis.com/)
