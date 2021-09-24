@@ -992,6 +992,7 @@ Tools to help you build on Cardano:
 - [PIGY Token](https://pigytoken.com)
 - [adadomains.io](https://www.adadomains.io/)
 - [twitternfts.space](https://www.twitternfts.space/)
+- [CardanoGens](https://cardanogens.com/)
 
 ## 🥩 Stake Pools 🥩 ##
 
