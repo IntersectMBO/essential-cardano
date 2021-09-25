@@ -190,6 +190,7 @@ Here is an outline of the categories:
 - [CardanoTales](https://cardanotales.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [Carnivilla](https://carnivilla.com/)
+- [DUO: The NFT Card Game](https://getduo.gg)
 
 ### Exchange-traded Products ###
 - [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
