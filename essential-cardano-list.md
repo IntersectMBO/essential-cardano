@@ -627,6 +627,7 @@ Here is our essential list of Cardano resources.
 - [NFT Marketplace](https://xhibit.io/)
 - [NFT-MAKER.IO](https://nft-maker.io/)
 - [Cardano Alerts](https://cardanoalerts.com)
+- [NFT-MACHINE](https://nft-machine.com)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -994,6 +995,7 @@ Tools to help you build on Cardano:
 - [PIGY Token](https://pigytoken.com)
 - [adadomains.io](https://www.adadomains.io/)
 - [twitternfts.space](https://www.twitternfts.space/)
+- [NFT-MACHINE](https://nft-machine.com)
 - [CardanoGens](https://cardanogens.com/)
 
 ## 🥩 Stake Pools 🥩 ##
