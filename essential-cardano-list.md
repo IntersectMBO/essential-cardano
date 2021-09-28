@@ -191,6 +191,7 @@ Here is an outline of the categories:
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [Carnivilla](https://carnivilla.com/)
 - [DUO: The NFT Card Game](https://www.getduo.gg)
+- [World of Pirates](https://worldofpirates.io)
 
 ### Exchange-traded Products ###
 - [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
@@ -993,6 +994,7 @@ Tools to help you build on Cardano:
 - [PIGY Token](https://pigytoken.com)
 - [adadomains.io](https://www.adadomains.io/)
 - [twitternfts.space](https://www.twitternfts.space/)
+- [CardanoGens](https://cardanogens.com/)
 
 ## 🥩 Stake Pools 🥩 ##
 
