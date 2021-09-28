@@ -190,6 +190,7 @@ Here is an outline of the categories:
 - [CardanoTales](https://cardanotales.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [Carnivilla](https://carnivilla.com/)
+- [DUO: The NFT Card Game](https://www.getduo.gg)
 - [World of Pirates](https://worldofpirates.io)
 
 ### Exchange-traded Products ###
