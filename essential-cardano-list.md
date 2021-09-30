@@ -997,6 +997,7 @@ Tools to help you build on Cardano:
 - [twitternfts.space](https://www.twitternfts.space/)
 - [NFT-MACHINE](https://nft-machine.com)
 - [CardanoGens](https://cardanogens.com/)
+- [theMagic8Ball](https://www.magic8ballnft.com/)
 
 ## 🥩 Stake Pools 🥩 ##
 
