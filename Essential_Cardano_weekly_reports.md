@@ -1,5 +1,18 @@
 ## Essential Cardano weekly reports
 
+### Week ending October 1st
+Last week, we approved the following contributions:
+- CardanoGens under the Tools section
+- NFT-MACHINE under NFT Projects
+- World of Pirates, theMagic8Ball, and DUO: the NFT card game under the Games section
+
+### Week ending September 24th
+Last week, we approved the following contributions:
+- Cardenia City and Cryptozoology under the Tools section
+- Cross under the Strategic Partners and Collaborators section
+- PoolPerks.io, Crypto Heroez, and Clawdano under NFT Projects
+- Cardol.io: Portfolio Tracker under the Plutus Pioneers section
+
 ### Week ending September 17th
 Last week, we approved the following contributions:
 - Carnivilla under Games and Entertainment
