@@ -690,6 +690,7 @@ Tools to help you build on Cardano:
 - [Academic papers list](https://github.com/jonathondilworth/blockchain-notes/blob/main/Academic-Papers-List.md)
 - [CNFT Hub](https://cnfthub.io/)
 - [Cardano Cube](https://cardanocube.io/)
+- [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
