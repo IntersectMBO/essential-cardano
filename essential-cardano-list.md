@@ -999,7 +999,7 @@ Tools to help you build on Cardano:
 - [NFT-MACHINE](https://nft-machine.com)
 - [CardanoGens](https://cardanogens.com/)
 - [theMagic8Ball](https://www.magic8ballnft.com/)
-- [the Construction](https://theconstruction.design/)
+- [the Construction](https://theconstruction.design/) 
 
 ## 🥩 Stake Pools 🥩 ##
 
