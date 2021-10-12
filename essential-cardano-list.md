@@ -1004,6 +1004,7 @@ Tools to help you build on Cardano:
 - [CardanoGens](https://cardanogens.com/)
 - [theMagic8Ball](https://www.magic8ballnft.com/)
 - [the Construction](https://theconstruction.design/) 
+- [Pergamon App](https://pergamon.app)
 
 ## 🥩 Stake Pools 🥩 ##
 
