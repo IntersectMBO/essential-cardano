@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending October 8th
+Last week, we approved the following contributions:
+- Cardano Rust CLI under the Tools section
+- Construction NFT under NFT Projects
+
 ### Week ending October 1st
 Last week, we approved the following contributions:
 - CardanoGens under the Tools section
