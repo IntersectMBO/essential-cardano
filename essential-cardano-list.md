@@ -130,6 +130,7 @@ Here is an outline of the categories:
 - [Ardana](https://ardana.org/)
 - [Hard Blue](https://hard.blue/)
 - [Meld](https://www.meld.com/)
+- [Coinlink](https://coinlink.finance/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -165,7 +166,7 @@ Here is an outline of the categories:
 - [Mirqur](https://mirqur.io/)
 - [GADA](https://gada.finance/)
 
-## Payments ##
+## Payments and Lending ##
 - [Coti](https://coti.io)
 - [Sirin Labs](https://sirinlabs.com/)
 - [Metaps+](https://metaps.com/)
@@ -174,6 +175,7 @@ Here is an outline of the categories:
 - [WooCommerce](https://woocommerce.com/)
 - [Simplex](https://www.simplex.com/)
 - [Revuto](https://revuto.com/)
+- [ADAlend](https://adalend.finance/)
 
 ### Incubators and Funding ###
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
@@ -695,6 +697,7 @@ Tools to help you build on Cardano:
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
 - [Cardano node installation guide](https://instructions.target-pool.com/) (written in English and translated into Russian and German)
+- [Sustainable ADA](https://www.sustainableada.com/)
 
 ### 📹 Community Videos 📹 ###
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
@@ -717,7 +720,7 @@ Tools to help you build on Cardano:
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
 - [ADAkawaii](https://adakawaii.io/)
-- [Ada Miners](https://t.co/v4kdNE9WZD?amp=1)
+- [Ada Miners](https://www.adaminers.io/)
 - [ADA-Monsterz](https://adamonsterz.com)
 - [Ada Plates](https://adaplates.com/)
 - [Ada Slimes](https://adaslimes.com/)
@@ -762,6 +765,7 @@ Tools to help you build on Cardano:
 - [Kryptoids](https://kryptoids.monster/)
 - [Mipa Toys](https://twitter.com/MipaToys)
 - [Stiks](https://stiksnft.com)
+- [Suki Editions](https://www.sukieditions.com/)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
 - [unsigned_algorithms](unsigs.com)
 - [The Hoskinsons](thehoskinsons.com)
