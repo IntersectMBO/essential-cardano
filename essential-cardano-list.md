@@ -86,7 +86,7 @@ Here is an outline of the categories:
 - [Node Factory](https://nodefactory.io/)
 - [Metalamp](https://en.metalamp.io/)
 - Dquadrant
-- Mlabs
+- [Mlabs](https://mlabs.city/)
 - [Cross](https://crossbm.com/)
 - [BinarApps](https://binarapps.com/)
 - [World Mobile](https://worldmobile.io/)
