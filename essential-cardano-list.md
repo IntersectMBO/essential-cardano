@@ -107,6 +107,8 @@ Here is an outline of the categories:
 - [Nervos](https://www.nervos.org/)
 - [Indigo](https://indigoprotocol.io/)
 - [AgeUSD](https://github.com/Emurgo/age-usd)
+- [Chainlink](https://chainlinklabs.com/)
+- [Veritree](https://veritree.com/)
 
 ### Layer 2 Solutions ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
@@ -1006,6 +1008,7 @@ Tools to help you build on Cardano:
 - [the Construction](https://theconstruction.design/) 
 - [Fluidy3 Art](https://fluidy3.art/)
 - [Pergamon App](https://pergamon.app)
+- [Fort Gotten](https://www.fort-gotten.com/)
 
 ## 🥩 Stake Pools 🥩 ##
 
@@ -1108,6 +1111,7 @@ Here is our essential list of Cardano resources.
 - [NFT Marketplace](https://xhibit.io/)
 - [NFT-MAKER.IO](https://nft-maker.io/)
 - [Cardano Alerts](https://cardanoalerts.com)
+- [Pool Peek](https://poolpeek.com/#/)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
