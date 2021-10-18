@@ -698,6 +698,7 @@ Tools to help you build on Cardano:
 - [Lovelace academy](https://lovelace.academy/)
 - [Cardano node installation guide](https://instructions.target-pool.com/) (written in English and translated into Russian and German)
 - [Sustainable ADA](https://www.sustainableada.com/)
+- [Distributed MachineLearning using Cardano video series](https://armada-alliance.com/guides/blockchain-ai-edu)
 
 ### 📹 Community Videos 📹 ###
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
