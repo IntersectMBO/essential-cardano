@@ -1,5 +1,16 @@
 ## Essential Cardano weekly reports
 
+### Week ending October 22nd
+This week, we approved the following contributions:
+- Pergamon App and Fluidy3 Art under the Tools section
+- GOAT Tribe, autre coeur, and Pool Peek in the NFTs section
+- Fort Gotten in Layer 2 Solutions
+- Chainlink and Veritree under Strategic Partners and Collaborators
+
+### Week ending October 15th
+Last week, we approved the following contributions:
+- Pergamon App under the Tools section
+
 ### Week ending October 8th
 Last week, we approved the following contributions:
 - Cardano Rust CLI under the Tools section
