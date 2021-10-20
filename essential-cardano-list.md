@@ -738,7 +738,7 @@ Tools to help you build on Cardano:
 - [Anton Gudim](https://linkpeak.io/l/gudim)
 - [Atreyu](https://t.co/183xB6giMs?amp=1)
 - [autre-coeur](https://autrecoeur.com/)
-- [Avocardano] https://t.co/J1c9O56JzQ?amp=1)
+- [Avocardano](https://t.co/J1c9O56JzQ?amp=1)
 - [BitBunny](www.instagram.com/bitbunnyio/)
 - [Bosmaus](https://t.co/TvUwOqi4Vk?amp=1)
 - [Boss Lenda](https://t.co/OEGlh8Y61Y?amp=1)
