@@ -2,9 +2,8 @@
 
 ### Week ending October 22nd
 This week, we approved the following contributions:
-- Pergamon App and Fluidy3 Art under the Tools section
-- GOAT Tribe, autre coeur, and Pool Peek in the NFTs section
-- Fort Gotten in Layer 2 Solutions
+- Pergamon App, Pool Peek , and Fluidy3 Art under the Tools section
+- GOAT Tribe, Fort Gotten, and autre coeur in the NFTs section
 - Chainlink and Veritree under Strategic Partners and Collaborators
 
 ### Week ending October 15th
