@@ -745,6 +745,7 @@ Tools to help you build on Cardano:
 - [Cardenia City](https://cardenia.city/)
 - [Caja de Agua](https://linktr.ee/cajadeagua)
 - [Canuckz NFT](https://canuckz-nft.io)
+- [Cardabots](https://cardabots.com/)
 - [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
