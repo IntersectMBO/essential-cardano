@@ -1106,7 +1106,7 @@ Here is our essential list of Cardano resources.
 - [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
 - [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
 
-### 🔨 Tools 🔨 ###
+### 🔨 Tools and Explorers 🔨 ###
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
 - [Staking calculator](https://testnets.cardano.org/en/testnets/cardano/tools/staking-calculator/)
