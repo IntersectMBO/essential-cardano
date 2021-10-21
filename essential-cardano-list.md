@@ -196,6 +196,7 @@ Here is an outline of the categories:
 - [Carnivilla](https://carnivilla.com/)
 - [DUO: The NFT Card Game](https://www.getduo.gg)
 - [World of Pirates](https://worldofpirates.io)
+- [Bears Club](https://bearsclub.io)
 
 ### Exchange-traded Products ###
 - [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
