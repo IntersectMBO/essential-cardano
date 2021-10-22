@@ -722,6 +722,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ## NFT Platforms and Projects
+- [ART+NFT](https://www.cnft-maker.in)
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
