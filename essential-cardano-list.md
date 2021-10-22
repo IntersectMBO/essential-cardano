@@ -722,7 +722,6 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ## NFT Platforms and Projects
-- [ART+NFT](https://www.cnft-maker.in)
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
@@ -739,6 +738,7 @@ Tools to help you build on Cardano:
 - [Alpha_TJ](https://t.co/uSP4o7lR9A?amp=1)
 - [anarchyCNFT](https://anarchyCNFT.art/)
 - [Anton Gudim](https://linkpeak.io/l/gudim)
+- [ART+NFT](https://www.cnft-maker.in)
 - [Atreyu](https://t.co/183xB6giMs?amp=1)
 - [autre-coeur](https://autrecoeur.com/)
 - [Avocardano](https://t.co/J1c9O56JzQ?amp=1)
