@@ -635,9 +635,11 @@ Here is our essential list of Cardano resources.
 - [Cardano Alerts](https://cardanoalerts.com)
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
+ 
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
+- [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
 - [NFTada.io](https://nftada.io/)
 - [Block Frost](https://blockfrost.io/)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
