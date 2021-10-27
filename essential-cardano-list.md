@@ -813,6 +813,7 @@ Tools to help you build on Cardano:
 - [PoolPerks](https://poolperks.io)
 - [Project Kifaru](www.projectkifaru.com)
 - [Sushibyte](https://app.sushibyte.io)
+- [TADATek](https://www.tadatek.com)
 - [The Sheriff]
 - [Rose CNFT](https://twitter.com/CnftRose)
 - [Street Arts CNFT](https://t.co/7BJbLG3XNQ?amp=1)
