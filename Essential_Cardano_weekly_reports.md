@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending October 29th
+This week, we approved the following contributions:
+- Tokenomia in the Builder Tools section
+- The Burrow NFT and Fractalz Rare Crystals in the NFTs section
+- MuesliSwap under the Decentralized Exchanges section
+- TADATek in the Tools section
+
 ### Week ending October 22nd
 This week, we approved the following contributions:
 - Pergamon App, Pool Peek, and Fluidy3 Art in the Tools and Explorers section
