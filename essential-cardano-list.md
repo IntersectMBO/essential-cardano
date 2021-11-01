@@ -731,6 +731,7 @@ Tools to help you build on Cardano:
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
+- [Adanize](https://adanize.com)
 - [ADAkawaii](https://adakawaii.io/)
 - [Ada Miners](https://www.adaminers.io/)
 - [ADA-Monsterz](https://adamonsterz.com)
