@@ -160,6 +160,7 @@ Here is an outline of the categories:
 ## Decentralized Exchanges (DEXs) ##
 - [Occam](https://occam.fi/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
+- [MuesliSwap](https://ada.muesliswap.com/)
 - [Minswap](https://minswap.org/)
 - [Maladex](https://maladex.com/) 
 - [Cardax](https://cardax.io/)
