@@ -168,6 +168,9 @@ Here is an outline of the categories:
 - [ErgoDex](https://ergodex.io/)
 - [Mirqur](https://mirqur.io/)
 - [GADA](https://gada.finance/)
+- [Polyswap](https://polyswap.io/)
+- [CardStarter](https://www.cardstarter.io/)
+- [Ray Network](https://rraayy.com/)
 
 ## Payments and Lending ##
 - [Coti](https://coti.io)
