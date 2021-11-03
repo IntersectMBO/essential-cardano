@@ -168,6 +168,9 @@ Here is an outline of the categories:
 - [ErgoDex](https://ergodex.io/)
 - [Mirqur](https://mirqur.io/)
 - [GADA](https://gada.finance/)
+- [Polyswap](https://polyswap.io/)
+- [CardStarter](https://www.cardstarter.io/)
+- [Ray Network](https://rraayy.com/)
 
 ## Payments and Lending ##
 - [Coti](https://coti.io)
@@ -198,6 +201,7 @@ Here is an outline of the categories:
 - [DUO: The NFT Card Game](https://www.getduo.gg)
 - [World of Pirates](https://worldofpirates.io)
 - [Bears Club](https://bearsclub.io)
+- [HorrorCubes](https://horrocubes.io/)
 
 ### Exchange-traded Products ###
 - [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
@@ -595,6 +599,8 @@ Here is our essential list of Cardano resources.
 - [Cardano Foundation official site](https://cardanofoundation.org/)
 - [Cardano Foundation Developer Portal](https://developers.cardano.org/home/)
 - [Stake pool school course](https://developers.cardano.org/docs/operate-a-stake-pool/)
+- [Cardano Developer Portal](https://developers.cardano.org/)
+- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
 - [CIPs repository](https://github.com/cardano-foundation/CIPs)
 - [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
 
@@ -1025,6 +1031,7 @@ Tools to help you build on Cardano:
 - [Pergamon App](https://pergamon.app)
 - [Fort Gotten](https://www.fort-gotten.com/)
 - [The Burrow NFT](https://www.theburrownft.art/)
+- [Tili.Gallery](https://tili.gallery/)
 
 ## 🥩 Stake Pools 🥩 ##
 
