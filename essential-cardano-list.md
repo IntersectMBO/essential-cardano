@@ -202,6 +202,7 @@ Here is an outline of the categories:
 - [World of Pirates](https://worldofpirates.io)
 - [Bears Club](https://bearsclub.io)
 - [HorrorCubes](https://horrocubes.io/)
+- [DinoDapp](https://dinodapp.com)
 
 ### Exchange-traded Products ###
 - [Valour](https://markets.businessinsider.com/news/stocks/valour-announces-launch-of-cardano-and-polkadot-exchange-traded-products-etps-1030439405)
