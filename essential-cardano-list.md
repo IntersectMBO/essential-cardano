@@ -594,7 +594,7 @@ Here is our essential list of Cardano resources.
 ### Cardano Foundation ###
 - [Cardano Foundation official site](https://cardanofoundation.org/)
 - [Cardano Foundation Developer Portal](https://developers.cardano.org/home/)
-- [Stake pool school course](https://cardano-foundation.gitbook.io/stake-pool-course/)
+- [Stake pool school course](https://developers.cardano.org/docs/operate-a-stake-pool/)
 - [CIPs repository](https://github.com/cardano-foundation/CIPs)
 - [Cardano Foundation on Medium](https://medium.com/@cardano.foundation)
 
