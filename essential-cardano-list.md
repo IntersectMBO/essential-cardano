@@ -258,6 +258,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
+- [Minting NFTs explainer](https://developers.cardano.org/docs/native-tokens/minting-nfts)
 
 ## Wallets ##
 - [Daedalus](https://daedaluswallet.io/)
