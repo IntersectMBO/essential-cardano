@@ -801,6 +801,7 @@ Tools to help you build on Cardano:
 - [Exnft.io](https://exnft.io/)
 - [Fahadouken NFT](https://t.co/NPZbyLZzZT?amp=1)
 - [Fernando Torelli](https://t.co/KmgK4B00yb?amp=1)
+- [Fractalz Rare Crystals](https://www.santoelectronics.com/crystals)
 - [Galaxy of Art](https://www.galaxyof.art/)
 - [Glus CNFT](https://t.co/3dBuaV2x3A?amp=1)
 - [GOAT-Tribe](https://goattribe.io/)
