@@ -1,5 +1,13 @@
 ## Essential Cardano weekly reports
 
+### Week ending November 5th
+This week, we approved the following contributions:
+- Adanize (Utility box for Cardano investors) and the Cardano Jobs board in the Tools section
+- Tili Gallery and Burgermania in the NFTs section
+- Polyswap, CardStarter, and Ray Network under Decentralized Exchanges 
+- DinoDapp and HorrorCubes in the Games section
+- Link to minting NFTs explainer under Resources
+
 ### Week ending October 29th
 This week, we approved the following contributions:
 - Tokenomia in the Builder Tools section
