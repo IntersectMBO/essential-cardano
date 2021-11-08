@@ -1036,6 +1036,7 @@ Tools to help you build on Cardano:
 - [Fort Gotten](https://www.fort-gotten.com/)
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [Tili.Gallery](https://tili.gallery/)
+- [jpg.store](https://www.jpg.store/)
 
 ## 🥩 Stake Pools 🥩 ##
 
