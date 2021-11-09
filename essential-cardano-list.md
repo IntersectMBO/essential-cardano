@@ -124,6 +124,7 @@ Here is an outline of the categories:
 - Alko Coffee
 
 ### DeFi and Capital Markets ###
+- [Aada Finance](https://aada.finance/)
 - [Celsius](https://celsius.network/)
 - [Bondly](https://bondly.finance/)
 - [Wave](https://wavegp.com/)
