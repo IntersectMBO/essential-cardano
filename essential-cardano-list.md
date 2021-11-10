@@ -126,15 +126,15 @@ Here is an outline of the categories:
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
-- [Celsius](https://celsius.network/)
-- [Bondly](https://bondly.finance/)
-- [Wave](https://wavegp.com/)
-- [Generation Two Securitization](https://www.gentwo.com/)
-- [Venus](https://venus.io/)
 - [Ardana](https://ardana.org/)
+- [Bondly](https://bondly.finance/)
+- [Celsius](https://celsius.network/)
+- [Coinlink](https://coinlink.finance/)
+- [Generation Two Securitization](https://www.gentwo.com/)
 - [Hard Blue](https://hard.blue/)
 - [Meld](https://www.meld.com/)
-- [Coinlink](https://coinlink.finance/)
+- [Venus](https://venus.io/)
+- [Wave](https://wavegp.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
