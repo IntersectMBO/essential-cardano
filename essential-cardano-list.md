@@ -710,6 +710,7 @@ Tools to help you build on Cardano:
 - [CNFT Hub](https://cnfthub.io/)
 - [Cardano Cube](https://cardanocube.io/)
 - [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
+- [ADAM - ADA Monitor App](https://play.google.com/store/apps/details?id=com.esodot.andro.monitor)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
