@@ -15,6 +15,7 @@ Here is an outline of the categories:
 - [Deployments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#deployments)
 - [DeFi and Capital Markets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#defi-and-capital-markets)
 - [Governments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#governments)
+- [Identity Eco Systems](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#identity-eco-systems)
 - [Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
 - [Decentralized Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#decentralized-exchanges-dexs)
 - [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
@@ -140,6 +141,10 @@ Here is an outline of the categories:
 - [Wyoming](http://www.wyo.gov/)
 - [Georgia](http://gov.ge/index.php?lang_id=ENG)
 - Mongolia
+
+### Identity Eco Systems ###
+- [IOHK Atala Prism](https://www.atalaprism.io/)
+- [IAMX](https://iamx.id/)
 
 ### Exchanges ###
 - [Coinbase](https://www.coinbase.com)
