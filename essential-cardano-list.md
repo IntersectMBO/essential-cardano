@@ -177,6 +177,7 @@ Here is an outline of the categories:
 - [Polyswap](https://polyswap.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [Ray Network](https://rraayy.com/)
+- [Ravendex](https://ravendex.io/)
 
 ## Payments and Lending ##
 - [Coti](https://coti.io)
