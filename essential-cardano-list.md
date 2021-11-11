@@ -176,7 +176,6 @@ Here is an outline of the categories:
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
 - [Ray Network](https://rraayy.com/)
-- [Ravendex](https://ravendex.io/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
 
 ## Payments and Lending ##
