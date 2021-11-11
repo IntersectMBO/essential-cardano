@@ -175,6 +175,7 @@ Here is an outline of the categories:
 - [MuesliSwap](https://ada.muesliswap.com/)
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
+- [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
 
