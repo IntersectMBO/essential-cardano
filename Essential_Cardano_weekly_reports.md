@@ -1,5 +1,16 @@
 ## Essential Cardano weekly reports
 
+### Week ending November 12th
+This week, we approved the following contributions:
+- JPG Store and ADAM - ADA Monitor App in the Tools section
+- Cardano Kitchen and CardanoCity in the NFTs section
+- Ravendex and AdaSwap under Decentralized Exchanges 
+- Aada Finance in the DeFi and Capital Markets section
+- Smart Chain and Smart Node under Strategic Partners and Collaborators
+- A new section for Identity Eco Systems which includes Atala Prism and IAMX
+- Crypto and Cardano Market Projection tool under the Plutus Pioneers 
+- Canadian Cardano Stakepool Association, Climate Neutral Blockchain Group, xSPO Alliance, and Cardano Renewable Energy Stake Pool Alliance under stake pool alliances
+
 ### Week ending November 5th
 This week, we approved the following contributions:
 - Adanize (Utility box for Cardano investors) and the Cardano Jobs board in the Tools section
