@@ -306,6 +306,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [ADA Calculators - MajorPool.net](https://majorpool.net/calculators)
 - [Cardano ADA Gainz calculator](https://cardanogainz.com)
 - [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
+- [CRYPTO AND CARDANO MARKET PROJECTION TOOL WITH MACROECONOMIC ANALYSIS & STAKING CALCULATOR](https://cardanolatino.com/cardanoenglish/staking-calculator/)
 
 ## Research and Education ##
 
