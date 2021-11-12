@@ -126,7 +126,6 @@ Here is an outline of the categories:
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
-- [AdaSwap](https://adaswap.app/)
 - [Ardana](https://ardana.org/)
 - [Bondly](https://bondly.finance/)
 - [Celsius](https://celsius.network/)
@@ -166,6 +165,7 @@ Here is an outline of the categories:
 
 ## Decentralized Exchanges (DEXs) ##
 - [Adax](https://adax.pro/)
+- [AdaSwap](https://adaswap.app/)
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [ErgoDex](https://ergodex.io/)
