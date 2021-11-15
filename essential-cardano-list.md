@@ -168,6 +168,7 @@ Here is an outline of the categories:
 
 ## Decentralized Exchanges (DEXs) ##
 - [Adax](https://adax.pro/)
+- [AdaMuesliSwap](https://ada.muesliswap.com/)
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [ErgoDex](https://ergodex.io/)
@@ -175,7 +176,6 @@ Here is an outline of the categories:
 - [Maladex](https://maladex.com/) 
 - [Minswap](https://minswap.org/)
 - [Mirqur](https://mirqur.io/)
-- [MuesliSwap](https://ada.muesliswap.com/)
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
 - [Ravendex](https://ravendex.io/)
