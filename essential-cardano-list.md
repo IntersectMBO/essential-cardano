@@ -656,7 +656,6 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
  
-
 ### Builder Tools ###
 Tools to help you build on Cardano:
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
@@ -788,6 +787,7 @@ Tools to help you build on Cardano:
 - [CardanoBudz.io](https://CardanoBudz.io/)
 - [Cardano Caricatures](www.cardanocaricatures.com)
 - [Cardano Chronicles](https://t.co/sWd1go5Aq2?amp=1)
+- [Cardano City](https://cardanocity.io/)
 - [Cardano Comics](https://t.co/4M6kBt5yWX?amp=1)
 - [Cardano Countries](https://t.co/IMNPv6cUSF?amp=1)
 - [Cardano Fighters](www.cardanofighters.com)
