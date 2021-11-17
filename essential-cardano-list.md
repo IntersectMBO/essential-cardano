@@ -128,7 +128,6 @@ Here is an outline of the categories:
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
-- [AdaSwap](https://adaswap.app/)
 - [Ardana](https://ardana.org/)
 - [Bondly](https://bondly.finance/)
 - [Celsius](https://celsius.network/)
@@ -169,6 +168,7 @@ Here is an outline of the categories:
 ## Decentralized Exchanges (DEXs) ##
 - [Adax](https://adax.pro/)
 - [AdaMuesliSwap](https://ada.muesliswap.com/)
+- [AdaSwap](https://adaswap.app/)
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [ErgoDex](https://ergodex.io/)
@@ -656,7 +656,6 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
  
-
 ### Builder Tools ###
 Tools to help you build on Cardano:
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
@@ -788,6 +787,7 @@ Tools to help you build on Cardano:
 - [CardanoBudz.io](https://CardanoBudz.io/)
 - [Cardano Caricatures](www.cardanocaricatures.com)
 - [Cardano Chronicles](https://t.co/sWd1go5Aq2?amp=1)
+- [Cardano City](https://cardanocity.io/)
 - [Cardano Comics](https://t.co/4M6kBt5yWX?amp=1)
 - [Cardano Countries](https://t.co/IMNPv6cUSF?amp=1)
 - [Cardano Fighters](www.cardanofighters.com)
