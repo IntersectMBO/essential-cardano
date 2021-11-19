@@ -824,6 +824,7 @@ Tools to help you build on Cardano:
 - [Deveerei](https://deveerei.carrd.co)
 - [Doggos]
 - [Doodz](https://t.co/Taw37LmEA4?amp=1)
+- [Empowa](https://empowa.io/)
 - [Exnft.io](https://exnft.io/)
 - [Fahadouken NFT](https://t.co/NPZbyLZzZT?amp=1)
 - [Fernando Torelli](https://t.co/KmgK4B00yb?amp=1)
