@@ -21,6 +21,7 @@ Here is an outline of the categories:
 - [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
 - [Incubators and Funding](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#incubators-and-funding)
 - [Games and Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
+- [Miscellaneous](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#miscellaneous)
 - [Exchange-traded Products](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchange-traded-products)
 - [Developer Ecosystem](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-ecosystem)
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
@@ -213,6 +214,9 @@ Here is an outline of the categories:
 - [HorrorCubes](https://horrocubes.io/)
 - [Ridotto](https://ridotto.io)
 - [World of Pirates](https://worldofpirates.io)
+
+### Miscellaneous ###
+- [Gift Card Generator](https://randomfrenchpool.com/en/cards)
 
 ### Exchange-traded Products ###
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
