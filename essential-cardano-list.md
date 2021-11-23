@@ -210,10 +210,10 @@ Here is an outline of the categories:
 - [DinoDapp](https://dinodapp.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [DUO: The NFT Card Game](https://www.getduo.gg)
+- [FiveFamilies](https://fivefamilies.net)
 - [HorrorCubes](https://horrocubes.io/)
 - [Ridotto](https://ridotto.io)
 - [World of Pirates](https://worldofpirates.io)
-- [FiveFamilies](https://fivefamilies.net)
 
 ### Exchange-traded Products ###
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
