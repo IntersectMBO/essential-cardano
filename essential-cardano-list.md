@@ -59,7 +59,6 @@ Here is an outline of the categories:
 - [Helixworks](https://helix.works/)
 - [Quidli](https://quid.li/)
 - [Sempo](https://withsempo.com/)
-- [Smart Chain] (https://smart-chain.fr/)
 - [Tesseract](https://tesseract.one/)
 - [Token Allies](https://tokenallies.com/)
 
@@ -104,8 +103,9 @@ Here is an outline of the categories:
 - [Save the Children](https://www.savethechildren.org/)
 - [Scalac](https://scalac.io/)
 - [SingularityNET](https://singularitynet.io/)
-- [Sonergy](https://sonergy.io/)
+- [Smart Chain](https://smart-chain.fr/)
 - [Smart Node](https://smart-node.com/)
+- [Sonergy](https://sonergy.io/)
 - [Tweag](https://www.tweag.io/)
 - [Vacuumlabs](https://vacuumlabs.com/)
 - [Veritree](https://veritree.com/)
