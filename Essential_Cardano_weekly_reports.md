@@ -8,7 +8,7 @@ This week, we approved the following contributions:
 - Aada Finance in the DeFi and Capital Markets section
 - Smart Chain and Smart Node under Strategic Partners and Collaborators
 - A new section for Identity Eco Systems which includes Atala Prism and IAMX
-- Crypto and Cardano Market Projection tool under the Plutus Pioneers 
+- Crypto and Cardano Market Projection tool under Ada calculators
 - Canadian Cardano Stakepool Association, Climate Neutral Blockchain Group, xSPO Alliance, and Cardano Renewable Energy Stake Pool Alliance under stake pool alliances
 
 ### Week ending November 5th
