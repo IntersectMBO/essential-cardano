@@ -653,6 +653,7 @@ Here is our essential list of Cardano resources.
 ### 🔨 Tools and Explorers 🔨 ###
 - [Cardano Explorer](https://explorer.cardano.org/en)
 - [Grafana Dashboard](https://monitoring.cardano-testnet.iohkdev.io/grafana/d/Oe0reiHef/cardano-application-metrics-v2?orgId=1&refresh=1m&from=now-2d&to=now)
+- [Genesis Auction House](https://genesishouse.io)
 - [Staking calculator](https://testnets.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 - [NFT Marketplace](https://xhibit.io/)
@@ -835,6 +836,7 @@ Tools to help you build on Cardano:
 - [Fort Gotten](https://www.fort-gotten.com/)
 - [Fractalz Rare Crystals](https://www.santoelectronics.com/crystals)
 - [Galaxy of Art](https://www.galaxyof.art/)
+- [Genesis Auction House](https://genesishouse.io)
 - [Glus CNFT](https://t.co/3dBuaV2x3A?amp=1)
 - [GOAT-Tribe](https://goattribe.io/)
 - [Hogsters](https://t.co/fwV7X0bG5I?amp=1)
