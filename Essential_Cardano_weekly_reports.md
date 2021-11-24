@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending November 19th
+This week, we approved the following contributions:
+- Genesis Auction House in the Tools and Explorers section
+- Five Families in the NFTs section
+- Rebranding of MuesliSwap to AdaMuesliSwap under Decentralized Exchanges 
+- Random French pool's gift card generator in a new Miscellaneous section
+
 ### Week ending November 12th
 This week, we approved the following contributions:
 - JPG Store and ADAM - ADA Monitor App in the Tools section
