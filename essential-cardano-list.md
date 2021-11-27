@@ -234,6 +234,16 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
 - [(Russian) Функциональное программирование на языке Haskell (stepik.org)](https://stepik.org/course/75/)
 
+#### Rust ####
+- [Rust](https://www.rust-lang.org/)
+
+##### Cardano Rust Ecosystem #####
+- [Byron Rust implementation](https://github.com/input-output-hk/rust-cardano)
+- [Byron Cardano CLI Rust implementation](https://github.com/input-output-hk/cardano-cli)
+- [Cardano Serialization Library in Rust](https://github.com/Emurgo/cardano-serialization-lib)
+- [Cardano Ouroboros Networking library in Rust](https://github.com/2nd-Layer/rust-cardano-ouroboros-network)
+- [CNCLI - SPO tools in Rust](https://github.com/AndrewWestberg/cncli)
+
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
 - [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
