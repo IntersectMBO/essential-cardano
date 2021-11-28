@@ -819,6 +819,7 @@ Tools to help you build on Cardano:
 - [Crypto Heroez](https://cryptoheroez.io/)
 - [Cryptoknitties](https://twitter.com/cryptoknitties)
 - [Cryptomayor](https://t.co/hnyyHnS67y?amp=1)
+- [CryptoPeeps](https://www.cryptopeeps.io)
 - [CryptoPetz](cryptopetz.io)
 - [Cryptoplushies](https://t.co/vdJuu2cU8P?amp=1)
 - [Crypto Sports](https://t.co/o5VLDYJcqe?amp=1)
