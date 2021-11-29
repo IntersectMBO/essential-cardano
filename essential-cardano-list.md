@@ -217,6 +217,7 @@ Here is an outline of the categories:
 - [World of Pirates](https://worldofpirates.io)
 
 ### Miscellaneous ###
+- [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
 - [Gift Card Generator](https://randomfrenchpool.com/en/cards)
 
 ### Exchange-traded Products ###
@@ -751,6 +752,7 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ## NFT Platforms and Projects
+- [64-BLOCKS](https://buy.blockchainart.works/)
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
