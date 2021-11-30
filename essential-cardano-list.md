@@ -135,7 +135,7 @@ Here is an outline of the categories:
 - [Coinlink](https://coinlink.finance/)
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Hard Blue](https://hard.blue/)
-- [Meld](https://www.meld.com/)
+- [MELD](https://meld.com/)
 - [Venus](https://venus.io/)
 - [Wave](https://wavegp.com/)
 
@@ -372,6 +372,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [FP Complete](https://www.fpcomplete.com/)
 - [R9B](https://www.cybersecurityintelligence.com/root9b-r9b-6089.html)
 - Nagra
+
+### Security Research & Tooling ###
+- [Hachi](https://hachi.one/)
 
 ### Ouroboros Consensus ###
 - [Classic](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/)
