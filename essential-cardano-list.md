@@ -752,7 +752,6 @@ Tools to help you build on Cardano:
 - [Grayscale](https://grayscale.com/)
 
 ## NFT Platforms and Projects
-- [64-BLOCKS](https://buy.blockchainart.works/)
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
@@ -880,8 +879,6 @@ Tools to help you build on Cardano:
 - [unsigned_algorithms](unsigs.com)
 - [Unsigned Teddys](https://t.co/wAVJJwj7El?amp=1)
 - [Visions NFT](https://t.co/XIM7dP1eMe?amp=1)
-- 
-- 
 - [No Prob-llama](https://t.co/wlIXTJiZX6?amp=1)
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
@@ -890,7 +887,6 @@ Tools to help you build on Cardano:
 - [Cardano Potions](https://t.co/VU6vihJH9F?amp=1)
 - [Colorful Screens](https://t.co/Dlctat2Gsr?amp=1)
 - [Pink Rain](https://t.co/07sucHRz90?amp=1)
-- 
 - [Herkimer](https://t.co/LPvABDlxf4?amp=1)
 - [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
@@ -1064,6 +1060,7 @@ Tools to help you build on Cardano:
 - [Pergamon App](https://pergamon.app)
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [FiveFamilies](https://fivefamilies.net)
+- [64-BLOCKS](https://buy.blockchainart.works/)
 
 
 ## 🥩 Stake Pools 🥩 ##
