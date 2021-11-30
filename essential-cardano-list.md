@@ -205,6 +205,7 @@ Here is an outline of the categories:
 ### Games and Entertainment ###
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
+- [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
 - [Carnivilla](https://carnivilla.com/)
