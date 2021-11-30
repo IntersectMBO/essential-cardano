@@ -766,6 +766,7 @@ Tools to help you build on Cardano:
 - [Ada Slimes](https://adaslimes.com/)
 - [adasso.art](https://adasso.art/)
 - [Aeoniumsky](www.aeoniumsky.io/blocks)
+- [ALDEA NFT](https://nft.aldea-dao.org)
 - [Alpha_TJ](https://t.co/uSP4o7lR9A?amp=1)
 - [anarchyCNFT](https://anarchyCNFT.art/)
 - [Anim8bits](https://t.co/U4srjvJXa0?amp=1)
