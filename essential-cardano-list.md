@@ -1089,6 +1089,7 @@ You can also explore stake pools using these tools:
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
+- [ALDEA](https://www.aldea-dao.org/about-eng.html)
 - [Alliance list](https://adapools.org/alli)
 - [Armada Alliance](https://armada-alliance.com)
 - [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
