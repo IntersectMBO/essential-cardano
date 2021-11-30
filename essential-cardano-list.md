@@ -131,6 +131,7 @@ Here is an outline of the categories:
 - [Aada Finance](https://aada.finance/)
 - [Ardana](https://ardana.org/)
 - [Bondly](https://bondly.finance/)
+- [CBTC Bridge](https://cbtcbridge.com)
 - [Celsius](https://celsius.network/)
 - [Coinlink](https://coinlink.finance/)
 - [Generation Two Securitization](https://www.gentwo.com/)
