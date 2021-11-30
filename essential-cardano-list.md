@@ -380,6 +380,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Chronos
 - Crypsinous
 
+### Sidechain Solutions ###
+- [Milkomeda](http://milkomeda.com)
+
 ### Abuse Detection & Prevention ###
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
 
@@ -662,6 +665,7 @@ Here is our essential list of Cardano resources.
 - [Cardano Alerts](https://cardanoalerts.com)
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
+- [Fracada](https://github.com/dcSpark/fracada)
  
 ### Builder Tools ###
 Tools to help you build on Cardano:
