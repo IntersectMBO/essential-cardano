@@ -219,6 +219,7 @@ Here is an outline of the categories:
 - [World of Pirates](https://worldofpirates.io)
 
 ### Miscellaneous ###
+- [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
 - [Gift Card Generator](https://randomfrenchpool.com/en/cards)
 
 ### Exchange-traded Products ###
@@ -900,8 +901,6 @@ Tools to help you build on Cardano:
 - [unsigned_algorithms](unsigs.com)
 - [Unsigned Teddys](https://t.co/wAVJJwj7El?amp=1)
 - [Visions NFT](https://t.co/XIM7dP1eMe?amp=1)
-- 
-- 
 - [No Prob-llama](https://t.co/wlIXTJiZX6?amp=1)
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
@@ -910,7 +909,6 @@ Tools to help you build on Cardano:
 - [Cardano Potions](https://t.co/VU6vihJH9F?amp=1)
 - [Colorful Screens](https://t.co/Dlctat2Gsr?amp=1)
 - [Pink Rain](https://t.co/07sucHRz90?amp=1)
-- 
 - [Herkimer](https://t.co/LPvABDlxf4?amp=1)
 - [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
@@ -1084,6 +1082,7 @@ Tools to help you build on Cardano:
 - [Pergamon App](https://pergamon.app)
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [FiveFamilies](https://fivefamilies.net)
+- [64-BLOCKS](https://buy.blockchainart.works/)
 
 
 ## 🥩 Stake Pools 🥩 ##
