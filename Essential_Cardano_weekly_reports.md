@@ -3,9 +3,10 @@
 ### Week ending December 3rd
 This week, we approved the following contributions:
 -  Cardano Warriors in the Games and Entertainment section
--  Empowa and CryptoPeeps in the NFTs section in the NFTs section
+-  Empowa, CryptoPeeps, and ADATAR in the NFTs section in the NFTs section
 -  Fracada under the Resources section
 -  New Rust and Cardano Rust Ecosystem sections
+-  CBTC Bridge in the DeFi and Capital Markets section
 -  The ADAlator in the Plutus Pioneers section
 -  Hachi under a new Security Research & Tooling section
 
