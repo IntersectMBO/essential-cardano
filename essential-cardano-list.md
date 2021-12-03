@@ -328,7 +328,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Crypto and Cardano market projection tool](https://cardanolatino.com/cardanoenglish/staking-calculator/)
 - [The ADAlator](https://adalator.com/)
 
-
 ## Research and Education ##
 
 ### Standards/Consortia ###
@@ -613,7 +612,6 @@ You can also explore stake pools using these tools:
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ## Essential Resources ## 
-
 Here is our essential list of Cardano resources. 
 
 ### 🧙 IO Global Official Resources 🧙 ###
@@ -799,6 +797,7 @@ Tools to help you build on Cardano:
 - [autre-coeur](https://autrecoeur.com/)
 - [Ave Musiqa](https://t.co/qL6sojC2N8?amp=1)
 - [Avocardano](https://t.co/J1c9O56JzQ?amp=1)
+- [aw0k3n algorithms](https://aw0k3n.io/)
 - [Backwards Geometry](https://backwardsgeometry.com/)
 - [Beyond Rockets](https://t.co/CLqNN7NjNc?amp=1)
 - [BitBunny](www.instagram.com/bitbunnyio/)
@@ -915,7 +914,6 @@ Tools to help you build on Cardano:
 - [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
 - [Ydesh](https://t.co/KMJiHieQXm?amp=1)
-- 
 - [Marshall](https://t.co/ckShMjVNAJ?amp=1)
 - [Slice of Art](https://t.co/4sGzv4ez2z?amp=1)
 - [Jason Matias](https://t.co/kpy380gJYs?amp=1)
