@@ -776,6 +776,7 @@ Tools to help you build on Cardano:
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
+- [ADATAR.io | your self-made Avatar CNFT](https://adatar.io)
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [ADA Dreams](@Krystalvoyager1)
