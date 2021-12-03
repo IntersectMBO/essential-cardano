@@ -9,6 +9,7 @@ This week, we approved the following contributions:
 -  CBTC Bridge in the DeFi and Capital Markets section
 -  The ADAlator in the Plutus Pioneers section
 -  Hachi under a new Security Research & Tooling section
+-  ALDEA under Stake Pool Alliances
 
 ### Week ending November 26th
 This week, we approved the following contributions:
