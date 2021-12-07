@@ -1,7 +1,7 @@
 # essential-cardano
 Welcome to the [Essential Cardano list](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list), a central source for all things Cardano-related. This is a community-sourced catalogue outlining all the organizations, partners, and projects that are part of the Cardano ecosystem, as well as a comprehensive collection of resources to help you learn more about Cardano. 
 
-*Inclusion in this list does not consititute an _endorsement_, please be cautious and do your own research.*
+*Inclusion in this list does not constitute an _endorsement_, please be cautious and do your own research.*
 
 This list serves as a canonical reference and educational resource to help you navigate our growing ecosystem. Inclusion in the Essential Cardano list *does not constitute any kind of ‘official’ endorsement by IOG or any other entity*. Projects are added upon community request and as ever, we encourage every community member to do their own research when evaluating projects.
 
