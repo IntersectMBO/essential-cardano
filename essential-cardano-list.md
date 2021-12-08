@@ -131,11 +131,12 @@ Here is an outline of the categories:
 - [Aada Finance](https://aada.finance/)
 - [Ardana](https://ardana.org/)
 - [Bondly](https://bondly.finance/)
+- [CBTC Bridge](https://cbtcbridge.com)
 - [Celsius](https://celsius.network/)
 - [Coinlink](https://coinlink.finance/)
 - [Generation Two Securitization](https://www.gentwo.com/)
 - [Hard Blue](https://hard.blue/)
-- [Meld](https://www.meld.com/)
+- [MELD](https://meld.com/)
 - [Venus](https://venus.io/)
 - [Wave](https://wavegp.com/)
 
@@ -205,6 +206,7 @@ Here is an outline of the categories:
 ### Games and Entertainment ###
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
+- [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
 - [Carnivilla](https://carnivilla.com/)
@@ -217,6 +219,7 @@ Here is an outline of the categories:
 - [World of Pirates](https://worldofpirates.io)
 
 ### Miscellaneous ###
+- [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
 - [Gift Card Generator](https://randomfrenchpool.com/en/cards)
 
 ### Exchange-traded Products ###
@@ -233,6 +236,16 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Haskell](https://www.haskell.org/)
 - [Learn You a Haskell guide](http://learnyouahaskell.com/)
 - [(Russian) Функциональное программирование на языке Haskell (stepik.org)](https://stepik.org/course/75/)
+
+#### Rust ####
+- [Rust](https://www.rust-lang.org/)
+
+##### Cardano Rust Ecosystem #####
+- [Byron Rust implementation](https://github.com/input-output-hk/rust-cardano)
+- [Byron Cardano CLI Rust implementation](https://github.com/input-output-hk/cardano-cli)
+- [Cardano Serialization Library in Rust](https://github.com/Emurgo/cardano-serialization-lib)
+- [Cardano Ouroboros Networking library in Rust](https://github.com/2nd-Layer/rust-cardano-ouroboros-network)
+- [CNCLI - SPO tools in Rust](https://github.com/AndrewWestberg/cncli)
 
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
@@ -295,10 +308,10 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 - [GeroWallet](https://gerowallet.io/)
-- [ccwallet.io](https://ccwallet.io/)
+- [ccvault.io](https://ccvault.io/)
+- [Typhon Wallet](https://typhonwallet.io/)
 - [B58 Finance](https://b58.finance/)
 - [NamiWallet](https://namiwallet.io/)
-- [ccwallet](https://ccwallet.io/mainnet/landingpage)
 - [CardWallet](https://cardwallet.fi/)
 - [Game Changer Wallet](https://gamechanger.finance/welcome)
 - [Adaly Wallet](https://t.co/YbshCCU13n?amp=1)
@@ -313,6 +326,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Cardano ADA Gainz calculator](https://cardanogainz.com)
 - [Min ada calculator](https://mantis.functionally.io/how-to/min-ada-value/)
 - [Crypto and Cardano market projection tool](https://cardanolatino.com/cardanoenglish/staking-calculator/)
+- [The ADAlator](https://adalator.com/)
 
 ## Research and Education ##
 
@@ -370,6 +384,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [R9B](https://www.cybersecurityintelligence.com/root9b-r9b-6089.html)
 - Nagra
 
+### Security Research & Tooling ###
+- [Hachi](https://hachi.one/)
+
 ### Ouroboros Consensus ###
 - [Classic](https://iohk.io/en/research/library/papers/ouroborosa-provably-secure-proof-of-stake-blockchain-protocol/)
 - [BFT](https://iohk.io/en/research/library/papers/ouroboros-bfta-simple-byzantine-fault-tolerant-consensus-protocol/)
@@ -378,6 +395,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Hydra](https://eprint.iacr.org/2020/299.pdf)
 - Chronos
 - Crypsinous
+
+### Sidechain Solutions ###
+- [Milkomeda](http://milkomeda.com)
 
 ### Abuse Detection & Prevention ###
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
@@ -592,7 +612,6 @@ You can also explore stake pools using these tools:
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ## Essential Resources ## 
-
 Here is our essential list of Cardano resources. 
 
 ### 🧙 IO Global Official Resources 🧙 ###
@@ -661,6 +680,7 @@ Here is our essential list of Cardano resources.
 - [Cardano Alerts](https://cardanoalerts.com)
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
+- [Fracada](https://github.com/dcSpark/fracada)
  
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -754,6 +774,7 @@ Tools to help you build on Cardano:
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
+- [ADATAR.io | your self-made Avatar CNFT](https://adatar.io)
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [ADACoinsNFT](https://www.adacoins.xyz)
 - [ADA Dreams](@Krystalvoyager1)
@@ -766,6 +787,7 @@ Tools to help you build on Cardano:
 - [Ada Slimes](https://adaslimes.com/)
 - [adasso.art](https://adasso.art/)
 - [Aeoniumsky](www.aeoniumsky.io/blocks)
+- [ALDEA NFT](https://nft.aldea-dao.org)
 - [Alpha_TJ](https://t.co/uSP4o7lR9A?amp=1)
 - [anarchyCNFT](https://anarchyCNFT.art/)
 - [Anim8bits](https://t.co/U4srjvJXa0?amp=1)
@@ -775,6 +797,7 @@ Tools to help you build on Cardano:
 - [autre-coeur](https://autrecoeur.com/)
 - [Ave Musiqa](https://t.co/qL6sojC2N8?amp=1)
 - [Avocardano](https://t.co/J1c9O56JzQ?amp=1)
+- [aw0k3n algorithms](https://aw0k3n.io/)
 - [Backwards Geometry](https://backwardsgeometry.com/)
 - [Beyond Rockets](https://t.co/CLqNN7NjNc?amp=1)
 - [BitBunny](www.instagram.com/bitbunnyio/)
@@ -819,6 +842,7 @@ Tools to help you build on Cardano:
 - [Crypto Heroez](https://cryptoheroez.io/)
 - [Cryptoknitties](https://twitter.com/cryptoknitties)
 - [Cryptomayor](https://t.co/hnyyHnS67y?amp=1)
+- [CryptoPeeps](https://www.cryptopeeps.io)
 - [CryptoPetz](cryptopetz.io)
 - [Cryptoplushies](https://t.co/vdJuu2cU8P?amp=1)
 - [Crypto Sports](https://t.co/o5VLDYJcqe?amp=1)
@@ -878,8 +902,6 @@ Tools to help you build on Cardano:
 - [unsigned_algorithms](unsigs.com)
 - [Unsigned Teddys](https://t.co/wAVJJwj7El?amp=1)
 - [Visions NFT](https://t.co/XIM7dP1eMe?amp=1)
-- 
-- 
 - [No Prob-llama](https://t.co/wlIXTJiZX6?amp=1)
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
@@ -888,12 +910,10 @@ Tools to help you build on Cardano:
 - [Cardano Potions](https://t.co/VU6vihJH9F?amp=1)
 - [Colorful Screens](https://t.co/Dlctat2Gsr?amp=1)
 - [Pink Rain](https://t.co/07sucHRz90?amp=1)
-- 
 - [Herkimer](https://t.co/LPvABDlxf4?amp=1)
 - [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
 - [Ydesh](https://t.co/KMJiHieQXm?amp=1)
-- 
 - [Marshall](https://t.co/ckShMjVNAJ?amp=1)
 - [Slice of Art](https://t.co/4sGzv4ez2z?amp=1)
 - [Jason Matias](https://t.co/kpy380gJYs?amp=1)
@@ -1062,6 +1082,8 @@ Tools to help you build on Cardano:
 - [Pergamon App](https://pergamon.app)
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [FiveFamilies](https://fivefamilies.net)
+- [64-BLOCKS](https://buy.blockchainart.works/)
+- [NFTJam.io Marketplace](https://nftjam.io)
 
 
 ## 🥩 Stake Pools 🥩 ##
@@ -1089,6 +1111,7 @@ You can also explore stake pools using these tools:
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
+- [ALDEA](https://www.aldea-dao.org/about-eng.html)
 - [Alliance list](https://adapools.org/alli)
 - [Armada Alliance](https://armada-alliance.com)
 - [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)

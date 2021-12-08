@@ -1,5 +1,22 @@
 ## Essential Cardano weekly reports
 
+### Week ending December 3rd
+This week, we approved the following contributions:
+-  Cardano Warriors in the Games and Entertainment section
+-  Empowa, CryptoPeeps, ADATAR, and NFTJam Marketplace in the NFTs section in the NFTs section
+-  Fracada under the Resources section
+-  New Rust and Cardano Rust Ecosystem sections
+-  CBTC Bridge in the DeFi and Capital Markets section
+-  The ADAlator in the Plutus Pioneers section
+-  Hachi under a new Security Research & Tooling section
+-  ALDEA under Stake Pool Alliances
+
+### Week ending November 26th
+This week, we approved the following contributions:
+-  Milkomeda in a new Sidechains section
+-  aw0k3n algorithms in the NFTs section
+-  Typhon Wallet and ccvault in the Plutus Pioneers section
+
 ### Week ending November 19th
 This week, we approved the following contributions:
 - Genesis Auction House in the Tools and Explorers section
