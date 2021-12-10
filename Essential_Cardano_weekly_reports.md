@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending December 10th
+This week, we approved the following contributions:
+-  Ada Finance, Anetabtc, KubeCoin, Optim Finance, VyFinance, Kick.io, Genius Yield, Astarter, and Defire in the DeFi and Captial Markets section
+-  Blockademia under the Identity Eco Systems section
+-  Meowswap, LiqwidX, and Paribus in the Exchanges section
+-  Flickto and Cardence under the Incubators and Funding section
+
 ### Week ending December 3rd
 This week, we approved the following contributions:
 -  Cardano Warriors in the Games and Entertainment section
