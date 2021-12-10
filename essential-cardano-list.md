@@ -201,11 +201,11 @@ Here is an outline of the categories:
 - [Coti](https://coti.io)
 - [LiqwidX](https://www.liqwidx.org/)
 - [Metaps+](https://metaps.com/)
+- [Paribus](https://paribus.io/)
 - [Revuto](https://revuto.com/)
 - [Shopify](https://www.shopify.com/)
 - [Simplex](https://www.simplex.com/)
 - [Sirin Labs](https://sirinlabs.com/)
-- [Paribus](https://paribus.io/)
 - [WooCommerce](https://woocommerce.com/)
 
 ### Incubators and Funding ###
