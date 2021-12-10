@@ -212,6 +212,7 @@ Here is an outline of the categories:
 - [C-fund](https://cfund.vc/)
 - DC-fund
 - [Dlab](https://dlab.vc/)
+- [Flickto](https://www.flickto.io/)
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - Treasury Wave
 - [Y2X](https://y2x.io/)  
