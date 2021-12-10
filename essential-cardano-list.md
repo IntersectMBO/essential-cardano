@@ -129,16 +129,25 @@ Here is an outline of the categories:
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
+- [Ada Finance](https://adafinance.io/)
 - [Ardana](https://ardana.org/)
+- [Anetabtc](https://www.anetabtc.io/)
 - [Bondly](https://bondly.finance/)
 - [CBTC Bridge](https://cbtcbridge.com)
 - [Celsius](https://celsius.network/)
 - [Coinlink](https://coinlink.finance/)
 - [Generation Two Securitization](https://www.gentwo.com/)
+- [KubeCoin](https://kubecoin.org/)
+- [Optim Finance](https://optim.finance/)
 - [Hard Blue](https://hard.blue/)
 - [MELD](https://meld.com/)
 - [Venus](https://venus.io/)
 - [Wave](https://wavegp.com/)
+- [VyFinance](https://vyfi.io/)
+- [Kick.io](https://kick.io/)
+- [Genius Yield](https://www.geniusyield.co/)
+- [Astarter](https://astarter.io/)
+- [Defire](https://www.defire.fi/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -149,6 +158,7 @@ Here is an outline of the categories:
 ### Identity Eco Systems ###
 - [IOHK Atala Prism](https://www.atalaprism.io/)
 - [IAMX](https://iamx.id/)
+- [Blockademia](https://blockademia.com/)
 
 ### Exchanges ###
 - [Binance](https://www.binance.com/en)
@@ -178,6 +188,7 @@ Here is an outline of the categories:
 - [Maladex](https://maladex.com/) 
 - [Minswap](https://minswap.org/)
 - [Mirqur](https://mirqur.io/)
+- [Meowswap](https://meowswap.fi/)
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
 - [Ravendex](https://ravendex.io/)
@@ -188,11 +199,13 @@ Here is an outline of the categories:
 - [ADAlend](https://adalend.finance/)
 - AdaPay
 - [Coti](https://coti.io)
+- [LiqwidX](https://www.liqwidx.org/)
 - [Metaps+](https://metaps.com/)
 - [Revuto](https://revuto.com/)
 - [Shopify](https://www.shopify.com/)
 - [Simplex](https://www.simplex.com/)
 - [Sirin Labs](https://sirinlabs.com/)
+- [Paribus](https://paribus.io/)
 - [WooCommerce](https://woocommerce.com/)
 
 ### Incubators and Funding ###
@@ -202,6 +215,8 @@ Here is an outline of the categories:
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - Treasury Wave
 - [Y2X](https://y2x.io/)  
+- [Flickto.io](https://www.flickto.io/)
+- [Cardence](https://cardence.io/)
 
 ### Games and Entertainment ###
 - [Bears Club](https://bearsclub.io)
