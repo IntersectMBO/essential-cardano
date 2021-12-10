@@ -4,7 +4,8 @@
 This week, we approved the following contributions:
 -  Ada Finance, Anetabtc, KubeCoin, Optim Finance, VyFinance, Kick.io, Genius Yield, Astarter, and Defire in the DeFi and Captial Markets section
 -  Blockademia under the Identity Eco Systems section
--  Meowswap, LiqwidX, and Paribus in the Exchanges section
+-  Meowswap under the DEX section#
+-  LiqwidX, and Paribus in the Payments and Lending section
 -  Flickto and Cardence under the Incubators and Funding section
 
 ### Week ending December 3rd
