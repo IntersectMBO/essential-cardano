@@ -82,6 +82,7 @@ Here is an outline of the categories:
 - Dquadrant
 - [Eleks](https://eleks.com/)
 - [Five Binaries](https://fivebinaries.com/)
+- [Iagon](https://www.iagon.com/)
 - [Ice Addis](http://www.iceaddis.com/)
 - [iCog Labs](https://icog-labs.com/)
 - [Indigo](https://indigoprotocol.io/)
