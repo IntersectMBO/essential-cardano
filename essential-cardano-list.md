@@ -264,6 +264,9 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Cardano Serialization Library in Rust](https://github.com/Emurgo/cardano-serialization-lib)
 - [Cardano Ouroboros Networking library in Rust](https://github.com/2nd-Layer/rust-cardano-ouroboros-network)
 - [CNCLI - SPO tools in Rust](https://github.com/AndrewWestberg/cncli)
+- [Pallas - Rust-native building blocks for the Cardano blockchain ecosystem](https://github.com/txpipe/pallas)
+- [Oura - pipeline that connects to the tip of a Cardano node](https://github.com/txpipe/oura)
+
 
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
