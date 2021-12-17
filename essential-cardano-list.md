@@ -211,6 +211,7 @@ Here is an outline of the categories:
 
 ### Incubators and Funding ###
 - [C-fund](https://cfund.vc/)
+- [CardanoPad](https://cardanopad.net/)
 - DC-fund
 - [Dlab](https://dlab.vc/)
 - [Flickto](https://www.flickto.io/)
