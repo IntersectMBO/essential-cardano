@@ -2,6 +2,7 @@
 
 ### Week ending December 17th
 This week, we approved the following contributions:
+- Iagon under Strategic Partners and Collaborators
 - Cardano Robots and adaex (a lightweight Cardano explorer) under Tools
 - CardanoPad under the Incubators and Funding section
 - Pallas and Oura in the Rust ecosystem section
