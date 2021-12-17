@@ -195,6 +195,7 @@ Here is an outline of the categories:
 - [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
+- [Byron DEX](https://byron.network/)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
@@ -333,6 +334,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Game Changer Wallet](https://gamechanger.finance/welcome)
 - [Adaly Wallet](https://t.co/YbshCCU13n?amp=1)
 - [Exodus](https://www.exodus.com/)
+- [Byron Wallet](https://byron.network/)
 
 ## Metadata ##
 - [CardanoWall](https://cardanowall.com/)
