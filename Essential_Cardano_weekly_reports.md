@@ -1,5 +1,11 @@
 ## Essential Cardano weekly reports
 
+### Week ending December 17th
+This week, we approved the following contributions:
+- Cardano Robots and adaex (a lightweight Cardano explorer) under Tools
+- CardanoPad under the Incubators and Funding section
+- Pallas and Oura in the Rust ecosystem section
+
 ### Week ending December 10th
 This week, we approved the following contributions:
 -  Ada Finance, Anetabtc, KubeCoin, Optim Finance, VyFinance, Kick.io, Genius Yield, Astarter, and Defire in the DeFi and Captial Markets section
