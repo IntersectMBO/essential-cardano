@@ -5,4 +5,9 @@
 default: true
 
 # MD013/line-length - Line length
+# https://github.com/updownpress/markdown-lint/blob/master/rules/013-line-length.md
 MD013: false
+
+# MD024/no-duplicate-heading/no-duplicate-header - Multiple headers with the same content
+# https://github.com/updownpress/markdown-lint/blob/master/rules/024-no-duplicate-header.md
+MD024: false
