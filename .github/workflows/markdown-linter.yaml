@@ -17,4 +17,3 @@ jobs:
         files: .
         config_file: ".markdownlint.yaml"
         ignore_files: "*(license.md|Essential_Cardano_weekly_reports.md|README.md)"
-        # rules: "examples/rules/custom.js"
