@@ -852,7 +852,7 @@ Tools to help you build on Cardano:
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
 - [Grayscale](https://grayscale.com/)
 
-## NFT Platforms and Projects
+## NFT Platforms and Projects ##
 
 - [ABCardano](https://twitter.com/ABCardanoNFT)
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
