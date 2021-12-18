@@ -1,0 +1,20 @@
+name: markdownlinter
+
+on: [push, pull_request]
+
+jobs:
+  Linting:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Check out repository
+      uses: actions/checkout@v2
+
+    - name: Run markdownlint-cli
+      uses: nosborn/github-action-markdown-cli@v2.0.0
+      with:
+        files: .
+        # config_file: ".markdownlint.yaml"
+        ignore_files: "*(license.md|Essential_Cardano_weekly_reports.md|README.md)"
+        # rules: "examples/rules/custom.js"
