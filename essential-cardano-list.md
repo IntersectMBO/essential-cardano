@@ -803,13 +803,13 @@ Tools to help you build on Cardano:
 - [Adastat](https://adastat.net/)
 - [Clio](https://edu.clio.one)
 - [Seeada](https://seeada.org/)
-- [Cardano Community]()
+- Cardano Community
 - [Adafolio](https://adafolio.com/)
 - [Cardano Blockchain Insights](https://datastudio.google.com/u/0/reporting/3136c55b-635e-4f46-8e4b-b8ab54f2d460/page/k5r9B)
-- [Bitbucket]()
+- Bitbucket
 - [Hitchhiker's Guides](https://www.publish0x.com/raxp122/the-hitchhiker-s-guide-to-cardano-ada-xlyjgyl)
 - [Voting by Dust](https://vote.crypto2099.io/)
-- [Python LeaderLog and getSigma scripts]()
+- Python LeaderLog and getSigma scripts
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 - [Cardano cards](https://github.com/coconutpool/learn_cardano)
 - [Cardano Waves](https://cardanowaves.com)
