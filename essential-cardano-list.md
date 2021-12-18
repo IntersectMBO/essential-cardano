@@ -774,7 +774,7 @@ Tools to help you build on Cardano:
 ### Our Essential Community Top Five ###
 
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
-- [Guild Operators ](https://cardano-community.github.io/guild-operators/#/)
+- [Guild Operators](https://cardano-community.github.io/guild-operators/#/)
 - [Coin Cashew - How to build a Cardano stake pool](https://www.coincashew.com/coins/overview-ada/guide-how-to-build-a-haskell-stakepool-node)
 - [big pey's video tutorials for stake pools](https://www.youtube.com/playlist?list=PLyThQPJpttTJ4r9wUdlWi1DMty4nAT85d)
 - [Build a stake pool: CN Tools](https://www.youtube.com/watch?v=UN4rSRr7LDk)
@@ -1202,7 +1202,7 @@ You can also explore stake pools using these tools:
 - [ALDEA](https://www.aldea-dao.org/about-eng.html)
 - [Alliance list](https://adapools.org/alli)
 - [Armada Alliance](https://armada-alliance.com)
-- [Cardano Single Pool Alliance ](https://singlepoolalliance.net/)
+- [Cardano Single Pool Alliance](https://singlepoolalliance.net/)
 - [Cardano Bare Metal Alliance](https://cardanobaremetal.com/)
 - [Mission-Driven Pools](https://missiondrivenpools.org/)
 - [F2LB First 2 Lifetime Block community](https://l2fb-sandbox.mxapps.io/)
