@@ -1,9 +1,8 @@
-
 # The Essential Cardano list #
 
-The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials, and a list of active stake pools. 
+The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials, and a list of active stake pools.
 
-This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
+This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem.
 
 Here is an outline of the categories:
 - [Core Organizations](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#core-organizations)
@@ -126,7 +125,7 @@ Here is an outline of the categories:
 - [BeefChain](https://beefchain.com/)
 - [Blue Korintji Coffee](https://www.bluekorintji.com/)
 - [New Balance](https://www.newbalance.com/)
-- [Scantrust](https://www.scantrust.com/) 
+- [Scantrust](https://www.scantrust.com/)
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
@@ -186,7 +185,7 @@ Here is an outline of the categories:
 - [CardStarter](https://www.cardstarter.io/)
 - [ErgoDex](https://ergodex.io/)
 - [GADA](https://gada.finance/)
-- [Maladex](https://maladex.com/) 
+- [Maladex](https://maladex.com/)
 - [Minswap](https://minswap.org/)
 - [Mirqur](https://mirqur.io/)
 - [Meowswap](https://meowswap.fi/)
@@ -217,7 +216,7 @@ Here is an outline of the categories:
 - [Flickto](https://www.flickto.io/)
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - Treasury Wave
-- [Y2X](https://y2x.io/)  
+- [Y2X](https://y2x.io/)
 - [Flickto.io](https://www.flickto.io/)
 - [Cardence](https://cardence.io/)
 
@@ -616,7 +615,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ## Exploring Stake Pools ##
-IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab.
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
 - [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
@@ -632,8 +631,8 @@ You can also explore stake pools using these tools:
 - [AdaStat (pools)](https://adastat.net/pools)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
-## Essential Resources ## 
-Here is our essential list of Cardano resources. 
+## Essential Resources ##
+Here is our essential list of Cardano resources.
 
 ### 🧙 IO Global Official Resources 🧙 ###
 - [Cardano official website](https://cardano.org/)
@@ -702,7 +701,7 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
 - [Fracada](https://github.com/dcSpark/fracada)
- 
+
 ### Builder Tools ###
 Tools to help you build on Cardano:
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
@@ -1101,7 +1100,7 @@ Tools to help you build on Cardano:
 - [NFT-MACHINE](https://nft-machine.com)
 - [CardanoGens](https://cardanogens.com/)
 - [theMagic8Ball](https://www.magic8ballnft.com/)
-- [the Construction](https://theconstruction.design/) 
+- [the Construction](https://theconstruction.design/)
 - [Fluidy3 Art](https://fluidy3.art/)
 - [Pergamon App](https://pergamon.app)
 - [The Burrow NFT](https://www.theburrownft.art/)
@@ -1117,7 +1116,7 @@ Tools to help you build on Cardano:
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ### Exploring Stake Pools ###
-IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab.
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
 - [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
