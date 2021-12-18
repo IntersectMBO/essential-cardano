@@ -1004,7 +1004,7 @@ Tools to help you build on Cardano:
 - [Olie Merza](https://t.co/vhcDeWdtue?amp=1)
 - [Blizzeffect](https://t.co/0RgQMFU77m?amp=1)
 - [GlitchCreation](https://t.co/WfMz4M9Nr3?amp=1)
-- [Ponchos] https://t.co/cgKwseBGIl?amp=1)
+- [Ponchos](https://t.co/cgKwseBGIl?amp=1)
 - [Creepy Cardano](https://t.co/yxaYwRCncr?amp=1)
 - [H.Y.P.E](https://t.co/M8pTE8O0sr?amp=1)
 - [Retro NFTs](https://t.co/DOMbePgJ5B?amp=1)
