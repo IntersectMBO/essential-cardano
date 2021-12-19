@@ -649,31 +649,6 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [ErgoDex Plutus Port](http://app.ideascale.com/t/UM5UZBisN)
 - [Cardol.io: Portfolio Tracker](https://cardano.ideascale.com/a/dtd/Cardol-io-Portfolio-Tracker/370255-48088)
 
-## Starting a Stake Pool ##
-
-- [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
-- [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
-
-## Exploring Stake Pools ##
-
-IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab.
-
-Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
-
-- [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
-- [Single Pool Alliance](https://singlepoolalliance.net) - [URL](https://smash.panl.org)
-
-You can also explore stake pools using these tools:
-
-- [ADApools.org](https://adapools.org/)
-- [Cardano PoolTool](https://pooltool.io/)
-- [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
-- [POOLSTATS](https://poolstats.org/#)
-- [Adatools (pools)](https://adatools.io/pools)
-- [Cardanoscan (pools)](https://cardanoscan.io/pools)
-- [AdaStat (pools)](https://adastat.net/pools)
-- [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
-
 ## Essential Resources ##
 
 Here is our essential list of Cardano resources.
