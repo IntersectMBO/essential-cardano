@@ -1,6 +1,8 @@
 name: linkchecker
 
-on: [push, pull_request]
+on:
+  schedule:
+    - cron:  '0 1 1 * *'
 
 jobs:
   Links:
