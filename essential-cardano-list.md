@@ -1105,7 +1105,7 @@ Tools to help you build on Cardano:
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ### Exploring Stake Pools ###
-IOHK has developed a [stake pool metadata aggregation server (SMASH)]((https://docs.cardano.org/getting-started/operating-a-stake-pool/SMASH) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/getting-started/operating-a-stake-pool/SMASH) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
 - [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
