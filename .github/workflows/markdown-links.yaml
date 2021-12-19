@@ -2,7 +2,7 @@ name: linkchecker
 
 on:
   schedule:
-    - cron:  '0 1 1 * *'
+    - cron:  '0 10 * * 1'
 
 jobs:
   Links:
