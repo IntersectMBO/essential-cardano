@@ -206,7 +206,6 @@ Here is an outline of the categories:
 - [Revuto](https://revuto.com/)
 - [Shopify](https://www.shopify.com/)
 - [Simplex](https://www.simplex.com/)
-- [Sirin Labs](https://sirinlabs.com/)
 - [WooCommerce](https://woocommerce.com/)
 
 ### Incubators and Funding ###
@@ -696,7 +695,6 @@ Here is our essential list of Cardano resources.
 - [Genesis Auction House](https://genesishouse.io)
 - [Staking calculator](https://testnets.cardano.org/en/testnets/cardano/tools/staking-calculator/)
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
-- [NFT Marketplace](https://xhibit.io/)
 - [NFT-MAKER.IO](https://nft-maker.io/)
 - [Cardano Alerts](https://cardanoalerts.com)
 - [NFT-MACHINE](https://nft-machine.com)
@@ -1061,7 +1059,6 @@ Tools to help you build on Cardano:
 - [NFT-Dao](https://www.nftsdao.com)
 - [Theos](https://theos.fi)
 - [CNFT](https://cnft.io)
-- [Xhibit](https://xhibit.io)
 - [Easy CNFT Art](https://easycnft.art/en)
 - [Lovada Art](https://market.lovada.art)
 - [Mermaida](https://www.metromermaids.com/mint/v0.103/)
