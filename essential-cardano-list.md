@@ -268,9 +268,9 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 
 
 #### Marlowe ####
-- [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
+- [Marlowe explainer](https://docs.cardano.org/marlowe/learn-about-marlowe)
 - [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
-- [Marlowe tutorial](https://alpha.marlowe.iohkdev.io/tutorial/index.html)
+- [Marlowe tutorial](https://marlowe-playground-staging.plutus.aws.iohkdev.io/doc/marlowe/tutorials/index.html#)
 - [Marlowe in Cardano explained](https://www.youtube.com/watch?v=S41GIRl0kVY)
 - [Marlowe Official Telegram](https://t.me/IOHK_Marlowe)
 - [Marlowe Udemy course (v. 1)](https://www.udemy.com/course/marlowe-programming-language/) (for background reading only, the development environment has changed. Version 2 will be out soon.)
@@ -321,7 +321,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Ledger](https://www.ledger.com/)
 - [Adalite](https://adalite.io/)
 - [Atomic wallet](https://atomicwallet.io/)
-- [Tangem](https://tangem.com/apps/)
+- [Tangem](https://tangem.com/choose-and-buy/tangem-wallet)
 - [Ellipal](https://www.ellipal.com/)
 - [Crypto Storage AG](https://www.cryptofinance.ch/en/storage/)
 - [Medusa Adawallet](https://adawallet.io/)
@@ -615,7 +615,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ## Exploring Stake Pools ##
-IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/getting-started/operating-a-stake-pool/SMASH) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
 - [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
@@ -674,10 +674,10 @@ Here is our essential list of Cardano resources.
 - [Cardano Discord](https://discord.com/login?redirect_to=%2Fchannels%2F386191477333557248%2F386223132496887808)
 - [Cardano developers Reddit](https://www.reddit.com/r/CardanoDevelopers/)
 - [Cardano Stack Exchange](https://cardano.stackexchange.com/)
-- [How to submit a CIP](https://docs.cardano.org/en/latest/cardano-community/cardano-improvement-proposals.html)
+- [How to submit a CIP](https://cips.cardano.org/cips/cip1/)
 
 ### 🆕 New to Cardano? 🆕 ###
-- Read the explainers in the [New to Cardano?](https://docs.cardano.org/en/latest/index.html#) section of Cardano Docs
+- Read the explainers in the [New to Cardano?](https://docs.cardano.org/new-to-cardano/introduction) section of Cardano Docs
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf) (community-generated)
 - [How to start with Cardano for newbies](https://cardanians.io/en/how-to-start-with-cardano-staking-for-newbies-140)
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
@@ -686,7 +686,7 @@ Here is our essential list of Cardano resources.
 
 ### 📚 Glossaries and General Information 📚 ###
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
-- [Cardano glossary](https://docs.cardano.org/en/latest/explore-cardano/glossary.html)
+- [Cardano glossary](https://docs.cardano.org/glossary)
 - [10 word glossary of terms](https://emurgo.io/en/blog/blockchain-glossary-10-words-to-get-you-through-the-door)
 
 ### 🔨 Tools and Explorers 🔨 ###
@@ -763,7 +763,7 @@ Tools to help you build on Cardano:
 - [Cardano Explorer - mainnet](https://adaex.org/)
 - [MakeAdaPool.com - All-in-one guide to build a Cardano stake pool](https://www.makeadapool.com)
 - [Cardano academic content](https://stephen-rowan.gitbook.io/ekphrasis/)
-- [Academic papers list](https://github.com/jonathondilworth/blockchain-notes/blob/main/Academic-Papers-List.md)
+- [Academic papers list](https://github.com/jonathondilworth/detailed-plutus-lecture-notes/blob/main/0-Academic-Papers-List.md)
 - [CNFT Hub](https://cnfthub.io/)
 - [Cardano Cube](https://cardanocube.io/)
 - [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
@@ -803,7 +803,6 @@ Tools to help you build on Cardano:
 - [Adanize](https://adanize.com)
 - [ADAkawaii](https://adakawaii.io/)
 - [Cardano Robots](https://adarobots.com/)
-- [Ada Miners](https://www.adaminers.io/)
 - [ADA-Monsterz](https://adamonsterz.com)
 - [Ada Plates](https://adaplates.com/)
 - [Ada Slimes](https://adaslimes.com/)
@@ -830,7 +829,7 @@ Tools to help you build on Cardano:
 - [Caja de Agua](https://linktr.ee/cajadeagua)
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
-- [Cardania](https://cardania.com/cardania-the-card-game)
+- [Cardania](https://cardania.com/)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
 - [Cardanobits](https://t.co/f1ea3sfgyC?amp=1)
@@ -853,7 +852,7 @@ Tools to help you build on Cardano:
 - [Cardano Warriors](https://t.co/5zaXvZ8W0K?amp=1)
 - [Cardinos](https://t.co/Nei1i6MSQ9?amp=1)
 - [Charles Gitnick](https://t.co/oJIc3qslxE?amp=1)
-- [Coruna](https://www.coruna.io/cardanoflowers)
+- [Coruna](https://www.coruna.io/cardano-flowers)
 - [Cult Leader NFT](https://t.co/E0l0SUFHO6?amp=1)
 - [CardAmigos](https://www.cardamigos.io/Collection)
 - [Clawdano](https://clawdano.com)
@@ -1114,7 +1113,7 @@ Tools to help you build on Cardano:
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ### Exploring Stake Pools ###
-IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
+IOHK has developed a [stake pool metadata aggregation server (SMASH)]((https://docs.cardano.org/getting-started/operating-a-stake-pool/SMASH) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
 Within the Daedalus settings you can set a custom SMASH server to browse member pools from pool alliances. The custom SMASH servers available include:
 - [Mission-Driven Pools](https://missiondrivenpools.org) - [URL](https://cmdp.panl.org)
