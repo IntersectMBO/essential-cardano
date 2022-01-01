@@ -258,6 +258,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 
 #### Rust ####
 - [Rust](https://www.rust-lang.org/)
+- [Awesome Cardano Rust](https://github.com/2nd-Layer/awesome-cardano-rust/blob/main/readme.md)
 
 ##### Cardano Rust Ecosystem #####
 - [Byron Rust implementation](https://github.com/input-output-hk/rust-cardano)
