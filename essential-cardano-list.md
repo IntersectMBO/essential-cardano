@@ -928,6 +928,7 @@ Tools to help you build on Cardano:
 - [unsigned_algorithms](unsigs.com)
 - [Unsigned Teddys](https://t.co/wAVJJwj7El?amp=1)
 - [Visions NFT](https://t.co/XIM7dP1eMe?amp=1)
+- [WyldLookz](https://wyldlookz.com/)
 - [No Prob-llama](https://t.co/wlIXTJiZX6?amp=1)
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
