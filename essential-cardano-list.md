@@ -58,6 +58,7 @@ Here is an outline of the categories:
 - [API3](https://api3.org/)
 - [Credmark](https://credmark.com/)
 - [Helixworks](https://helix.works/)
+- [InsideLine Inc.](https://insideline.io/)
 - [Quidli](https://quid.li/)
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
@@ -223,6 +224,7 @@ Here is an outline of the categories:
 - [Cardence](https://cardence.io/)
 
 ### Games and Entertainment ###
+- [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
