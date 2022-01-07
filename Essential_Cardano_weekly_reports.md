@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending January 7th
+Here are the recently added contributions for this week:
+- Awesome Cardano Rust (a specific, Rust developer-focused list) under the Rust section
+- reorganised the NFT section and removed duplicates
+
 ### Week ending December 17th
 This week, we approved the following contributions:
 - Iagon under Strategic Partners and Collaborators
