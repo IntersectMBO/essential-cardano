@@ -2,8 +2,11 @@
 
 ### Week ending January 7th
 Here are the recently added contributions for this week:
+- A new DAPPs section that includes Ada Blobs, DripDropz, Martify, and Trading Tent.
 - Awesome Cardano Rust (a specific, Rust developer-focused list) under the Rust section
-- reorganised the NFT section and removed duplicates
+- ADAX under DeFi and Capital Markets
+- Astro Swap and DOEX under DEXs
+- Cardahub in the NFTs section
 
 ### Week ending December 17th
 This week, we approved the following contributions:
