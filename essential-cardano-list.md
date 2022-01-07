@@ -130,6 +130,7 @@ Here is an outline of the categories:
 
 ### DeFi and Capital Markets ###
 - [Aada Finance](https://aada.finance/)
+- [ADAX](https://adax.pro/)
 - [Ada Finance](https://adafinance.io/)
 - [Ardana](https://ardana.org/)
 - [Anetabtc](https://www.anetabtc.io/)
@@ -182,8 +183,11 @@ Here is an outline of the categories:
 - [Adax](https://adax.pro/)
 - [AdaMuesliSwap](https://ada.muesliswap.com/)
 - [AdaSwap](https://adaswap.app/)
+- [Astro Swap](https://www.astroswap.app/)
+- [Byron DEX](https://byron.network/)
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
+- [DOEX](https://www.doex.org/)
 - [ErgoDex](https://ergodex.io/)
 - [GADA](https://gada.finance/)
 - [Maladex](https://maladex.com/) 
@@ -195,7 +199,12 @@ Here is an outline of the categories:
 - [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
-- [Byron DEX](https://byron.network/)
+
+## Decentralized Applications (DAPPs) ##
+- [Ada Blobs](https://adablobs.io/)
+- [DripDropz](https://dripdropz.io/)
+- [Martify](https://martify.io/)
+- [Trading Tent](https://www.tradingtent.io/)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
@@ -839,6 +848,7 @@ Tools to help you build on Cardano:
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
 - [CardAmigos](https://www.cardamigos.io/Collection)
+- [Cardahub](https://cardahub.io/home)
 - [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
