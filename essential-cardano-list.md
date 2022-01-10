@@ -230,6 +230,7 @@ Here is an outline of the categories:
 - [Y2X](https://y2x.io/)  
 - [Flickto.io](https://www.flickto.io/)
 - [Cardence](https://cardence.io/)
+- [Cardashift](https://cardashift.com/)
 
 ### Games and Entertainment ###
 - [Bears Club](https://bearsclub.io)
