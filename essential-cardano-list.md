@@ -199,6 +199,7 @@ Here is an outline of the categories:
 - [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
+- [WingRiders](https://www.wingriders.com/)
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
@@ -337,6 +338,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Ellipal](https://www.ellipal.com/)
 - [Crypto Storage AG](https://www.cryptofinance.ch/en/storage/)
 - [Medusa Adawallet](https://adawallet.io/)
+- [NuFi](https://nu.fi/)
 - [Revolut](https://www.revolut.com/)
 - [Guarda Wallet](https://guarda.com/)
 - [GeroWallet](https://gerowallet.io/)
