@@ -59,6 +59,7 @@ Here is an outline of the categories:
 - [Credmark](https://credmark.com/)
 - [Helixworks](https://helix.works/)
 - [InsideLine Inc.](https://insideline.io/)
+- [Moneyflow Organization](https://moneyflow.org/)
 - [Quidli](https://quid.li/)
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
@@ -252,6 +253,7 @@ Here is an outline of the categories:
 ### Miscellaneous ###
 - [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
 - [Gift Card Generator](https://randomfrenchpool.com/en/cards)
+- [Moneyflow Personal Money Management](https://moneyflow.org/)
 
 ### Exchange-traded Products ###
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
