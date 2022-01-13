@@ -205,6 +205,7 @@ Here is an outline of the categories:
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
 - [Trading Tent](https://www.tradingtent.io/)
+- [Cardahub](https://cardahub.io/home)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
@@ -848,7 +849,6 @@ Tools to help you build on Cardano:
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
 - [CardAmigos](https://www.cardamigos.io/Collection)
-- [Cardahub](https://cardahub.io/home)
 - [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
