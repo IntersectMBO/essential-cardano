@@ -1,5 +1,13 @@
 ## Essential Cardano weekly reports
 
+### Week ending January 14th
+Here are the recently added contributions for this week:
+- MusicBox CNFT under Tools to build on Cardano
+- Moneyflow Organization under Startups
+- ALLIN under Games and Entertainment
+- WyldLookz under NFTs
+- moved Cardahub to the DAPPs section
+
 ### Week ending January 7th
 Here are the recently added contributions for this week:
 - A new DAPPs section that includes Ada Blobs, DripDropz, Martify, and Trading Tent.
