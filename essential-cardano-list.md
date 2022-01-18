@@ -152,6 +152,7 @@ Here is an outline of the categories:
 - [Venus](https://venus.io/)
 - [VyFinance](https://vyfi.io/)
 - [Wave](https://wavegp.com/)
+- [Cardashift](https://cardashift.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -201,6 +202,7 @@ Here is an outline of the categories:
 - [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
+- [Cardashift](https://cardashift.com/)
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
