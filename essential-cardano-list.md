@@ -58,6 +58,8 @@ Here is an outline of the categories:
 - [API3](https://api3.org/)
 - [Credmark](https://credmark.com/)
 - [Helixworks](https://helix.works/)
+- [InsideLine Inc.](https://insideline.io/)
+- [Moneyflow Organization](https://moneyflow.org/)
 - [Quidli](https://quid.li/)
 - [Sempo](https://withsempo.com/)
 - [Tesseract](https://tesseract.one/)
@@ -150,6 +152,7 @@ Here is an outline of the categories:
 - [Venus](https://venus.io/)
 - [VyFinance](https://vyfi.io/)
 - [Wave](https://wavegp.com/)
+- [Cardashift](https://cardashift.com/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -200,12 +203,14 @@ Here is an outline of the categories:
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
 - [WingRiders](https://www.wingriders.com/)
+- [Cardashift](https://cardashift.com/)
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
 - [Trading Tent](https://www.tradingtent.io/)
+- [Cardahub](https://cardahub.io/home)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
@@ -231,8 +236,10 @@ Here is an outline of the categories:
 - [Y2X](https://y2x.io/)  
 - [Flickto.io](https://www.flickto.io/)
 - [Cardence](https://cardence.io/)
+- [Cardashift](https://cardashift.com/)
 
 ### Games and Entertainment ###
+- [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
@@ -251,6 +258,7 @@ Here is an outline of the categories:
 ### Miscellaneous ###
 - [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
 - [Gift Card Generator](https://randomfrenchpool.com/en/cards)
+- [Moneyflow Personal Money Management](https://moneyflow.org/)
 
 ### Exchange-traded Products ###
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/en/products/funds/stuttgart/534304-pioneer-investments---total-return-a-da)
@@ -813,6 +821,7 @@ Tools to help you build on Cardano:
 - [Adaliens](https://t.co/yzk93WhdTH?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
 - [ADATAR.io | your self-made Avatar CNFT](https://adatar.io)
+- [ADA Birds](https://t.co/zpqreFptE2?amp=1)
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
 - [ADA Coins NFT](https://www.adacoins.xyz)
 - [adadomains.io](https://www.adadomains.io/)
@@ -850,7 +859,6 @@ Tools to help you build on Cardano:
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
 - [CardAmigos](https://www.cardamigos.io/Collection)
-- [Cardahub](https://cardahub.io/home)
 - [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
@@ -928,9 +936,11 @@ Tools to help you build on Cardano:
 - [Laura Lovelace](https://t.co/mJi9DNUR5H?amp=1)
 - [Li'l Goats](https://t.co/uBkrK5DNBY?amp=1)
 - [Lowpolyproject](https://t.co/Wj8ZMi6Ix7?amp=1)
+- [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Maluiin Pool NFT](https://maluiin.com/nft-gallery/)
 - [Mipa Toys](https://twitter.com/MipaToys)
 - [Mr. Intangible](https://t.co/wmeCIPEskA?amp=1)
+- [MusicBox](https://www.musicboxnft.com/)
 - [Neverengine](https://drops.neverengine.net)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
 - [PoolPerks](https://poolperks.io)
@@ -956,6 +966,7 @@ Tools to help you build on Cardano:
 - [unsigned_algorithms](unsigs.com)
 - [Unsigned Teddys](https://t.co/wAVJJwj7El?amp=1)
 - [Visions NFT](https://t.co/XIM7dP1eMe?amp=1)
+- [WyldLookz](https://wyldlookz.com/)
 - [No Prob-llama](https://t.co/wlIXTJiZX6?amp=1)
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
@@ -963,7 +974,6 @@ Tools to help you build on Cardano:
 - [End Drugs NFT](https://t.co/d8fsP4Icl1?amp=1)
 - [Pink Rain](https://t.co/07sucHRz90?amp=1)
 - [Herkimer](https://t.co/LPvABDlxf4?amp=1)
-- [MAD in Art](https://t.co/7CxpZWbW2G?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
 - [Ydesh](https://t.co/KMJiHieQXm?amp=1)
 - [Marshall](https://t.co/ckShMjVNAJ?amp=1)
@@ -984,7 +994,6 @@ Tools to help you build on Cardano:
 - [Sanero Rai](https://t.co/fRFXBVsyfC?amp=1)
 - [Chaotic Mathematics](https://t.co/HYDarGBupc?amp=1)
 - [Flue Frog](https://t.co/LvIbdIGNMA?amp=1)
-- [ADA Birds](https://t.co/zpqreFptE2?amp=1)
 - [AdRinsu](https://t.co/TmPC3r7yYu?amp=1)
 - [Joseph Miranda](https://t.co/GtIAPNmCRb?amp=1)
 - [EntheosAI](https://t.co/FHJW6muCWF?amp=1)

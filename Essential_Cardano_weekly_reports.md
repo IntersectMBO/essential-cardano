@@ -1,5 +1,13 @@
 ## Essential Cardano weekly reports
 
+### Week ending January 14th
+Here are the recently added contributions for this week:
+- MusicBox CNFT under Tools to build on Cardano
+- Moneyflow Organization under Startups
+- ALLIN under Games and Entertainment
+- WyldLookz under NFTs
+- moved Cardahub to the DAPPs section
+
 ### Week ending January 7th
 Here are the recently added contributions for this week:
 - A new DAPPs section that includes Ada Blobs, DripDropz, Martify, and Trading Tent.
@@ -20,7 +28,7 @@ This week, we approved the following contributions:
 -  Ada Finance, Anetabtc, KubeCoin, Optim Finance, VyFinance, Kick.io, Genius Yield, Astarter, and Defire in the DeFi and Captial Markets section
 -  Blockademia under the Identity Eco Systems section
 -  Meowswap under the DEX section
--  LiqwidX, and Paribus in the Payments and Lending section
+-  LiqwidX and Paribus in the Payments and Lending section
 -  Flickto and Cardence under the Incubators and Funding section
 
 ### Week ending December 3rd
