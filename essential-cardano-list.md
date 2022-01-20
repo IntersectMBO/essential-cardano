@@ -739,6 +739,7 @@ Tools to help you build on Cardano:
 - [Cardano Token Tool](https://tokentool.io/)
 - [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
 - [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
+- [Cardano Client Library in Python](https://github.com/cffls/pycardano)
 - [Cardano Jobs](https://cardanojobs.io)
 
 ### Our Essential Community Top Five ###
