@@ -1140,6 +1140,10 @@ Tools to help you build on Cardano:
 - [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
+### Improving the topology (waiting for P2P full implementation) ###
+Pending the launch of P2P, this script provides network information useful to build up a good performing static topology file, by hands. This SH script downloads latest Cardano's relays list from AdaPools and measure the Round Trip Times (RTT) for each relay (peer) starting from your location. To verify the geo information provided by adapool.org, a further geo-location of the XX best RTT machines is done. The output list is saved to a CSV file to cherry picking the best performing relays for each countty/region.
+- [RTTMapper](https://github.com/CardenPool/RTTmapper)
+
 ### Exploring Stake Pools ###
 IOHK has developed a [stake pool metadata aggregation server (SMASH)](https://docs.cardano.org/en/latest/getting-started/stake-pool-operators/SMASH-metadata-management.html) to provide the community with a list of verified stake pools with valid metadata. Smash is integrated with the Daedalus wallet, and users can see a list of valid stake pools in the delegation center tab. 
 
