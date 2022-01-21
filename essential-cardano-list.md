@@ -504,7 +504,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Cardano On-Chain Voting]
 - [Littercoin - Mass Adoption]
 - [PlayerMint: Token System for Gamers]
-- [Cardax - DEX on Cardano]
+- [Cardax - DEX on Cardano](https://cardax.io/)
 - [Real Estate Investment Platform]
 - [Cardano-based Marketplace]
 - [Haskell DeFi SDK for Plutus Devs]
@@ -536,7 +536,8 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Diversify Voting Influence]
 - [The Great Filter]
 - [West Africa Proposer Outreach]
-- [Free Online Course about Catalyst]
+- [Catalyst School](https://thecatalyst.school/)
+- [Catalyst Swarm](https://catalystswarm.com/)
 - [University/College Outreach]
 - [Project Catalyst Landing Page]
 - [Cardano Podcast Interviews w/Teams]
@@ -1132,7 +1133,6 @@ Tools to help you build on Cardano:
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
-
 
 ## 🥩 Stake Pools 🥩 ##
 
