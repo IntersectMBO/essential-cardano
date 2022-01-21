@@ -6,6 +6,7 @@ Here are the recently added contributions for this week:
 - a new script for SPOs to use to build their static toplogy file (RTTMapper.sh)
 - Included Cardashift under DEXs and Incubators and Funding
 - Added Catalyst Swarm and Catalyst School in the Catalyst section
+- Catalyst Swarm and Catalyst School YouTube channels under Community Videos 
 
 ### Week ending January 14th
 Here are the recently added contributions for this week:
