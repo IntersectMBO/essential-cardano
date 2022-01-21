@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending January 21st
+Here are the recently added contributions for this week:
+- PyCardano, a standalone Cardano client written in Python under Builder Tools
+- a new script for SPOs to use to build their static toplogy file (RTTMapper.sh)
+- Included Cardashift under DEXs and Incubators and Funding
+- Added Catalyst Swarm and Catalyst School in the Catalyst section
+
 ### Week ending January 14th
 Here are the recently added contributions for this week:
 - MusicBox CNFT under Tools to build on Cardano
