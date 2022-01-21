@@ -804,6 +804,8 @@ Tools to help you build on Cardano:
 ### 📹 Community Videos 📹 ###
 - [Cardano: The Revolution](https://www.youtube.com/watch?v=XKYorEgMVVo)
 - [Ladies of Cardano](https://www.youtube.com/watch?v=SPDsu9PqTmg)
+- [Catalyst School YouTube channel](https://www.youtube.com/channel/UCIPvRvMoxhmHLUuPPcsMmmg)
+- [Catalyst Swarm YouTube channel](https://www.youtube.com/channel/UCuXdR8JMH0QriU0uOTVpg3w)
 
 ### 👛 Wallet Resources 👛 ###
 - [Yoroi wallet primer](https://emurgo.io/blog/yoroi-wallet-primer-an-official-emurgo-guideto-withdrawing-your-cardano-ada-rewards)
