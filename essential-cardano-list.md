@@ -169,6 +169,7 @@ Here is an outline of the categories:
 - [Binance](https://www.binance.com/en)
 - [Bitbns](https://bitbns.com/)
 - [Bitfinex](https://www.bitfinex.com/)
+- [Bitpanda](https://www.bitpanda.com/)
 - [Bittrex](https://global.bittrex.com/)
 - [Bitthumb](https://en.bithumb.com/)
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/)
@@ -184,7 +185,6 @@ Here is an outline of the categories:
 
 ## Decentralized Exchanges (DEXs) ##
 - [Adax](https://adax.pro/)
-- [AdaMuesliSwap](https://ada.muesliswap.com/)
 - [AdaSwap](https://adaswap.app/)
 - [Astro Swap](https://www.astroswap.app/)
 - [Byron DEX](https://byron.network/)
@@ -194,9 +194,10 @@ Here is an outline of the categories:
 - [ErgoDex](https://ergodex.io/)
 - [GADA](https://gada.finance/)
 - [Maladex](https://maladex.com/) 
+- [Meowswap](https://meowswap.fi/)
 - [Minswap](https://minswap.org/)
 - [Mirqur](https://mirqur.io/)
-- [Meowswap](https://meowswap.fi/)
+- [MuesliSwap](https://ada.muesliswap.com/)
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
 - [Ravendex](https://ravendex.io/)
@@ -214,7 +215,7 @@ Here is an outline of the categories:
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
-- AdaPay
+- [AdaPay](https://adapay.finance/)
 - [Coti](https://coti.io)
 - [LiqwidX](https://www.liqwidx.org/)
 - [Metaps+](https://metaps.com/)
