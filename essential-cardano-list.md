@@ -726,6 +726,7 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
 - [Fracada](https://github.com/dcSpark/fracada)
+- [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
  
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -825,6 +826,7 @@ Tools to help you build on Cardano:
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [Adaliens](https://t.co/yzk93WhdTH?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
+- [AdaMeds](https://adameds.io/)
 - [ADATAR.io | your self-made Avatar CNFT](https://adatar.io)
 - [ADA Birds](https://t.co/zpqreFptE2?amp=1)
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
@@ -931,6 +933,7 @@ Tools to help you build on Cardano:
 - [Genesis Auction House](https://genesishouse.io)
 - [Glus CNFT](https://t.co/3dBuaV2x3A?amp=1)
 - [GOAT-Tribe](https://goattribe.io/)
+- [Havoc Worlds](https://havocworlds.io/)
 - [Hogsters](https://t.co/fwV7X0bG5I?amp=1)
 - [Isla Diwa](https://t.co/KqYh4qf6Wt?amp=1)
 - [Isometrices](https://t.co/8G50Lnugxg?amp=1)
