@@ -242,6 +242,7 @@ Here is an outline of the categories:
 - [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
+- [BlockchainGames](https://www.blockchaingames.company/)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
