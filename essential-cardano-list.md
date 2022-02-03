@@ -247,7 +247,7 @@ Here is an outline of the categories:
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
 - [Carnivilla](https://carnivilla.com/)
-- [CicadaNFT](https://cicadanft.com)
+- [Cicada Tactics: Multiplayer Tactical RPG](https://cicadatactics.com)
 - [CryptoBisons](https://twitter.com/CryptoBisons)
 - [DinoDapp](https://dinodapp.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
