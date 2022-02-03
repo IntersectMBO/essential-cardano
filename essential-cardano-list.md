@@ -254,6 +254,7 @@ Here is an outline of the categories:
 - [DUO: The NFT Card Game](https://www.getduo.gg)
 - [FiveFamilies](https://fivefamilies.net)
 - [HorrorCubes](https://horrocubes.io/)
+- [MADAX](https://www.info.141x.io/)
 - [Ridotto](https://ridotto.io)
 - [World of Pirates](https://worldofpirates.io)
 
