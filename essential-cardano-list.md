@@ -210,6 +210,7 @@ Here is an outline of the categories:
 - [Ada Blobs](https://adablobs.io/)
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
+- [Atomic Swap](https://atomic-swap.io/)
 - [Trading Tent](https://www.tradingtent.io/)
 - [Cardahub](https://cardahub.io/home)
 
