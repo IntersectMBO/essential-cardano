@@ -297,6 +297,10 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Pallas - Rust-native building blocks for the Cardano blockchain ecosystem](https://github.com/txpipe/pallas)
 - [Oura - pipeline that connects to the tip of a Cardano node](https://github.com/txpipe/oura)
 
+#### Go ####
+- [Go](https://go.dev/)
+- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang/blob/main/readme.md)
+
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
 - [Marlowe Playground](https://alpha.marlowe.iohkdev.io/#/)
