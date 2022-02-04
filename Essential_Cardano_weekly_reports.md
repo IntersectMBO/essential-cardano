@@ -2,7 +2,7 @@
 
 ### Week ending February 4th
 Here are the recently added contributions for this week:
-- Added ulti-Asset Bulk Sender under Tools and Explorers
+- Added Multi-Asset Bulk Sender under Tools and Explorers
 - Included Havoc Worlds and AdaMeds under the NFTs section
 - Added BlockchainGames, CicadaNFT, and MADAX under Games and Entertainment
 - New Awesome Cardano Golang list
