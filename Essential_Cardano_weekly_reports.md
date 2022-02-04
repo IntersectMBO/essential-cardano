@@ -1,5 +1,15 @@
 ## Essential Cardano weekly reports
 
+### Week ending February 4th
+Here are the recently added contributions for this week:
+- Added ulti-Asset Bulk Sender under Tools and Explorers
+- Included Havoc Worlds and AdaMeds under the NFTs section
+- Added BlockchainGames, CicadaNFT, and MADAX under Games and Entertainment
+- New Awesome Cardano Golang list
+- SCEZ - Smart Contract Made Easy project for developers under Tools
+- Atomic Swap in the DAPPs section
+- Updated some project names and reorganised some sections
+
 ### Week ending January 28th
 Here are the recently added contributions for this week:
 - Bitpanda under Exchanges
