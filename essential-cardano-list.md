@@ -1,7 +1,7 @@
 
 # The Essential Cardano list #
 
-The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials, and a list of active stake pools. 
+The Essential Cardano list provides an outline and accompanying map of the Cardano ecosystem and a central library of materials, which includes official IOG, Cardano Foundation, and Emurgo resources, as well as community-generated materials. 
 
 This list is fully open source so we hope that you can help us to grow and fine tune our recommendations to make our list even better. We encourage you to let us know of new content that is being produced by the community, new relationships, new innovations, so that we can add them all to this list and build out the ecosystem. 
 
@@ -169,6 +169,7 @@ Here is an outline of the categories:
 - [Binance](https://www.binance.com/en)
 - [Bitbns](https://bitbns.com/)
 - [Bitfinex](https://www.bitfinex.com/)
+- [Bitpanda](https://www.bitpanda.com/)
 - [Bittrex](https://global.bittrex.com/)
 - [Bitthumb](https://en.bithumb.com/)
 - [Börse Stuttgart](https://www.boerse-stuttgart.de/)
@@ -184,7 +185,6 @@ Here is an outline of the categories:
 
 ## Decentralized Exchanges (DEXs) ##
 - [Adax](https://adax.pro/)
-- [AdaMuesliSwap](https://ada.muesliswap.com/)
 - [AdaSwap](https://adaswap.app/)
 - [Astro Swap](https://www.astroswap.app/)
 - [Byron DEX](https://byron.network/)
@@ -194,9 +194,10 @@ Here is an outline of the categories:
 - [ErgoDex](https://ergodex.io/)
 - [GADA](https://gada.finance/)
 - [Maladex](https://maladex.com/) 
+- [Meowswap](https://meowswap.fi/)
 - [Minswap](https://minswap.org/)
 - [Mirqur](https://mirqur.io/)
-- [Meowswap](https://meowswap.fi/)
+- [MuesliSwap](https://ada.muesliswap.com/)
 - [Occam](https://occam.fi/)
 - [Polyswap](https://polyswap.io/)
 - [Ravendex](https://ravendex.io/)
@@ -209,12 +210,13 @@ Here is an outline of the categories:
 - [Ada Blobs](https://adablobs.io/)
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
+- [Atomic Swap](https://atomic-swap.io/)
 - [Trading Tent](https://www.tradingtent.io/)
 - [Cardahub](https://cardahub.io/home)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
-- AdaPay
+- [AdaPay](https://adapay.finance/)
 - [Coti](https://coti.io)
 - [LiqwidX](https://www.liqwidx.org/)
 - [Metaps+](https://metaps.com/)
@@ -247,12 +249,14 @@ Here is an outline of the categories:
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
 - [Carnivilla](https://carnivilla.com/)
+- [Cicada Tactics: Multiplayer Tactical RPG](https://cicadatactics.com)
 - [CryptoBisons](https://twitter.com/CryptoBisons)
 - [DinoDapp](https://dinodapp.com)
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [DUO: The NFT Card Game](https://www.getduo.gg)
 - [FiveFamilies](https://fivefamilies.net)
 - [HorrorCubes](https://horrocubes.io/)
+- [MADAX](https://www.info.141x.io/)
 - [Ridotto](https://ridotto.io)
 - [World of Pirates](https://worldofpirates.io)
 
@@ -279,6 +283,10 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 #### Rust ####
 - [Rust](https://www.rust-lang.org/)
 - [Awesome Cardano Rust](https://github.com/2nd-Layer/awesome-cardano-rust/blob/main/readme.md)
+
+#### Golang ####
+- [Golang](https://go.dev/)
+- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang)
 
 ##### Cardano Rust Ecosystem #####
 - [Byron Rust implementation](https://github.com/input-output-hk/rust-cardano)
@@ -826,12 +834,11 @@ Tools to help you build on Cardano:
 - [ACPhoto](https://t.co/HcvsOa9cGy?amp=1)
 - [Adaliens](https://t.co/yzk93WhdTH?amp=1)
 - [ADAbots](https://t.co/zWRQzfxLgI?amp=1)
-- [AdaMeds](https://adameds.io/)
 - [ADATAR.io | your self-made Avatar CNFT](https://adatar.io)
 - [ADA Birds](https://t.co/zpqreFptE2?amp=1)
 - [Ada Buildings](https://t.co/b2GepcrYOa?amp=1)
+- [ADA Dolls](https://t.co/Ib5OQydFvW?amp=1)
 - [ADA Coins NFT](https://www.adacoins.xyz)
-- [adadomains.io](https://www.adadomains.io/)
 - [ADA Dreams](@Krystalvoyager1)
 - [Adalotls & Co.](https://t.co/q2PgM0cVXd?amp=1)
 - [Adanize](https://adanize.com)
@@ -858,8 +865,12 @@ Tools to help you build on Cardano:
 - [Backwards Geometry](https://backwardsgeometry.com/)
 - [Beyond Rockets](https://t.co/CLqNN7NjNc?amp=1)
 - [BitBunny](www.instagram.com/bitbunnyio/)
+- [Blizzeffect](https://t.co/0RgQMFU77m?amp=1)
+- [BobaBits](https://t.co/NYwhHUjblB?amp=1)
+- [Boom Popz](https://t.co/1upRvVZpwm?amp=1)
 - [Bosmaus](https://t.co/TvUwOqi4Vk?amp=1)
 - [Boss Lenda](https://t.co/OEGlh8Y61Y?amp=1)
+- [Bunny G]
 - [Burgermania](https://burgermanstudio.com/)
 - [Cardenia City](https://cardenia.city/)
 - [Caja de Agua](https://linktr.ee/cajadeagua)
@@ -868,6 +879,7 @@ Tools to help you build on Cardano:
 - [CardAmigos](https://www.cardamigos.io/Collection)
 - [Cardania](https://cardania.com/cardania-the-card-game)
 - [Cardano Amigos](https://t.co/4w92vbOC4R?amp=1)
+- [Cardano Apes](https://t.co/asJDViQZZH?amp=1)
 - [Cardano Beans](https://t.co/dGANj9DENN?amp=1)
 - [Cardanobits](https://t.co/f1ea3sfgyC?amp=1)
 - [Cardano Bobclats](https://t.co/QbcWwkcPhs?amp=1)
@@ -880,6 +892,9 @@ Tools to help you build on Cardano:
 - [Cardano FC](https://t.co/MGk6mPg4Wk?amp=1)
 - [Cardano Fighters](www.cardanofighters.com)
 - [Cardano Freaks]
+- [Cardano Gang](https://t.co/Vv9Zoen6ii?amp=1)
+- [Cardano Gods](https://t.co/1yVuZgxrkL?amp=1)
+- [Cardano Heroes](https://t.co/vP1j93sZsf?amp=1)
 - [Cardano Idols](https://t.co/4WY98qtmjo?amp=1)
 - [Cardano Kidz](https://t.co/Bu63GNA0Tw?amp=1)
 - [Cardano Kitchen](https://cardanokitchen.io)
@@ -888,17 +903,23 @@ Tools to help you build on Cardano:
 - [Cardano Mirrors]
 - [Cardano Monsters](https://t.co/RNCeNcOaQG?amp=1)
 - [Cardano Potions](https://t.co/VU6vihJH9F?amp=1)
+- [Cardano Puzzle](https://t.co/mAntMDjZ93?amp=1)
 - [Cardano Robin Stamps Inc.](https://t.co/HaXJArmrBk?amp=1)
 - [Cardano Robots](https://adarobots.com/)
 - [Cardano Space](cardanospace.com)
+- [Cardano Trees](https://t.co/OSSrhWtTIe?amp=1)
 - [Cardano Tunes]
 - [Cardano Waifus](https://cardanowaifus.digital)
 - [Cardano Warriors](https://t.co/5zaXvZ8W0K?amp=1)
 - [Cardinos](https://t.co/Nei1i6MSQ9?amp=1)
+- [Cawaii Cardano Cats](https://cawaiicats.io/)
+- [Chaotic Mathematics](https://t.co/HYDarGBupc?amp=1)
 - [Charles Gitnick](https://t.co/oJIc3qslxE?amp=1)
 - [Cicada NFT](https://t.co/ljLMBPUAcN?amp=1)
+- [Claudia]
 - [Clawdano](https://clawdano.com)
 - [Clay Mates](https://t.co/uUnORq44yQ?amp=1)
+- [CNFT](https://cnft.io)
 - [Colorful Screens](https://t.co/Dlctat2Gsr?amp=1)
 - [Coruna](https://www.coruna.io/cardanoflowers)
 - [Cozy Space NFT](cozytokens.io)
@@ -917,19 +938,23 @@ Tools to help you build on Cardano:
 - [Cryptoverse]
 - [Cryptozoology](https://www.cryptozoology.ink/)
 - [Cyberbots](https://cyberbots.club/)
+- [Darkartopia](https://t.co/O8DDbmSer2?amp=1)
 - [David's Flat](https://t.co/7Qsee3nzai?amp=1)
 - [DEADPXLZ](https://t.co/azLIWGO4ym?amp=1)
 - [Deveerei](https://deveerei.carrd.co)
 - [Doggos]
 - [Doodz](https://t.co/Taw37LmEA4?amp=1)
 - [Empowa](https://empowa.io/)
+- [End Drugs NFT](https://t.co/d8fsP4Icl1?amp=1)
 - [Exnft.io](https://exnft.io/)
 - [Fahadouken NFT](https://t.co/NPZbyLZzZT?amp=1)
 - [Fernando Torelli](https://t.co/KmgK4B00yb?amp=1)
 - [FiveFamilies](https://fivefamilies.net)
+- [Fluidy3 Art](https://fluidy3.art/)
 - [Fort Gotten](https://www.fort-gotten.com/)
 - [Fractalz Rare Crystals](https://www.santoelectronics.com/crystals)
 - [Galaxy of Art](https://www.galaxyof.art/)
+- [Garlic Soul Art](https://t.co/As2RkGvtrD?amp=1)
 - [Genesis Auction House](https://genesishouse.io)
 - [Glus CNFT](https://t.co/3dBuaV2x3A?amp=1)
 - [GOAT-Tribe](https://goattribe.io/)
@@ -979,7 +1004,6 @@ Tools to help you build on Cardano:
 - [Mosies Burgina](https://t.co/rQcJiPVL0F?amp=1)
 - [Politikoz](https://t.co/btN9AEkvO1?amp=1)
 - [NFT Surf](https://t.co/Jo7xDTmjfd?amp=1)
-- [End Drugs NFT](https://t.co/d8fsP4Icl1?amp=1)
 - [Pink Rain](https://t.co/07sucHRz90?amp=1)
 - [Herkimer](https://t.co/LPvABDlxf4?amp=1)
 - [Yasen Chariyski](https://t.co/pt0rUVnrnT?amp=1)
@@ -988,7 +1012,6 @@ Tools to help you build on Cardano:
 - [Slice of Art](https://t.co/4sGzv4ez2z?amp=1)
 - [Jason Matias](https://t.co/kpy380gJYs?amp=1)
 - [Olie Merza](https://t.co/vhcDeWdtue?amp=1)
-- [Blizzeffect](https://t.co/0RgQMFU77m?amp=1)
 - [GlitchCreation](https://t.co/WfMz4M9Nr3?amp=1)
 - [Ponchos] https://t.co/cgKwseBGIl?amp=1)
 - [H.Y.P.E](https://t.co/M8pTE8O0sr?amp=1)
@@ -1000,12 +1023,10 @@ Tools to help you build on Cardano:
 - [The Voyager](https://t.co/1RBOIy2Rj6?amp=1)
 - [Fonnk](https://t.co/SJQ9jmmrWS?amp=1)
 - [Sanero Rai](https://t.co/fRFXBVsyfC?amp=1)
-- [Chaotic Mathematics](https://t.co/HYDarGBupc?amp=1)
 - [Flue Frog](https://t.co/LvIbdIGNMA?amp=1)
 - [AdRinsu](https://t.co/TmPC3r7yYu?amp=1)
 - [Joseph Miranda](https://t.co/GtIAPNmCRb?amp=1)
 - [EntheosAI](https://t.co/FHJW6muCWF?amp=1)
-- [Bunny G]
 - [Crypties NFT](https://t.co/13ziHNmmW5?amp=1)
 - [Encryptants](https://t.co/3kngp4WM6j?amp=1)
 - [Noodle Fighter Titans](https://t.co/nHfo6pzhNv?amp=1)
@@ -1014,10 +1035,6 @@ Tools to help you build on Cardano:
 - [OutOfTheWorld](https://twitter.com/CnftCommunity)
 - [Stigma Trading Cards](https://t.co/vsjG2j07El?amp=1)
 - [NFTY](https://www.nftynfty.com/)
-- [Garlic Soul Art](https://t.co/As2RkGvtrD?amp=1)
-- [Cardano Trees](https://t.co/OSSrhWtTIe?amp=1)
-- [Cardano Puzzle](https://t.co/mAntMDjZ93?amp=1)
-- [Cardano Apes](https://t.co/asJDViQZZH?amp=1)
 - [Hash Guardians](https://t.co/ENGGIB9aRR?amp=1)
 - [Crew NFT](https://t.co/gOdjOtzp8E?amp=1)
 - [Pixano NFT](https://t.co/yODPFu6YcN?amp=1)
@@ -1025,22 +1042,14 @@ Tools to help you build on Cardano:
 - [Yummi Universe](https://t.co/K4oomzfmnv?amp=1)
 - [Karranka Ink]
 - [The Galgos](https://t.co/Z3jHwbIaOW?amp=1)
-- [Claudia]
 - [Secret Decks](https://t.co/2NbFZUzjVJ?amp=1)
 - [nusigs]
 - [MonADA](https://t.co/K3EnI9zxfi?amp=1)
-- [ADA Dolls](https://t.co/Ib5OQydFvW?amp=1)
 - [Professor Cardano](https://t.co/yBFCfNS3hc?amp=1)
-- [Cardano Gods](https://t.co/1yVuZgxrkL?amp=1)
 - [Flawwed1](https://t.co/wxT7I7CZRU?amp=1)
-- [Cardano Gang](https://t.co/Vv9Zoen6ii?amp=1)
-- [Boom Popz](https://t.co/1upRvVZpwm?amp=1)
-- [BobaBits](https://t.co/NYwhHUjblB?amp=1)
-- [Cardano Heroes](https://t.co/vP1j93sZsf?amp=1)
 - [Red Palm](https://t.co/iOmWtLyYrw?amp=1)
 - [Masha's Colour Book](https://t.co/QmBK3WoepD?amp=1)
 - [The Ronin Universe](https://t.co/KlMSOVCt1o?amp=1)
-- [Darkartopia](https://t.co/O8DDbmSer2?amp=1)
 - [Flowers For Lovelace](https://t.co/SMeCOIn3B8?amp=1)
 - [Frigid Optics](https://t.co/J6hpYfwLGO?amp=1)
 - [withspaces](https://t.co/GIAkQDKnPf?amp=1)
@@ -1093,7 +1102,6 @@ Tools to help you build on Cardano:
 - [Tokhun](https://tokhun.io)
 - [NFT-Dao](https://www.nftsdao.com)
 - [Theos](https://theos.fi)
-- [CNFT](https://cnft.io)
 - [Xhibit](https://xhibit.io)
 - [Easy CNFT Art](https://easycnft.art/en)
 - [Lovada Art](https://market.lovada.art)
@@ -1134,7 +1142,6 @@ Tools to help you build on Cardano:
 - [CardanoGens](https://cardanogens.com/)
 - [theMagic8Ball](https://www.magic8ballnft.com/)
 - [the Construction](https://theconstruction.design/) 
-- [Fluidy3 Art](https://fluidy3.art/)
 - [Pergamon App](https://pergamon.app)
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [64-BLOCKS](https://buy.blockchainart.works/)

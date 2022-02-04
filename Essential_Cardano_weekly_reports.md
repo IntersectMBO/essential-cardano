@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending January 28th
+Here are the recently added contributions for this week:
+- Bitpanda under Exchanges
+- Included CicadaNFT under the NFTs section
+- Organised the DEXs section
+- Updated the URL for AdaPay
+
 ### Week ending January 21st
 Here are the recently added contributions for this week:
 - PyCardano, a standalone Cardano client written in Python under Builder Tools
