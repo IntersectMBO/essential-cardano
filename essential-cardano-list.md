@@ -245,6 +245,7 @@ Here is an outline of the categories:
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
 - [BlockchainGames](https://www.blockchaingames.company/)
+- [Cardania](https://cardania.com/)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
