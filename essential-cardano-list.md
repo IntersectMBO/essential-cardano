@@ -738,10 +738,15 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
 - [Fracada](https://github.com/dcSpark/fracada)
+<<<<<<< Updated upstream
 - [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
  
+=======
+
+>>>>>>> Stashed changes
 ### Builder Tools ###
 Tools to help you build on Cardano:
+- [CARDANO | CANIUSE](https://www.cardano-caniuse.io)
 - [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
 - [NFTada.io](https://nftada.io/)
 - [Block Frost](https://blockfrost.io/)
