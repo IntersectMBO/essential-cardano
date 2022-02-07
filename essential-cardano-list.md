@@ -350,6 +350,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 ## Wallets ##
 - [Daedalus](https://daedaluswallet.io/)
 - [Yoroi](https://yoroi-wallet.com/#/)
+- [Flint Wallet](https://flint-wallet.com)
 - [Trezor](https://trezor.io/)
 - [Infinito wallet](https://www.infinitowallet.io/)
 - [Ledger](https://www.ledger.com/)
