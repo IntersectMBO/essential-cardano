@@ -1178,6 +1178,7 @@ You can also explore stake pools using these tools:
 - [Adatools (pools)](https://adatools.io/pools)
 - [Cardanoscan (pools)](https://cardanoscan.io/pools)
 - [AdaStat (pools)](https://adastat.net/pools)
+- [CardaStat](https://cardastat.info)
 - [List of stake pools (unofficial)](https://forum.cardano.org/t/list-of-cardano-ada-staking-pools-unofficial/7595)
 
 ### 🎱 Stake Pool Alliances 🎱 ###
