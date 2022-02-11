@@ -1,5 +1,11 @@
 ## Essential Cardano weekly reports
 
+### Week ending February 11th
+Here are the recently added contributions for this week:
+- Added Flint Wallet in the wallets section
+- Included Cardano Caniouse under Builder Tools
+- Moved Cardania to Games
+
 ### Week ending February 4th
 Here are the recently added contributions for this week:
 - Added Multi-Asset Bulk Sender under Tools and Explorers
