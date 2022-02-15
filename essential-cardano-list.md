@@ -741,8 +741,8 @@ Here is our essential list of Cardano resources.
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
 - [Fracada](https://github.com/dcSpark/fracada)
-<<<<<<< Updated upstream
 - [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
+- [HAZELnet Community Integration](https://www.hazelnet.io)
  
 =======
 
