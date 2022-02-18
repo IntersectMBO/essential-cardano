@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending February 18th
+Here are the recently added contributions for this week:
+- Added Simple Hold in the wallets section
+- Included the community tool Hazelnet under Tools and Explorers
+
 ### Week ending February 11th
 Here are the recently added contributions for this week:
 - Added Flint Wallet in the wallets section
