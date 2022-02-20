@@ -817,6 +817,7 @@ Tools to help you build on Cardano:
 - [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
 - [ADAM - ADA Monitor App](https://play.google.com/store/apps/details?id=com.esodot.andro.monitor)
 - [SCEZ - Smart Contract Made Easy](https://smartcontractsez.com/)
+- [Frankenwallet - air gapped or sandboxed environment on USB drive](https://cosd.com/frankenwallet)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
