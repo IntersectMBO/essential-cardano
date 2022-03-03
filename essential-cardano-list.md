@@ -651,7 +651,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Cardol.io: Portfolio Tracker](https://cardano.ideascale.com/a/dtd/Cardol-io-Portfolio-Tracker/370255-48088)
 
 ## Starting a Stake Pool ##
-- [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
+- [Setting up Prometheus and Grafana Dashboard](https://sanskys.github.io/grafana/)
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ## Exploring Stake Pools ##
@@ -1162,7 +1162,7 @@ Tools to help you build on Cardano:
 ## 🥩 Stake Pools 🥩 ##
 
 ### Starting a Stake Pool ###
-- [Setting up Prometheus and Grafana Dashboard](https://sanskys.de/dashboard/)
+- [Setting up Prometheus and Grafana Dashboard](https://sanskys.github.io/grafana/)
 - [How to build a Raspberry-Pi Stake Pool](https://docs.armada-alliance.com/learn/)
 
 ### Improving the topology (waiting for P2P full implementation) ###
