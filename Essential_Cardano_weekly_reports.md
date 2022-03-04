@@ -1,5 +1,11 @@
 ## Essential Cardano weekly reports
 
+### Week ending March 4th
+Here are the recently added contributions for this week:
+- Added Frankenwallet under Tools to help you build on Cardano
+- Included HAZELnet in the Tools and Explorers section
+- refreshed some links with more recent versions
+
 ### Week ending February 18th
 Here are the recently added contributions for this week:
 - Added Simple Hold in the wallets section
