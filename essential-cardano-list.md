@@ -743,10 +743,7 @@ Here is our essential list of Cardano resources.
 - [Fracada](https://github.com/dcSpark/fracada)
 - [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
 - [HAZELnet Community Integration](https://www.hazelnet.io)
- 
-=======
 
->>>>>>> Stashed changes
 ### Builder Tools ###
 Tools to help you build on Cardano:
 - [CARDANO | CANIUSE](https://www.cardano-caniuse.io)
