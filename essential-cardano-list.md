@@ -215,7 +215,7 @@ Here is an outline of the categories:
 - [Cardahub](https://cardahub.io/home)
 
 ## Payments and Lending ##
-- [ADAlend](https://adalend.finance/)
+- [ADAlend](https://adalend.finance/) -*-
 - [AdaPay](https://adapay.finance/)
 - [Coti](https://coti.io)
 - [LiqwidX](https://www.liqwidx.org/)
