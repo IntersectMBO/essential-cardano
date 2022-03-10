@@ -193,6 +193,7 @@ Here is an outline of the categories:
 - [DOEX](https://www.doex.org/)
 - [ErgoDex](https://ergodex.io/)
 - [GADA](https://gada.finance/)
+- [GOADA](https://goada.net/)
 - [Maladex](https://maladex.com/) 
 - [Meowswap](https://meowswap.fi/)
 - [Minswap](https://minswap.org/)
