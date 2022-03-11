@@ -1026,7 +1026,7 @@ Tools to help you build on Cardano:
 - [Jason Matias](https://t.co/kpy380gJYs?amp=1)
 - [Olie Merza](https://t.co/vhcDeWdtue?amp=1)
 - [GlitchCreation](https://t.co/WfMz4M9Nr3?amp=1)
-- [Ponchos] https://t.co/cgKwseBGIl?amp=1)
+- [Ponchos](https://t.co/cgKwseBGIl?amp=1)
 - [H.Y.P.E](https://t.co/M8pTE8O0sr?amp=1)
 - [Retro NFTs](https://t.co/DOMbePgJ5B?amp=1)
 - [IOLY Catloaf](https://t.co/f4QWmvLegJ?amp=1)
