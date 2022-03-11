@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending March 11th
+Here are the recently added contributions for this week:
+- Thothus in the DEXs section
+- Beer house (a portfolio manager and tracker tool) under Community Resources 
+
 ### Week ending March 4th
 Here are the recently added contributions for this week:
 - Added Frankenwallet under Tools to help you build on Cardano
