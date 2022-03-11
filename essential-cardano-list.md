@@ -188,6 +188,7 @@ Here is an outline of the categories:
 - [AdaSwap](https://adaswap.app/)
 - [Astro Swap](https://www.astroswap.app/)
 - [Byron DEX](https://byron.network/)
+- [Cardashift](https://cardashift.com/)
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [DOEX](https://www.doex.org/)
@@ -204,8 +205,8 @@ Here is an outline of the categories:
 - [Ravendex](https://ravendex.io/)
 - [Ray Network](https://rraayy.com/)
 - [Sundaeswap](https://www.sundaeswap.finance/)
+- [Thothus](https://thothus.io)
 - [WingRiders](https://www.wingriders.com/)
-- [Cardashift](https://cardashift.com/)
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
