@@ -275,6 +275,7 @@ Here is an outline of the categories:
 
 ## Developer Ecosystem ##
 Here is an outline of the developer ecosystem and relevant resources to help you learn how to build on Cardano.
+- [Bakrypt.io | Asset makers](https://bakrypt.io/)
 
 ### Programming Languages ###
 
@@ -1158,6 +1159,7 @@ Tools to help you build on Cardano:
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
+- [Bakrypt.io | Asset makers](https://bakrypt.io/)
 
 ## 🥩 Stake Pools 🥩 ##
 
