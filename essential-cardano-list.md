@@ -207,6 +207,7 @@ Here is an outline of the categories:
 - [Sundaeswap](https://www.sundaeswap.finance/)
 - [Thothus](https://thothus.io)
 - [WingRiders](https://www.wingriders.com/)
+- [Bashoswap](https://bashoswap.finance/)
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
