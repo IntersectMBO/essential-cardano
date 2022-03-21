@@ -960,6 +960,7 @@ Tools to help you build on Cardano:
 - [Doodz](https://t.co/Taw37LmEA4?amp=1)
 - [Empowa](https://empowa.io/)
 - [End Drugs NFT](https://t.co/d8fsP4Icl1?amp=1)
+- [epoch.art - CNFT Marketplace](https://epoch.art/)
 - [Exnft.io](https://exnft.io/)
 - [Fahadouken NFT](https://t.co/NPZbyLZzZT?amp=1)
 - [Fernando Torelli](https://t.co/KmgK4B00yb?amp=1)
