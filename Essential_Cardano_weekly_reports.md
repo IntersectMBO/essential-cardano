@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending March 25th
+Here are the recently added contributions for this week:
+- Bakrypt (an API dedicated to Cardano native tokens) in the Developer Ecosystem section
+- epoch.art (a new CNFT marketplace)
+
 ### Week ending March 18th
 Here are the recently added contributions for this week:
 - GOADA in the DEX section
