@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending March 18th
+Here are the recently added contributions for this week:
+- GOADA in the DEX section
+- Bashoswap Finance, a multi protocol DEX 
+
 ### Week ending March 11th
 Here are the recently added contributions for this week:
 - Thothus in the DEXs section
