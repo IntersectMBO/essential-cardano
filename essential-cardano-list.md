@@ -289,10 +289,6 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Rust](https://www.rust-lang.org/)
 - [Awesome Cardano Rust](https://github.com/2nd-Layer/awesome-cardano-rust/blob/main/readme.md)
 
-#### Golang ####
-- [Golang](https://go.dev/)
-- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang)
-
 ##### Cardano Rust Ecosystem #####
 - [Byron Rust implementation](https://github.com/input-output-hk/rust-cardano)
 - [Byron Cardano CLI Rust implementation](https://github.com/input-output-hk/cardano-cli)
@@ -302,9 +298,14 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Pallas - Rust-native building blocks for the Cardano blockchain ecosystem](https://github.com/txpipe/pallas)
 - [Oura - pipeline that connects to the tip of a Cardano node](https://github.com/txpipe/oura)
 
-#### Go ####
+#### Golang ####
 - [Go](https://go.dev/)
 - [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang/blob/main/readme.md)
+
+##### Cardano Golang Ecosystem #####
+- [Cardano Serialization Library in Golang](https://github.com/fivebinaries/go-cardano-serialization)
+- [Cardano Ouroboros Networking library in Golang](https://github.com/cloudstruct/go-ouroboros-network)
+- [Plutus Application Backend in Golang](https://github.com/minswap/pab-go)
 
 #### Marlowe ####
 - [Marlowe explainer](https://docs.cardano.org/en/latest/marlowe/marlowe-explainer.html)
