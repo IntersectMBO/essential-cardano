@@ -804,6 +804,7 @@ Tools to help you build on Cardano:
 - [Hitchhiker's Guides](https://www.publish0x.com/raxp122/the-hitchhiker-s-guide-to-cardano-ada-xlyjgyl)
 - [Voting by Dust](https://vote.crypto2099.io/)
 - [Python LeaderLog and getSigma scripts]()
+- [Cardano Feed](https://cardanofeed.com/)
 - [Cardano scripts](https://github.com/NASEC-Alex/cardano)
 - [Cardano cards](https://github.com/coconutpool/learn_cardano)
 - [Cardano Waves](https://cardanowaves.com)
@@ -821,6 +822,7 @@ Tools to help you build on Cardano:
 - [SCEZ - Smart Contract Made Easy](https://smartcontractsez.com/)
 - [Frankenwallet - air gapped or sandboxed environment on USB drive](https://cosd.com/frankenwallet)
 - [BeerHouse](https://beerhouse.io)
+- [Cardano Ecosystem](https://ecosystem.cardanofeed.com/)
 - [Cardano Deep Dive in plain English, Swahili, & Spanish](https://www.lidonation.com/insights)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
