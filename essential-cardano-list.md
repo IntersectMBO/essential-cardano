@@ -883,6 +883,7 @@ Tools to help you build on Cardano:
 - [Avocardano](https://t.co/J1c9O56JzQ?amp=1)
 - [aw0k3n algorithms](https://aw0k3n.io/)
 - [Backwards Geometry](https://backwardsgeometry.com/)
+- [Bakrypt.io | Asset makers](https://bakrypt.io/)
 - [Beyond Rockets](https://t.co/CLqNN7NjNc?amp=1)
 - [BitBunny](www.instagram.com/bitbunnyio/)
 - [Blizzeffect](https://t.co/0RgQMFU77m?amp=1)
@@ -997,6 +998,7 @@ Tools to help you build on Cardano:
 - [MusicBox](https://www.musicboxnft.com/)
 - [Neverengine](https://drops.neverengine.net)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
+- [ONIVERSE](https://oniversegame.com/
 - [PoolPerks](https://poolperks.io)
 - [Project Kifaru](www.projectkifaru.com)
 - [Rose CNFT](https://twitter.com/CnftRose)
@@ -1166,7 +1168,6 @@ Tools to help you build on Cardano:
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
-- [Bakrypt.io | Asset makers](https://bakrypt.io/)
 
 ## 🥩 Stake Pools 🥩 ##
 
