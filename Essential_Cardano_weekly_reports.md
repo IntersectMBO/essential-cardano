@@ -1,5 +1,12 @@
 ## Essential Cardano weekly reports
 
+### Week ending April 1st
+Here are the recently added contributions for this week:
+- Added a Cardano Golang Ecosystem section
+- Cardano Sounds, Cardano Feed, and Cardano Ecosystem under the Tools section
+- Cardano Deep Dive educational explainers in plain English, Swahili, & Spanish
+- Oniverse under NFTs
+
 ### Week ending March 25th
 Here are the recently added contributions for this week:
 - Bakrypt (an API dedicated to Cardano native tokens) in the Developer Ecosystem section
