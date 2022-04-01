@@ -998,7 +998,7 @@ Tools to help you build on Cardano:
 - [MusicBox](https://www.musicboxnft.com/)
 - [Neverengine](https://drops.neverengine.net)
 - [NFT-Craze Gallery](https://www.nft-craze.art/nft-craze-gallery-app)
-- [ONIVERSE](https://oniversegame.com/
+- [ONIVERSE](https://oniversegame.com/)
 - [PoolPerks](https://poolperks.io)
 - [Project Kifaru](www.projectkifaru.com)
 - [Rose CNFT](https://twitter.com/CnftRose)
