@@ -821,6 +821,7 @@ Tools to help you build on Cardano:
 - [SCEZ - Smart Contract Made Easy](https://smartcontractsez.com/)
 - [Frankenwallet - air gapped or sandboxed environment on USB drive](https://cosd.com/frankenwallet)
 - [BeerHouse](https://beerhouse.io)
+- [Cardano Deep Dive in plain English, Swahili, & Spanish](https://www.lidonation.com/insights)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
