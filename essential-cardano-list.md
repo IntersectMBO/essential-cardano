@@ -300,9 +300,9 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 
 #### Golang ####
 - [Go](https://go.dev/)
-- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang/blob/main/readme.md)
 
-##### Cardano Golang Ecosystem #####
+#### Cardano Golang Ecosystem ####
+- [Awesome Cardano Golang](https://github.com/2nd-Layer/awesome-cardano-golang/blob/main/readme.md)
 - [Cardano Serialization Library in Golang](https://github.com/fivebinaries/go-cardano-serialization)
 - [Cardano Ouroboros Networking library in Golang](https://github.com/cloudstruct/go-ouroboros-network)
 - [Plutus Application Backend in Golang](https://github.com/minswap/pab-go)
