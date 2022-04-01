@@ -922,6 +922,7 @@ Tools to help you build on Cardano:
 - [Cardano Puzzle](https://t.co/mAntMDjZ93?amp=1)
 - [Cardano Robin Stamps Inc.](https://t.co/HaXJArmrBk?amp=1)
 - [Cardano Robots](https://adarobots.com/)
+- [Cardano Sounds](https://cardanosounds.com/)
 - [Cardano Space](cardanospace.com)
 - [Cardano Trees](https://t.co/OSSrhWtTIe?amp=1)
 - [Cardano Tunes]
