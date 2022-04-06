@@ -216,6 +216,7 @@ Here is an outline of the categories:
 - [Atomic Swap](https://atomic-swap.io/)
 - [Trading Tent](https://www.tradingtent.io/)
 - [Cardahub](https://cardahub.io/home)
+- [CNFTSwap](https://cnftswap.me/)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
