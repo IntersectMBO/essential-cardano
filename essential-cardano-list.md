@@ -18,7 +18,8 @@ Here is an outline of the categories:
 - [Identity Eco Systems](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#identity-eco-systems)
 - [Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#exchanges)
 - [Decentralized Exchanges](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#decentralized-exchanges-dexs)
-- [Payments](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments)
+- [DAPPs](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#decentralized-applications-dapps)
+- [Payments and Lending](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#payments-and-lending)
 - [Incubators and Funding](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#incubators-and-funding)
 - [Games and Entertainment](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#games-and-entertainment)
 - [Miscellaneous](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#miscellaneous)
@@ -211,12 +212,12 @@ Here is an outline of the categories:
 
 ## Decentralized Applications (DAPPs) ##
 - [Ada Blobs](https://adablobs.io/)
-- [DripDropz](https://dripdropz.io/)
-- [Martify](https://martify.io/)
 - [Atomic Swap](https://atomic-swap.io/)
-- [Trading Tent](https://www.tradingtent.io/)
 - [Cardahub](https://cardahub.io/home)
 - [CNFTSwap](https://cnftswap.me/)
+- [DripDropz](https://dripdropz.io/)
+- [Martify](https://martify.io/)
+- [Trading Tent](https://www.tradingtent.io/)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
