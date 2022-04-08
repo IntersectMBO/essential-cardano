@@ -1,5 +1,10 @@
 ## Essential Cardano weekly reports
 
+### Week ending April 8th
+Here are the recently added contributions for this week:
+- CNFTSwap under DAPPs
+- Oniverse in the Games and Entertainment section
+
 ### Week ending April 1st
 Here are the recently added contributions for this week:
 - Added a Cardano Golang Ecosystem section
