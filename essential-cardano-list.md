@@ -261,6 +261,7 @@ Here is an outline of the categories:
 - [Drunken Dragon: Inns & Quests](https://www.drunkendragon.games/)
 - [DUO: The NFT Card Game](https://www.getduo.gg)
 - [FiveFamilies](https://fivefamilies.net)
+- [ONIVERSE](https://oniversegame.com/)
 - [HorrorCubes](https://horrocubes.io/)
 - [MADAX](https://www.info.141x.io/)
 - [Ridotto](https://ridotto.io)
