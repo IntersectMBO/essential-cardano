@@ -1,5 +1,155 @@
 ## Essential Cardano weekly reports
 
+### Week ending April 8th
+Here are the recently added contributions for this week:
+- CNFTSwap under DAPPs
+- Oniverse in the Games and Entertainment section
+
+### Week ending April 1st
+Here are the recently added contributions for this week:
+- Added a Cardano Golang Ecosystem section
+- Cardano Sounds, Cardano Feed, and Cardano Ecosystem under the Tools section
+- Cardano Deep Dive educational explainers in plain English, Swahili, & Spanish
+- Oniverse under NFTs
+
+### Week ending March 25th
+Here are the recently added contributions for this week:
+- Bakrypt (an API dedicated to Cardano native tokens) in the Developer Ecosystem section
+- epoch.art (a new CNFT marketplace)
+
+### Week ending March 18th
+Here are the recently added contributions for this week:
+- GOADA in the DEX section
+- Bashoswap Finance, a multi protocol DEX 
+
+### Week ending March 11th
+Here are the recently added contributions for this week:
+- Thothus in the DEXs section
+- Beer house (a portfolio manager and tracker tool) under Community Resources 
+
+### Week ending March 4th
+Here are the recently added contributions for this week:
+- Added Frankenwallet under Tools to help you build on Cardano
+- Included HAZELnet in the Tools and Explorers section
+- refreshed some links with more recent versions
+
+### Week ending February 18th
+Here are the recently added contributions for this week:
+- Added Simple Hold in the wallets section
+- Included the community tool Hazelnet under Tools and Explorers
+
+### Week ending February 11th
+Here are the recently added contributions for this week:
+- Added Flint Wallet in the wallets section
+- Included Cardano Caniouse under Builder Tools
+- Moved Cardania to Games
+
+### Week ending February 4th
+Here are the recently added contributions for this week:
+- Added Multi-Asset Bulk Sender under Tools and Explorers
+- Included Havoc Worlds and AdaMeds under the NFTs section
+- Added BlockchainGames, CicadaNFT, and MADAX under Games and Entertainment
+- New Awesome Cardano Golang under Programming Languages
+- SCEZ - Smart Contract Made Easy project for developers under Tools
+- Atomic Swap in the DAPPs section
+- Updated some project names and reorganised some sections
+
+### Week ending January 28th
+Here are the recently added contributions for this week:
+- Bitpanda under Exchanges
+- Included CicadaNFT under the NFTs section
+- Organised the DEXs section
+- Updated the URL for AdaPay
+
+### Week ending January 21st
+Here are the recently added contributions for this week:
+- PyCardano, a standalone Cardano client written in Python under Builder Tools
+- a new script for SPOs to use to build their static toplogy file (RTTMapper.sh)
+- Included Cardashift under DEXs and Incubators and Funding
+- Added Catalyst Swarm and Catalyst School in the Catalyst section
+- Catalyst Swarm and Catalyst School YouTube channels under Community Videos 
+
+### Week ending January 14th
+Here are the recently added contributions for this week:
+- MusicBox CNFT under Tools to build on Cardano
+- Moneyflow Organization under Startups
+- ALLIN under Games and Entertainment
+- WyldLookz under NFTs
+- moved Cardahub to the DAPPs section
+
+### Week ending January 7th
+Here are the recently added contributions for this week:
+- A new DAPPs section that includes Ada Blobs, DripDropz, Martify, and Trading Tent.
+- Awesome Cardano Rust (a specific, Rust developer-focused list) under the Rust section
+- ADAX under DeFi and Capital Markets
+- Astro Swap and DOEX under DEXs
+- Cardahub in the NFTs section
+
+### Week ending December 17th
+This week, we approved the following contributions:
+- Iagon under Strategic Partners and Collaborators
+- Cardano Robots and adaex (a lightweight Cardano explorer) under Tools
+- CardanoPad under the Incubators and Funding section
+- Pallas and Oura in the Rust ecosystem section
+
+### Week ending December 10th
+This week, we approved the following contributions:
+-  Ada Finance, Anetabtc, KubeCoin, Optim Finance, VyFinance, Kick.io, Genius Yield, Astarter, and Defire in the DeFi and Captial Markets section
+-  Blockademia under the Identity Eco Systems section
+-  Meowswap under the DEX section
+-  LiqwidX and Paribus in the Payments and Lending section
+-  Flickto and Cardence under the Incubators and Funding section
+
+### Week ending December 3rd
+This week, we approved the following contributions:
+-  Cardano Warriors in the Games and Entertainment section
+-  Empowa, CryptoPeeps, ADATAR, and NFTJam Marketplace in the NFTs section in the NFTs section
+-  Fracada under the Resources section
+-  New Rust and Cardano Rust Ecosystem sections
+-  CBTC Bridge in the DeFi and Capital Markets section
+-  The ADAlator in the Plutus Pioneers section
+-  Hachi under a new Security Research & Tooling section
+-  ALDEA under Stake Pool Alliances
+
+### Week ending November 26th
+This week, we approved the following contributions:
+-  Milkomeda in a new Sidechains section
+-  aw0k3n algorithms in the NFTs section
+-  Typhon Wallet and ccvault in the Plutus Pioneers section
+
+### Week ending November 19th
+This week, we approved the following contributions:
+- Genesis Auction House in the Tools and Explorers section
+- Five Families in the NFTs section
+- Rebranding of MuesliSwap to AdaMuesliSwap under Decentralized Exchanges 
+- Random French pool's gift card generator in a new Miscellaneous section
+
+### Week ending November 12th
+This week, we approved the following contributions:
+- JPG Store and ADAM - ADA Monitor App in the Tools section
+- Cardano Kitchen and CardanoCity in the NFTs section
+- Ravendex and AdaSwap under Decentralized Exchanges 
+- Aada Finance in the DeFi and Capital Markets section
+- Smart Chain and Smart Node under Strategic Partners and Collaborators
+- A new section for Identity Eco Systems which includes Atala Prism and IAMX
+- Crypto and Cardano Market Projection tool under Ada calculators
+- Canadian Cardano Stakepool Association, Climate Neutral Blockchain Group, xSPO Alliance, and Cardano Renewable Energy Stake Pool Alliance under stake pool alliances
+
+### Week ending November 5th
+This week, we approved the following contributions:
+- Adanize (Utility box for Cardano investors) and the Cardano Jobs board in the Tools section
+- Tili Gallery and Burgermania in the NFTs section
+- Polyswap, CardStarter, and Ray Network under Decentralized Exchanges 
+- DinoDapp and HorrorCubes in the Games section
+- Link to minting NFTs explainer under Resources
+
+### Week ending October 29th
+This week, we approved the following contributions:
+- Tokenomia in the Builder Tools section
+- The Burrow NFT and Fractalz Rare Crystals in the NFTs section
+- MuesliSwap under the Decentralized Exchanges section
+- TADATek in the Tools section
+
 ### Week ending October 22nd
 This week, we approved the following contributions:
 - Pergamon App, Pool Peek, and Fluidy3 Art in the Tools and Explorers section
