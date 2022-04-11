@@ -504,6 +504,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Grow Africa, Grow Cardano](https://cardano.ideascale.com/a/dtd/333079-48088)
 - [Scale-UP Cardano's DeFi Ecosystem](https://cardano.ideascale.com/a/dtd/333399-48088)
 - [Address Gap in SPO Education/Comms](https://cardano.ideascale.com/a/dtd/323251-48088)
+- [TADATek Insights - A community for Vietnamese](https://cardano.ideascale.com/c/idea/403484)
 - [Ada Tx to Trigger IoT + IO HW Spins]
 - [Decentralized Accounting <- IFRS]
 - [Food traceability solution - Africa]
@@ -821,6 +822,7 @@ Tools to help you build on Cardano:
 - [CNFT Hub](https://cnfthub.io/)
 - [Cardano Cube](https://cardanocube.io/)
 - [Cardano Rust CLI](https://github.com/crc-cardano-stakepool/cardano)
+- [TADATek Insights - A community for Vietnamese](https://blog.tadatek.com)
 - [ADAM - ADA Monitor App](https://play.google.com/store/apps/details?id=com.esodot.andro.monitor)
 - [SCEZ - Smart Contract Made Easy](https://smartcontractsez.com/)
 - [Frankenwallet - air gapped or sandboxed environment on USB drive](https://cosd.com/frankenwallet)
