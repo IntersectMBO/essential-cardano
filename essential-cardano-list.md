@@ -363,6 +363,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Byron Wallet](https://byron.network/)
 - [CardWallet](https://cardwallet.fi/)
 - [ccvault.io](https://ccvault.io/)
+- [Coin Wallet](https://coin.space/)
 - [Crypto Storage AG](https://www.cryptofinance.ch/en/storage/)
 - [Daedalus](https://daedaluswallet.io/)
 - [Ellipal](https://www.ellipal.com/)
