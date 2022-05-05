@@ -1174,6 +1174,7 @@ Tools to help you build on Cardano:
 - [The Burrow NFT](https://www.theburrownft.art/)
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
+- [Cardalonia](https://cardalonia.io)
 
 ## 🥩 Stake Pools 🥩 ##
 
