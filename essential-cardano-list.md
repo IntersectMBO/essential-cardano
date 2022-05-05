@@ -342,6 +342,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Glow official docs](https://glow-lang.org/docs/)
 - [Glow tutorial](https://testnets.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
+#### Imperator ####
+- [ImperatorLang official repository](https://github.com/ImperatorLang/imperator)
+
 ### Developer Resources ###
 - [Cardano testnet](https://testnets.cardano.org/en/testnets/cardano/overview/)
 - [IELE](https://runtimeverification.com/the-iele-virtual-machine/)
