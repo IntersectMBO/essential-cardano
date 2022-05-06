@@ -1,4 +1,7 @@
 # essential-cardano
+
+**We have now launched the beta version of our new [Essential Cardano website](https://www.essentialcardano.io/). Please make your contributions over there and help us build out this new community resource.**
+
 Welcome to the [Essential Cardano list](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#the-essential-cardano-list), a central source for all things Cardano-related. This is a community-sourced catalogue outlining all the organizations, partners, and projects that are part of the Cardano ecosystem, as well as a comprehensive collection of resources to help you learn more about Cardano. 
 
 *Inclusion in this list does not constitute an _endorsement_, please be cautious and do your own research.*
