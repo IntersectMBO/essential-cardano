@@ -264,6 +264,7 @@ Here is an outline of the categories:
 - [HorrorCubes](https://horrocubes.io/)
 - [MADAX](https://www.info.141x.io/)
 - [Ridotto](https://ridotto.io)
+- [The Open Source Cardano Lottery](https://github.com/lley154/cardano-lottery)
 - [World of Pirates](https://worldofpirates.io)
 
 ### Miscellaneous ###
