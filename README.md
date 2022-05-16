@@ -1,3 +1,4 @@
+# The Essential Cardano List:
 # essential-cardano
 
 **We have now launched the beta version of our new [Essential Cardano website](https://www.essentialcardano.io/). Please make your contributions over there and help us build out this new community resource.**
@@ -20,6 +21,3 @@ Inclusion in the Essential Cardano list *does not constitute offical endorsement
 
 
    ‘*One list to rule them all...*’
-
-![wizard](saruman.PNG)
-- (image credit: P. Ahern)
