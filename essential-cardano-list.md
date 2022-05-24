@@ -91,7 +91,7 @@ Here is an outline of the categories:
 - [Indigo](https://indigoprotocol.io/)
 - [Konfidio](https://konfidio.com/)
 - [LunaTech](https://lunatech.com/)
-- [Metalamp](https://en.metalamp.io/)
+- [Metalamp](https://www.metalamp.io/)
 - [Mlabs](https://mlabs.city/)
 - [Mukn](https://mukn.io/)
 - [Ncube](https://ncube.com/)
