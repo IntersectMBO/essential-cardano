@@ -242,7 +242,6 @@ Here is an outline of the categories:
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - Treasury Wave
 - [Y2X](https://y2x.io/)  
-- [Flickto.io](https://www.flickto.io/)
 
 ### Games and Entertainment ###
 - [ALLIN](https://betallin.io)
