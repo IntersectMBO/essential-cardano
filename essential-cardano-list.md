@@ -242,6 +242,7 @@ Here is an outline of the categories:
 - [Flickto.io](https://www.flickto.io/)
 - [Cardence](https://cardence.io/)
 - [Cardashift](https://cardashift.com/)
+- [Defipronto](https://defipronto.com/)
 
 ### Games and Entertainment ###
 - [ALLIN](https://betallin.io)
@@ -352,6 +353,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Atlas Adrestia
 - [EVM](https://testnets.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://testnets.cardano.org/en/virtual-machines/kevm/overview/)
+- [Cardano Explorer testnet.cexplorer.io](https://testnet.cexplorer.io/)
 
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
@@ -675,6 +677,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 
 You can also explore stake pools using these tools:
 - [Cexplorer.io](https://cexplorer.io/)
+- [cexplorer.io](https://cexplorer.io/) ([testnet](https://testnet.cexplorer.io/))
 - [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
@@ -736,6 +739,8 @@ Here is our essential list of Cardano resources.
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 - [Cardano Delegation Manual](https://adrem1.gitbook.io/deleg-manual/) (Publicly versionable gitbook)
+- [Cardano Wiki](https://cexplorer.io/wiki) (community updated FAQ)
+
 
 ### 📚 Glossaries and General Information 📚 ###
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
@@ -758,6 +763,7 @@ Here is our essential list of Cardano resources.
 - [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
 - [HAZELnet Community Integration](https://www.hazelnet.io)
 - [RoundTable - multi-signature wallet](https://roundtable.theadao.io)
+- [Cardano explorer](https://cexplorer.io/)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -1182,6 +1188,7 @@ Tools to help you build on Cardano:
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
 - [Cardalonia](https://cardalonia.io)
+- [NFT Sailing (NFT Calendar)](https://nftsailing.net)
 
 ## 🥩 Stake Pools 🥩 ##
 
@@ -1203,6 +1210,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 You can also explore stake pools using these tools:
 - [cexplorer.io](https://cexplorer.io/)
 - [ADApools.org](https://adapools.org/)
+- [Cexplorer.io](https://cexplorer.io) ([testnet](https://testnet.cexplorer.io))
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
 - [POOLSTATS](https://poolstats.org/#)
