@@ -1187,6 +1187,7 @@ Tools to help you build on Cardano:
 - [64-BLOCKS](https://buy.blockchainart.works/)
 - [NFTJam.io Marketplace](https://nftjam.io)
 - [Cardalonia](https://cardalonia.io)
+- [NFT Sailing (NFT Calendar)](https://nftsailing.net)
 
 ## 🥩 Stake Pools 🥩 ##
 
