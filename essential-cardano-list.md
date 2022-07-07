@@ -242,6 +242,7 @@ Here is an outline of the categories:
 - [Flickto.io](https://www.flickto.io/)
 - [Cardence](https://cardence.io/)
 - [Cardashift](https://cardashift.com/)
+- [Defipronto](https://defipronto.com/)
 
 ### Games and Entertainment ###
 - [ALLIN](https://betallin.io)
