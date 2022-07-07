@@ -233,16 +233,16 @@ Here is an outline of the categories:
 ### Incubators and Funding ###
 - [C-fund](https://cfund.vc/)
 - [CardanoPad](https://cardanopad.net/)
+- [Cardence](https://cardence.io/)
+- [Cardashift](https://cardashift.com/)
 - DC-fund
+- [Defipronto](https://defipronto.com/)
 - [Dlab](https://dlab.vc/)
 - [Flickto](https://www.flickto.io/)
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
 - Treasury Wave
 - [Y2X](https://y2x.io/)  
 - [Flickto.io](https://www.flickto.io/)
-- [Cardence](https://cardence.io/)
-- [Cardashift](https://cardashift.com/)
-- [Defipronto](https://defipronto.com/)
 
 ### Games and Entertainment ###
 - [ALLIN](https://betallin.io)
