@@ -353,6 +353,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Atlas Adrestia
 - [EVM](https://testnets.cardano.org/en/virtual-machines/evm/overview/)
 - [KEVM](https://testnets.cardano.org/en/virtual-machines/kevm/overview/)
+- [Cardano Explorer testnet.cexplorer.io](https://testnet.cexplorer.io/)
 
 ### Native Tokens ###
 - [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
@@ -675,6 +676,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 - [Single Pool Alliance](https://singlepoolalliance.net) - [URL](https://smash.panl.org)
 
 You can also explore stake pools using these tools:
+- [cexplorer.io](https://cexplorer.io/) ([testnet](https://testnet.cexplorer.io/))
 - [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
@@ -736,6 +738,8 @@ Here is our essential list of Cardano resources.
 - [Beginner's guide to Cardano](https://www.kraken.com/learn/what-is-cardano-ada) (Kraken)
 - [What is Cardano?](https://www.coinbase.com/it/learn/crypto-basics/what-is-cardano) (Coinbase)
 - [Cardano Delegation Manual](https://adrem1.gitbook.io/deleg-manual/) (Publicly versionable gitbook)
+- [Cardano Wiki](https://cexplorer.io/wiki) (community updated FAQ)
+
 
 ### 📚 Glossaries and General Information 📚 ###
 - [Blockchain glossary](https://emurgoio-data.s3-us-west-1.amazonaws.com/company/blockchain-glossary.pdf)
@@ -758,6 +762,7 @@ Here is our essential list of Cardano resources.
 - [Multi-Asset Bulk Sender](https://staking.rocks/bulk-ada-sender)
 - [HAZELnet Community Integration](https://www.hazelnet.io)
 - [RoundTable - multi-signature wallet](https://roundtable.theadao.io)
+- [Cardano explorer](https://cexplorer.io/)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
@@ -1202,6 +1207,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 
 You can also explore stake pools using these tools:
 - [ADApools.org](https://adapools.org/)
+- [Cexplorer.io](https://cexplorer.io) ([testnet](https://testnet.cexplorer.io))
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
 - [POOLSTATS](https://poolstats.org/#)
