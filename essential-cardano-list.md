@@ -674,6 +674,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 - [Single Pool Alliance](https://singlepoolalliance.net) - [URL](https://smash.panl.org)
 
 You can also explore stake pools using these tools:
+- [Cexplorer.io](https://cexplorer.io/)
 - [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
@@ -1200,6 +1201,7 @@ Within the Daedalus settings you can set a custom SMASH server to browse member 
 - [Single Pool Alliance](https://singlepoolalliance.net) - [URL](https://smash.panl.org)
 
 You can also explore stake pools using these tools:
+- [cexplorer.io](https://cexplorer.io/)
 - [ADApools.org](https://adapools.org/)
 - [Cardano PoolTool](https://pooltool.io/)
 - [ADAtainment](https://www.adatainment.com/index.php?page=home&lang=en)
