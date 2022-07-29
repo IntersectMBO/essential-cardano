@@ -324,6 +324,7 @@ Here is an outline of the developer ecosystem and relevant resources to help you
 - [Plutus community documentation](http://docs.plutus-community.com/)
 - [Plutus ebook](https://www.amazon.co.uk/Plutus-Writing-reliable-smart-contracts-ebook/dp/B07V46LWTW) (for background reading only, the development environment has changed. Version 2 will be out soon)
 - [Plutus Udemy course (v. 1)](https://www.udemy.com/course/plutus-reliable-smart-contracts/) (for background reading only, the development environment has changed. Version 2 will be out soon)
+- [Gimbalabs Plutus Project-Based-Learning - PBL (v. 2)](https://gimbalabs.instructure.com/enroll/3CFNFB)
 
 ##### ⚔️ Plutus Pioneers ⚔️ #####
 These materials have been produced by the Plutus Pioneer course participants:
@@ -442,12 +443,14 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [University of Mauritius](https://www.uom.ac.mu/)
 - [European Business University of Luxembourg (EBU)](https://ebu.lu/)
 - [Gemini Cryptopedia](https://www.gemini.com/cryptopedia)
+- [Gimbalabs](https://gimbalabs.com/gimbalgrid)
 
 ## Infrastructure & Security ##
 
 ### Infrastructure Providers ###
 
 - [Blockfrost.io](https://blockfrost.io)
+- [Dandelion](https://gimbalabs.com/gimbalgrid/9)
 
 ### Audits ###
 - [Quantstamp](https://quantstamp.com/)
@@ -772,7 +775,7 @@ Tools to help you build on Cardano:
 - [Block Frost](https://blockfrost.io/)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
 - [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
-- [Dandelion APIs](https://gimbalabs.com/dandelionapis)
+- [Dandelion](https://gimbalabs.com/gimbalgrid/9)
 - [Ogmios](https://ogmios.dev/)
 - [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
 - [Cardano Assets](https://cardanoassets.com)
