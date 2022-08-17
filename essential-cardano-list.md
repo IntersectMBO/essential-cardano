@@ -473,6 +473,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Milkomeda](http://milkomeda.com)
 
 ### Abuse Detection & Prevention ###
+- [haltscam](https://haltscam.com/)
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
 
 ## Project Catalyst Startups ##
