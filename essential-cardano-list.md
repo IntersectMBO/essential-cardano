@@ -229,6 +229,7 @@ Here is an outline of the categories:
 - [Simplex](https://www.simplex.com/)
 - [Sirin Labs](https://sirinlabs.com/)
 - [WooCommerce](https://woocommerce.com/)
+- [NMKR Pay](https://www.nmkr.io/pay)
 
 ### Incubators and Funding ###
 - [C-fund](https://cfund.vc/)
@@ -264,6 +265,7 @@ Here is an outline of the categories:
 - [Ridotto](https://ridotto.io)
 - [The Open Source Cardano Lottery](https://github.com/lley154/cardano-lottery)
 - [World of Pirates](https://worldofpirates.io)
+- [NMKR Games](https://www.nmkr.io/games)
 
 ### Miscellaneous ###
 - [BlockchainArt.Works | 6M-BLOCKS](https://blockchainart.works/6m-blocks/)
@@ -450,6 +452,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 
 - [Blockfrost.io](https://blockfrost.io)
 - [Dandelion](https://gimbalabs.com/gimbalgrid/9)
+- [NMKR Studio](https://www.nmkr.io/studio)
 
 ### Audits ###
 - [Quantstamp](https://quantstamp.com/)
@@ -757,7 +760,6 @@ Here is our essential list of Cardano resources.
 - [Native Tokens on Mainnet Dashboard](https://nativetokens.da.iogservices.io/)
 - [NFT Marketplace](https://xhibit.io/)
 - [Karbon](https://www.karbon.studio/)
-- [NFT-MAKER.IO](https://nft-maker.io/)
 - [Cardano Alerts](https://cardanoalerts.com)
 - [NFT-MACHINE](https://nft-machine.com)
 - [Pool Peek](https://poolpeek.com/#/)
@@ -784,6 +786,7 @@ Tools to help you build on Cardano:
 - [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
 - [Cardano Client Library in Python](https://github.com/cffls/pycardano)
 - [Cardano Jobs](https://cardanojobs.io)
+- [NMKR Studio](https://www.nmkr.io/studio)
 
 ### Our Essential Community Top Five ###
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
@@ -1141,7 +1144,7 @@ Tools to help you build on Cardano:
 - [Vanity Trophies](https://t.co/p3ZTdjU9Xm?amp=1)
 - [BitPunk!](https://t.co/VjtnyiqNZW?amp=1)
 - [NFTUpdate](https://www.nftupdate.io/feed)
-- [NFT-MAKER](nftmaker.io)
+- [NMKR](https://nmkr.io)
 - [Cardano Native Token](https://cardano-native-token.com)
 - [Tokhun](https://tokhun.io)
 - [NFT-Dao](https://www.nftsdao.com)
