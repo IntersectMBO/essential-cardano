@@ -243,6 +243,8 @@ Here is an outline of the categories:
 - [Y2X](https://y2x.io/)  
 
 ### Games and Entertainment ###
+- [BITKE - FPS GAME](https://playbitke.com)
+- [Cardenia City](https://cardenia.city/)
 - [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
 - [BingoToken](https://bingochain.io)
@@ -913,7 +915,6 @@ Tools to help you build on Cardano:
 - [Boss Lenda](https://t.co/OEGlh8Y61Y?amp=1)
 - [Bunny G]
 - [Burgermania](https://burgermanstudio.com/)
-- [Cardenia City](https://cardenia.city/)
 - [Caja de Agua](https://linktr.ee/cajadeagua)
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
