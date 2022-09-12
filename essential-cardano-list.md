@@ -193,7 +193,7 @@ Here is an outline of the categories:
 - [Cardax](https://cardax.io/)
 - [CardStarter](https://www.cardstarter.io/)
 - [DOEX](https://www.doex.org/)
-- [ErgoDex](https://ergodex.io/)
+- [Spectrum](https://spectrum.fi/)
 - [GADA](https://gada.finance/)
 - [Maladex](https://maladex.com/) 
 - [Meowswap](https://meowswap.fi/)
