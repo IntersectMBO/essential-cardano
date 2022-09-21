@@ -771,23 +771,23 @@ Here is our essential list of Cardano resources.
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
-- [CARDANO | CANIUSE](https://www.cardano-caniuse.io)
-- [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
-- [NFTada.io](https://nftada.io/)
 - [Block Frost](https://blockfrost.io/)
+- [Cardano Assets](https://cardanoassets.com)
+- [CARDANO | CANIUSE](https://www.cardano-caniuse.io)
 - [cardanocli-js library](https://github.com/Berry-Pool/cardanocli-js)
+- [Cardano Client Library in Python](https://github.com/cffls/pycardano)
+- [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
+- [Cardano Jobs](https://cardanojobs.io)
+- [Cardano Token Tool](https://tokentool.io/)
 - [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
 - [Dandelion](https://gimbalabs.com/gimbalgrid/9)
-- [Ogmios](https://ogmios.dev/)
 - [Koios](https://koios.rest/)
-- [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
-- [Cardano Assets](https://cardanoassets.com)
-- [Cardano Token Tool](https://tokentool.io/)
-- [Cardano Client Lib Java Library](https://github.com/bloxbean/cardano-client-lib)
+- [Ogmios](https://ogmios.dev/)
+- [NFTada.io](https://nftada.io/)
 - [.NET Cryptographic and Serialization Library](https://github.com/CardanoSharp/cardanosharp-wallet)
-- [Cardano Client Library in Python](https://github.com/cffls/pycardano)
-- [Cardano Jobs](https://cardanojobs.io)
 - [NMKR Studio](https://www.nmkr.io/studio)
+- [Tokenomia](https://github.com/smart-chain-fr/tokenomia)
+- [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
 
 ### Our Essential Community Top Five ###
 - [New to Cardano guide](https://static.adapools.org/docs/newbie-ultimate-guide.pdf)
