@@ -245,12 +245,14 @@ Here is an outline of the categories:
 ### Games and Entertainment ###
 - [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
+- [BITKE - FPS GAME](https://playbitke.com)
 - [BingoToken](https://bingochain.io)
 - [BlockchainGames](https://www.blockchaingames.company/)
 - [Cardania](https://cardania.com/)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
+- [Cardenia City](https://cardenia.city/)
 - [Carnivilla](https://carnivilla.com/)
 - [Cicada Tactics: Multiplayer Tactical RPG](https://cicadatactics.com)
 - [CryptoBisons](https://twitter.com/CryptoBisons)
@@ -915,7 +917,6 @@ Tools to help you build on Cardano:
 - [Boss Lenda](https://t.co/OEGlh8Y61Y?amp=1)
 - [Bunny G]
 - [Burgermania](https://burgermanstudio.com/)
-- [Cardenia City](https://cardenia.city/)
 - [Caja de Agua](https://linktr.ee/cajadeagua)
 - [Canuckz NFT](https://canuckz-nft.io)
 - [Cardabots](https://cardabots.com/)
