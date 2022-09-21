@@ -243,16 +243,16 @@ Here is an outline of the categories:
 - [Y2X](https://y2x.io/)  
 
 ### Games and Entertainment ###
-- [BITKE - FPS GAME](https://playbitke.com)
-- [Cardenia City](https://cardenia.city/)
 - [ALLIN](https://betallin.io)
 - [Bears Club](https://bearsclub.io)
+- [BITKE - FPS GAME](https://playbitke.com)
 - [BingoToken](https://bingochain.io)
 - [BlockchainGames](https://www.blockchaingames.company/)
 - [Cardania](https://cardania.com/)
 - [Cardano Warriors](https://www.cardanowarriors.io/)
 - [Cardacity](https://carda.city)
 - [CardanoTales](https://cardanotales.com)
+- [Cardenia City](https://cardenia.city/)
 - [Carnivilla](https://carnivilla.com/)
 - [Cicada Tactics: Multiplayer Tactical RPG](https://cicadatactics.com)
 - [CryptoBisons](https://twitter.com/CryptoBisons)
