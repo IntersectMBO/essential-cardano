@@ -50,7 +50,6 @@ Here is an outline of the categories:
 - [Ergo](https://ergoplatform.org/en/)
 - [Charli3](https://charli3.io/)
 - [nut.link](https://nut.link/)
-- [PIGY](https://oracle.pigytoken.com/)
 - [WolframAlpha](https://www.wolframalpha.com/)
 
 ## Enterprise & Business Ecosystem ##
