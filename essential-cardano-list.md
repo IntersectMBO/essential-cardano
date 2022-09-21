@@ -779,6 +779,7 @@ Tools to help you build on Cardano:
 - [Emurgo Cardano Serialization Library](https://github.com/Emurgo/cardano-serialization-lib)
 - [Dandelion](https://gimbalabs.com/gimbalgrid/9)
 - [Ogmios](https://ogmios.dev/)
+- [Koios](https://koios.rest/)
 - [Transaction Metadata Browser](https://bi.stakepoolcentral.com/transactiondata)
 - [Cardano Assets](https://cardanoassets.com)
 - [Cardano Token Tool](https://tokentool.io/)
