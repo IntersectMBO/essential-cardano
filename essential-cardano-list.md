@@ -102,7 +102,7 @@ Here is an outline of the categories:
 - [PayWay Ethiopia](https://payway.et/)
 - [Platform Africa](https://twitter.com/platformngo)
 - [PWC](https://www.pwc.com/)
-- [QuiviQ](http://quviq.com/)
+- [QuviQ](http://quviq.com/)
 - [Runtime Verification](https://runtimeverification.com/)
 - [Save the Children](https://www.savethechildren.org/)
 - [Scalac](https://scalac.io/)
