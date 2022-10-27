@@ -218,6 +218,7 @@ Here is an outline of the categories:
 - [Tosi Drop](https://tosidrop.io/)
 
 ## Payments and Lending ##
+- [Adadao](https://adadao.org)
 - [ADAlend](https://adalend.finance/)
 - [AdaPay](https://adapay.finance/)
 - [Coti](https://coti.io)
@@ -230,7 +231,6 @@ Here is an outline of the categories:
 - [Sirin Labs](https://sirinlabs.com/)
 - [WooCommerce](https://woocommerce.com/)
 - [NMKR Pay](https://www.nmkr.io/pay)
-- [Adadao](https://adadao.org)
 
 ### Incubators and Funding ###
 - [C-fund](https://cfund.vc/)
