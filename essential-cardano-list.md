@@ -215,6 +215,7 @@ Here is an outline of the categories:
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
 - [Trading Tent](https://www.tradingtent.io/)
+- [Tosi Drop](https://tosidrop.io/)
 
 ## Payments and Lending ##
 - [ADAlend](https://adalend.finance/)
