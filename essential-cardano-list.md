@@ -229,6 +229,7 @@ Here is an outline of the categories:
 - [Sirin Labs](https://sirinlabs.com/)
 - [WooCommerce](https://woocommerce.com/)
 - [NMKR Pay](https://www.nmkr.io/pay)
+- [Adadao](https://adadao.org)
 
 ### Incubators and Funding ###
 - [C-fund](https://cfund.vc/)
