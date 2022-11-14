@@ -28,6 +28,7 @@ Here is an outline of the categories:
 - [Programming Languages](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#programming-languages)
 - [Developer Resources](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#developer-resources)
 - [Native Tokens](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#native-tokens)
+- [Stablecoins](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#stablecoins)
 - [Wallets](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#wallets)
 - [Metadata](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#metadata)
 - [Ada Calculators](https://github.com/input-output-hk/essential-cardano/blob/main/essential-cardano-list.md#ada-calculators)
@@ -363,6 +364,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Native tokens explainer](https://docs.cardano.org/native-tokens/learn)
 - [Native tokens explainer video](https://www.youtube.com/watch?v=PVqsCXh-V5Y)
 - [Minting NFTs explainer](https://developers.cardano.org/docs/native-tokens/minting-nfts)
+
+### Stablecoins ###
+- [Mehen - USDM](https://mehen.io)
 
 ## Wallets ##
 - [Adalite](https://adalite.io/)
