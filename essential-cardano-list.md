@@ -892,6 +892,7 @@ Tools to help you build on Cardano:
 - [Ada Miners](https://www.adaminers.io/)
 - [Adamobile](https://t.co/F43SthHREO?amp=1)
 - [ADA-Monsterz](https://adamonsterz.com)
+- [ADA-NinjaZ](https://adaninjaz.com)
 - [Ada Plates](https://adaplates.com/)
 - [Ada Slimes](https://adaslimes.com/)
 - [adasso.art](https://adasso.art/)
