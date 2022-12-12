@@ -385,7 +385,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [NamiWallet](https://namiwallet.io/)
 - [NuFi](https://nu.fi/)
 - [Revolut](https://www.revolut.com/)
-- [Revuto](https://www.crypto.revuto.com)
+- [Revuto](https://revuto.com/)
 - [Simple Hold](https://simplehold.io/)
 - [Tangem](https://tangem.com/apps/)
 - [Trezor](https://trezor.io/)
