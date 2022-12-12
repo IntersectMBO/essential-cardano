@@ -345,6 +345,17 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Plutus Pioneer Program on Github](https://github.com/input-output-hk/plutus-pioneer-program)
 - [Alonzo testnet walkthrough materials](https://plutus-pioneer-program.readthedocs.io/en/latest/alonzo.html)
 
+### PureScript
+
+- [PureScript](https://www.purescript.org/)
+
+#### Cardano PureScript Ecosystem
+
+- [Cardano Transaction Library](https://github.com/Plutonomicon/cardano-transaction-lib/)
+- [dApp-Wallet Web Bridge (CIP-30) implementation](https://github.com/mlabs-haskell/purescript-cip30/)
+- [Cardano Serialization Library bindings](https://github.com/mlabs-haskell/purescript-cardano-serialization-lib)
+
+
 #### Glow ####
 - [Glow offical website](https://glow-lang.org/)
 - [Glow official docs](https://glow-lang.org/docs/)
