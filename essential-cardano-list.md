@@ -150,6 +150,7 @@ Here is an outline of the categories:
 - [KubeCoin](https://kubecoin.org/)
 - [MELD](https://meld.com/)
 - [Optim Finance](https://optim.finance/)
+- [Shareslake](https://www.shareslake.com/)
 - [Venus](https://venus.io/)
 - [VyFinance](https://vyfi.io/)
 - [Wave](https://wavegp.com/)
