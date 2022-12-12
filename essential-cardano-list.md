@@ -153,6 +153,7 @@ Here is an outline of the categories:
 - [VyFinance](https://vyfi.io/)
 - [Wave](https://wavegp.com/)
 - [Cardashift](https://cardashift.com/)
+- [B58 Finance](https://b58.finance/)
 
 ### Governments ###
 - [Ethiopia](https://pmo.gov.et/)
@@ -368,7 +369,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Adalite](https://adalite.io/)
 - [Adaly Wallet](https://t.co/YbshCCU13n?amp=1)
 - [Atomic wallet](https://atomicwallet.io/)
-- [B58 Finance](https://b58.finance/)
+- [Begin Wallet](https://begin.is/)
 - [Byron Wallet](https://byron.network/)
 - [CardWallet](https://cardwallet.fi/)
 - [Coin Wallet](https://coin.space/)
