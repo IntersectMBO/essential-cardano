@@ -244,6 +244,7 @@ Here is an outline of the categories:
 - [Defipronto](https://defipronto.com/)
 - [Dlab](https://dlab.vc/)
 - [Project Catalyst](https://cardano.ideascale.com/a/index)
+- [Teiki](https://teiki.network/)
 - Treasury Wave
 - [Y2X](https://y2x.io/)  
 
