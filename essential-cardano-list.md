@@ -132,6 +132,7 @@ Here is an outline of the categories:
 - [Scantrust](https://www.scantrust.com/) 
 
 ### DeFi and Capital Markets ###
+- [Foreon Network](https://foreon.network/)
 - [Aada Finance](https://aada.finance/)
 - [ADAX](https://adax.pro/)
 - [Ada Finance](https://adafinance.io/)
