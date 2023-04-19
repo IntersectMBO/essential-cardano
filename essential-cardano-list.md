@@ -363,8 +363,9 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Glow official docs](https://glow-lang.org/docs/)
 - [Glow tutorial](https://testnets.cardano.org/en/programming-languages/glow/getting-started/glow-tutorial/)
 
-#### Imperator ####
-- [ImperatorLang official repository](https://github.com/ImperatorLang/imperator)
+#### Python ####
+- [Eopsin official repository](https://github.com/ImperatorLang/eopsin)
+- [Hebi official repository](https://github.com/ImperatorLang/hebi)
 
 ### Developer Resources ###
 - [Cardano testnet](https://testnets.cardano.org/en/testnets/cardano/overview/)
