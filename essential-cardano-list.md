@@ -167,6 +167,7 @@ Here is an outline of the categories:
 - [IOHK Atala Prism](https://www.atalaprism.io/)
 - [IAMX](https://iamx.id/)
 - [Blockademia](https://blockademia.com/)
+- [Pet Registry](https://petregistry.io/)
 
 ### Exchanges ###
 - [Binance](https://www.binance.com/en)
