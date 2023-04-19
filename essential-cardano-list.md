@@ -499,7 +499,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Milkomeda](http://milkomeda.com)
 
 ### Abuse Detection & Prevention ###
-- [haltscam](https://haltscam.com/)
+- [Profiler](https://profiler.biz/)
 - [Cardano Phishing Bot](https://twitter.com/CardanoPhishing)
 
 ## Project Catalyst Startups ##
@@ -791,6 +791,7 @@ Here is our essential list of Cardano resources.
 - [HAZELnet Community Integration](https://www.hazelnet.io)
 - [RoundTable - multi-signature wallet](https://roundtable.theadao.io)
 - [Cardano explorer](https://cexplorer.io/)
+- [Profiler](https://profiler.biz/)
 
 ### Builder Tools ###
 Tools to help you build on Cardano:
