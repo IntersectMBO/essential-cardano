@@ -793,6 +793,8 @@ Here is our essential list of Cardano resources.
 - [HAZELnet Community Integration](https://www.hazelnet.io)
 - [RoundTable - multi-signature wallet](https://roundtable.theadao.io)
 - [Cardano explorer](https://cexplorer.io/)
+- [Cardano explorer (3xpl.com)](https://3xpl.com/cardano)
+- [Cardano explorer (blockchair.com)](https://blockchair.com/cardano)
 - [Profiler](https://profiler.biz/)
 
 ### Builder Tools ###
