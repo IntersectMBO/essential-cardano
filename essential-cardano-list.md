@@ -82,7 +82,7 @@ Here is an outline of the categories:
 - [Chaptr](https://chaptrglobal.com/)
 - [Cross](https://crossbm.com/)
 - [dcSpark](https://dcspark.io/)
-- Dquadrant
+- [Dquadrant](https://dquadrant.com/)
 - [Eleks](https://eleks.com/)
 - [Five Binaries](https://fivebinaries.com/)
 - [Iagon](https://www.iagon.com/)
