@@ -478,6 +478,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - [Dandelion](https://gimbalabs.com/gimbalgrid/9)
 - [NMKR Studio](https://www.nmkr.io/studio)
 - [NOWNodes - free API key](http://bit.do/nownodes-cardano)
+- [Chain49](https://chain49.com/)
 
 ### Audits ###
 - [Quantstamp](https://quantstamp.com/)
