@@ -1029,6 +1029,7 @@ Tools to help you build on Cardano:
 - [Fluidy3 Art](https://fluidy3.art/)
 - [Fort Gotten](https://www.fort-gotten.com/)
 - [Fractalz Rare Crystals](https://www.santoelectronics.com/crystals)
+- [Fuzzy Fellas](https://fuzzyfellas.io/)
 - [Galaxy of Art](https://www.galaxyof.art/)
 - [Garlic Soul Art](https://t.co/As2RkGvtrD?amp=1)
 - [Genesis Auction House](https://genesishouse.io)
