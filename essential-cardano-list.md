@@ -877,6 +877,7 @@ Tools to help you build on Cardano:
 - [BeerHouse](https://beerhouse.io)
 - [Cardano Ecosystem](https://ecosystem.cardanofeed.com/)
 - [Cardano Deep Dive in plain English, Swahili, & Spanish](https://www.lidonation.com/insights)
+- [Realfi.info - Portfolio tracker & data API](https://realfi.info)
 
 ### 🧑‍🏫 Community Training 🧑‍🏫 ###
 - [Lovelace academy](https://lovelace.academy/)
