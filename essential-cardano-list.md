@@ -486,6 +486,7 @@ These materials have been produced by the Plutus Pioneer course participants:
 - Nagra
 
 ### Security Research & Tooling ###
+- [Aikido](https://github.com/Bajuzjefe/Aikido-Security-Analysis-Platform) - Static security analyzer for Aiken smart contracts with 75 vulnerability detectors and CWC classification
 - [Hachi](https://hachi.one/)
 
 ### Ouroboros Consensus ###
