@@ -227,6 +227,7 @@ Here is an outline of the categories:
 - [ADAlend](https://adalend.finance/)
 - [AdaPay](https://adapay.finance/)
 - [Coti](https://coti.io)
+- [Dotare](https://www.dotare.io/)
 - [LiqwidX](https://www.liqwidx.org/)
 - [Metaps+](https://metaps.com/)
 - [Paribus](https://paribus.io/)
