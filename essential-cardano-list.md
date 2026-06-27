@@ -216,6 +216,7 @@ Here is an outline of the categories:
 - [Ada Blobs](https://adablobs.io/)
 - [Atomic Swap](https://atomic-swap.io/)
 - [Cardahub](https://cardahub.io/home)
+- [CardanoScope](https://cardanoscope.com/)
 - [CNFTSwap](https://cnftswap.me/)
 - [DripDropz](https://dripdropz.io/)
 - [Martify](https://martify.io/)
